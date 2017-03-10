@@ -4,3 +4,5 @@ gem "jekyll"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem "html-proofer"
+gem 'tzinfo-data'
+gem 'tzinfo'
