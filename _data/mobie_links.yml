@@ -1,0 +1,301 @@
+- section: public
+  categories:
+  - category: 购物
+    links:
+    - name: 京东
+      style: basic
+      url: http://www.jd.com/
+
+    - name: 天猫
+      style: basic
+      url: http://www.tmall.com/
+
+    - name: 淘宝
+      style: basic
+      url: http://www.taobao.com/
+
+    - name: 亚马逊
+      icon: amazon yellow
+      style: basic
+      url: http://www.amazon.cn/
+
+    - name: 一号店
+      style: basic
+      url: http://www.yhd.com/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    - name: 网易严选
+      style: basic
+      url: http://you.163.com/
+
+  - category: 工具
+    links:
+
+    - name: '12306'
+      style: basic
+      url: http://www.12306.cn/
+
+    - name: 百度地图
+      icon: marker red
+      style: basic
+      url: http://map.baidu.com/
+
+    - name: 大众点评
+      style: basic
+      url: http://www.dianping.com/beijing
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: http://mail.qq.com/
+
+    - name: 网易邮箱
+      style: basic
+      url: http://email.163.com/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: http://mail.google.com
+
+    - name: 有道翻译
+      style: basic
+      url: http://fanyi.youdao.com/
+
+    - name: 快递查询
+      style: basic
+      url: http://www.kuaidi100.com/
+
+  - category: 社交
+    links:
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: http://weibo.com/
+
+    - name: 微信网页版
+      icon: wechat green
+      style: basic
+      url: http://wx.qq.com/
+
+    - name: 百度贴吧
+      icon: paw blue
+      style: basic
+      url: http://tieba.baidu.com/
+
+    - name: 知乎
+      style: basic
+      url: http://www.zhihu.com/
+
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: http://www.quora.com
+
+    - name: Facebook
+      icon: facebook blue
+      style: basic
+      url: http://www.facebook.com/
+
+    - name: Google+
+      icon: google plus red
+      style: basic
+      url: https://plus.google.com/
+
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: http://www.tumblr.com/
+
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: http://www.instagram.com
+
+  - category: 学习
+    links:
+    - name: CSDN
+      style: basic
+      url: http://www.csdn.net/
+
+    - name: W3School
+      style: basic
+      url: http://www.w3school.com.cn/
+
+    - name: Stack Overflow
+      icon: stack overflow orange
+      style: basic
+      url: http://stackoverflow.com/
+
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: http://github.com/
+
+    - name: V2EX
+      style: basic
+      url: http://www.v2ex.com/
+
+    - name: SegmentFault
+      style: basic
+      url: http://segmentfault.com/
+
+    - name: 掘金
+      style: basic
+      url: http://gold.xitu.io/
+
+    - name: 网易公开课
+      style: basic
+      url: http://open.163.com/
+
+  - category: 求职
+    links:
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: http://www.linkedin.com/
+
+    - name: 大街网
+      style: basic
+      url: http://www.dajie.com/
+
+    - name: 拉勾网
+      style: basic
+      url: http://www.lagou.com/
+
+    - name: 智联招聘
+      style: basic
+      url: http://zhaopin.com/
+
+    - name: 前程无忧
+      style: basic
+      url: http://www.51job.com/
+
+    - name: 应届生
+      style: basic
+      url: http://www.yingjiesheng.com/
+
+  - category: 娱乐
+    links:
+    - name: 优酷
+      style: basic
+      url: http://www.youku.com/
+
+    - name: 土豆
+      style: basic
+      url: http://www.tudou.com/
+
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: http://www.youtube.com/
+
+    - name: 爱奇艺
+      style: basic
+      url: http://www.iqiyi.com/
+
+    - name: 芒果TV
+      style: basic
+      url: http://www.mgtv.com/
+
+    - name: 哔哩哔哩
+      style: basic
+      url: http://www.bilibili.com/
+
+    - name: AcFun
+      style: basic
+      url: http://www.acfun.tv/
+
+    - name: 吐槽
+      style: basic
+      url: http://www.tucao.tv/
+
+    - name: 多瑙影院
+      style: basic
+      url: http://www.dnvod.eu/
+
+    - name: 虾米
+      style: basic
+      url: http://www.xiami.com/
+
+    - name: 热歌榜
+      style: basic
+      url: http://music.163.com/#/playlist?id=3778678
+
+- section: byr
+  categories:
+  - category: 进步英语推荐
+    links:
+    - name: VOA
+      style: basic
+      url: http://www.51voa.com/
+
+    - name: 可可
+      style: basic
+      url: http://www.kekenet.com/
+
+    - name: Globaltimes
+      style: basic
+      url: http://www.globaltimes.cn/
+
+    - name: 爱思
+      style: basic
+      url: http://www.24en.com/
+
+    - name: 泸江
+      style: basic
+      url: http://www.hjenglish.com/
+
+    - name: 大耳朵
+      style: basic
+      url: http://www.ebigear.com/
+
+    - name: 大耳朵
+      style: basic
+      url: http://www.ebigear.com/
+
+    - name: 大耳朵
+      style: basic
+      url: http://www.ebigear.com/
+
+    - name: CNN
+      style: basic
+      url: http://edition.cnn.com/ASIA/
+
+    - name: 今日美国
+      style: basic
+      url: http://www.usatoday.com/
+
+  - category: 进步英语推荐APP
+    links:
+    - name: 扇贝
+      style: basic
+      url: http://www.shanbay.com/
+
+    - name: Duolingo
+      style: basic
+      url: http://duolingo.com/
+
+    - name: 英语流利说
+      style: basic
+      url: http://www.liulishuo.com/
+
+    - name: 网易有道词典
+      style: basic
+      url: http://dict.youdao.com
+
+    - name: 金山词霸
+      style: basic
+      url: http://www.iciba.com/
+
+    - name: 百词斩
+      style: basic
+      url: http://www.baicizhan.com/
+
+
+
+  - category: 儿童教育
+    links:
