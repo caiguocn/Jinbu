@@ -13,7 +13,7 @@
     {% if page.analytics %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-analytics.css' | relative_url }}">{% endif %}
     {% if page.donate %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-donate.css' | relative_url }}">{% endif %}
     {% if page.error %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-error.css' | relative_url }}">{% endif %}
-    {% if page.mobie %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-home.css' | relative_url }}">{% endif %}
+    {% if page.mobie %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-mobie.css' | relative_url }}">{% endif %}
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-masthead.css' | relative_url }}">
     <link rel="apple-touch-icon" type="image/png" href="{{ '/apple-touch-icon.png' | relative_url }}">
     <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
@@ -29,7 +29,7 @@
             {% if page.analytics %}{% include analytics_header.html %}{% endif %}
             {% if page.donate %}{% include donate_header.html %}{% endif %}
             {% if page.error %}{% include error_header.html %}{% endif %}
-            
+
         </div>
         {{ content }}
         {% include footer.html %}
