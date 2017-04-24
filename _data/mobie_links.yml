@@ -1,75 +1,74 @@
 - section: public
   categories:
-  - category: 购物
+  - category: Android
     links:
-    - name: 京东
+    - name: Google developers
       style: basic
-      url: http://www.jd.com/
+      url: https://developers.google.com/
 
-    - name: 天猫
+    - name: Android
       style: basic
-      url: http://www.tmall.com/
+      url: https://developer.android.com/index.html
 
-    - name: 淘宝
+    - name:  Google Play
       style: basic
-      url: http://www.taobao.com/
+      url:  https://play.google.com/store
 
-    - name: 亚马逊
-      icon: amazon yellow
+    - name:  Android studio
       style: basic
-      url: http://www.amazon.cn/
+      url:   http://www.android-studio.org/
 
-    - name: 一号店
+    - name:  segmentfault android
       style: basic
-      url: http://www.yhd.com/
+      url:   https://segmentfault.com/t/android
 
-    - name: 当当
+    - name:
       style: basic
-      url: http://www.dangdang.com/
+      url:
 
-    - name: 网易严选
+    - name:  开源中国android
       style: basic
-      url: http://you.163.com/
+      url: https://www.oschina.net/android
 
-  - category: 工具
+  - category: Cocos2d
     links:
 
-    - name: '12306'
+    - name:
       style: basic
-      url: http://www.12306.cn/
+      url:
 
-    - name: 百度地图
+    - name:
       icon: marker red
       style: basic
-      url: http://map.baidu.com/
+      url:
 
-    - name: 大众点评
+    - name:
       style: basic
-      url: http://www.dianping.com/beijing
+      url:
 
-    - name: QQ邮箱
+    - name:
       icon: qq black
       style: basic
-      url: http://mail.qq.com/
+      url:
 
-    - name: 网易邮箱
+    - name:
       style: basic
-      url: http://email.163.com/
+      url:
 
-    - name: Gmail
+    - name:
       icon: google red
       style: basic
-      url: http://mail.google.com
+      url:
 
-    - name: 有道翻译
+    - name:
       style: basic
-      url: http://fanyi.youdao.com/
+      url:
 
-    - name: 快递查询
+    - name:
       style: basic
-      url: http://www.kuaidi100.com/
+      url:
 
-  - category: 社交
+  - category: Unity
     links:
     - name: 微博
       icon: weibo red
@@ -115,7 +114,7 @@
       style: basic
       url: http://www.instagram.com
 
-  - category: 学习
+  - category: 资讯
     links:
     - name: CSDN
       style: basic
@@ -151,7 +150,7 @@
       style: basic
       url: http://open.163.com/
 
-  - category: 求职
+  - category: 培训
     links:
     - name: LinkedIn
       icon: linkedin blue
@@ -178,7 +177,7 @@
       style: basic
       url: http://www.yingjiesheng.com/
 
-  - category: 娱乐
+  - category: 博客
     links:
     - name: 优酷
       style: basic
