@@ -8,8 +8,8 @@
 [![Closed Issues](https://img.shields.io/github/issues-closed/iROCKBUNNY/BYR-Navi.svg)](https://github.com/iROCKBUNNY/BYR-Navi/issues)
 [![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/iROCKBUNNY/BYR-Navi.svg)](https://github.com/iROCKBUNNY/BYR-Navi/pulls)
 
-# [BYR-Navi](http://byr123.irockbunny.com/)
-A Navigation Website for BYR
+# [BYR-Navi](http://www.ejinbu.com/)
+学习导航网站
 
 ###### Powered by
 * [Semantic UI](http://semantic-ui.com/)
