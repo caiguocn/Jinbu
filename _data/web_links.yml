@@ -57,9 +57,9 @@
       style: basic
       url:  https://www.appannie.com/dashboard/home/
 
-    - name:
+    - name:  站长工具
       style: basic
-      url:
+      url:   http://tool.chinaz.com/
 
     - name:
       style: basic
@@ -84,12 +84,10 @@
       url: http://lusongsong.com/
 
     - name: 顾小北
-      icon: quora red
       style: basic
       url: http://www.guxiaobei.com/
 
     - name: caoz
-      icon: facebook blue
       style: basic
       url: https://seofangfa.com/caoz/
 
@@ -115,32 +113,41 @@
 
     - name: 云风
       style: basic
-      url: http://blog.codingnow.com/      
-
-  - category: 资讯
-    links:
-    - name: 云风
-      style: basic
       url: http://blog.codingnow.com/
 
+  - category: 论坛
+    links:
+    - name: 看雪学院
+      style: basic
+      url: http://www.pediy.com/
 
+    - name: 看雪论坛
+      style: basic
+      url: http://bbs.pediy.com/
 
-  - category: 培训
+  - category: 广告
     links:
     - name: LinkedIn
-      icon: linkedin blue
       style: basic
       url: http://www.linkedin.com/
 
 
 
-  - category: 博客
+  - category: 电商
     links:
-    - name: 优酷
+    - name: Wish
       style: basic
-      url: http://www.youku.com/
+      url: https://china-merchant.wish.com
 
+    - name: 1688.com
+      style: basic
+      url: https://www.1688.com/
 
+    - name: amazon
+      style: basic
+      url: https://www.amazon.com/
+
+      
 
 - section: byr
   categories:
