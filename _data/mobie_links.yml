@@ -18,55 +18,31 @@
       style: basic
       url:   http://www.android-studio.org/
 
-    - name:  segmentfault android
+    - name:  Segmentfault android
       style: basic
       url:   https://segmentfault.com/t/android
 
-    - name:
+    - name:  xda
       style: basic
-      url:
+      url:   https://www.xda-developers.com/
 
     - name:  开源中国android
       style: basic
-      url: https://www.oschina.net/android
+      url:   https://www.oschina.net/android
+
 
   - category: Cocos2d
     links:
 
-    - name:
+    - name:  cocos
       style: basic
-      url:
+      url:   http://www.cocos.com/category/blog
 
-    - name:
-      icon: marker red
+    - name:  cocos论坛
       style: basic
-      url:
+      url:   http://forum.cocos.com/
 
-    - name:
-      style: basic
-      url:
 
-    - name:
-      icon: qq black
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      icon: google red
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
 
   - category: Unity
     links:
