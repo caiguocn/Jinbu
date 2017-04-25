@@ -30,6 +30,11 @@
       style: basic
       url:   http://www.google.cn/intl/zh-CN_ALL/analytics/index.html
 
+    - name:  OS China
+      style: basic
+      url:   https://www.oschina.net/
+
+
   - category: 工具
     links:
 
@@ -61,9 +66,9 @@
       style: basic
       url:   http://tool.chinaz.com/
 
-    - name:
+    - name:  西部
       style: basic
-      url:
+      url:   http://www.west.cn/
 
   - category: 博客
     links:
@@ -125,6 +130,11 @@
       style: basic
       url: http://bbs.pediy.com/
 
+    - name: blackhatworld
+      style: basic
+      url: https://www.blackhatworld.com/forums/
+
+
   - category: 广告
     links:
     - name: LinkedIn
@@ -147,27 +157,56 @@
       style: basic
       url: https://www.amazon.com/
 
-      
+    - name: 店小秘
+      style: basic
+      url: http://www.dianxiaomi.com/home.htm
 
-- section: byr
+    - name: 导航
+      style: basic
+      url: http://dig.tools/kj
+
+
+- section: 技术学习
   categories:
-  - category: 进步英语推荐
+  - category: 前端
     links:
-    - name: VOA
+    - name: JavaScript极客
       style: basic
-      url: http://www.51voa.com/
+      url: http://wiki.jikexueyuan.com/list/javascript/
 
-
-
-  - category: 进步英语推荐APP
-    links:
-    - name: 扇贝
+    - name: JS python廖雪峰
       style: basic
-      url: http://www.shanbay.com/
+      url: http://www.liaoxuefeng.com/
+
+    - name: W3C
+      style: basic
+      url: http://www.w3cschool.cn/
+
+    - name: W3C 菜鸟
+      style: basic
+      url: http://www.runoob.com/
+
+    - name: W3C在线
+      style: basic
+      url: http://www.w3school.com.cn/
+
+    - name: 在线工具
+      style: basic
+      url: http://tool.lu/
 
 
-
-
-
-  - category: 儿童教育
+  - category: 后端
     links:
+    - name: Java极客
+      style: basic
+      url: http://wiki.jikexueyuan.com/list/java/
+
+
+
+
+
+  - category: 知乎
+    links:
+    - name: 道
+      style: basic
+      url: https://www.zhihu.com/people/aullik5/answers
