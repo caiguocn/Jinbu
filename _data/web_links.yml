@@ -166,6 +166,11 @@
       style: basic
       url: http://www.jfinal.com/
 
+    - name: hacpai
+      style: basic
+      url: https://hacpai.com/
+
+
   - category: 广告
     links:
     - name: LinkedIn
