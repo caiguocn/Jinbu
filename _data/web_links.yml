@@ -158,6 +158,14 @@
       style: basic
       url: https://yq.aliyun.com/
 
+    - name: bugly
+      style: basic
+      url: http://bugly.qq.com/bbs/forum.php
+
+    - name: jfinal
+      style: basic
+      url: http://www.jfinal.com/
+
   - category: 广告
     links:
     - name: LinkedIn
@@ -229,7 +237,87 @@
       url: https://mp.weixin.qq.com/debug/wxadoc/dev/api/
 
 
+- category: 社交
+  links:
+  - name: 微博
+    icon: weibo red
+    style: basic
+    url: http://weibo.com/
 
+  - name: 微信网页版
+    icon: wechat green
+    style: basic
+    url: http://wx.qq.com/
+
+  - name: 百度贴吧
+    icon: paw blue
+    style: basic
+    url: http://tieba.baidu.com/
+
+  - name: 知乎
+    style: basic
+    url: http://www.zhihu.com/
+
+  - name: Quora
+    icon: quora red
+    style: basic
+    url: http://www.quora.com
+
+  - name: Facebook
+    icon: facebook blue
+    style: basic
+    url: http://www.facebook.com/
+
+  - name: Google+
+    icon: google plus red
+    style: basic
+    url: https://plus.google.com/
+
+  - name: Tumblr
+    icon: tumblr blue
+    style: basic
+    url: http://www.tumblr.com/
+
+  - name: Instagram
+    icon: instagram pink
+    style: basic
+    url: http://www.instagram.com
+
+- category: 学习
+  links:
+  - name: CSDN
+    style: basic
+    url: http://www.csdn.net/
+
+  - name: W3School
+    style: basic
+    url: http://www.w3school.com.cn/
+
+  - name: Stack Overflow
+    icon: stack overflow orange
+    style: basic
+    url: http://stackoverflow.com/
+
+  - name: GitHub
+    icon: github black
+    style: basic
+    url: http://github.com/
+
+  - name: V2EX
+    style: basic
+    url: http://www.v2ex.com/
+
+  - name: SegmentFault
+    style: basic
+    url: http://segmentfault.com/
+
+  - name: 掘金
+    style: basic
+    url: http://gold.xitu.io/
+
+  - name: 网易公开课
+    style: basic
+    url: http://open.163.com/
 
   - category: 知乎
     links:
@@ -330,3 +418,7 @@
   - name: 傅盛
     style: basic
     url: http://fusheng.baijia.baidu.com/
+
+  - name: T型学院
+    style: basic
+    url: https://aissues.com/
