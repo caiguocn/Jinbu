@@ -42,7 +42,6 @@
 
   - category: 工具
     links:
-
     - name: Stack overflow
       style: basic
       url:  http://stackoverflow.com/
@@ -111,7 +110,6 @@
 
   - category: Cocos2d
     links:
-
     - name:  cocos
       style: basic
       url:   http://www.cocos.com/category/blog
@@ -242,87 +240,87 @@
       url: https://mp.weixin.qq.com/debug/wxadoc/dev/api/
 
 
-- category: 社交
-  links:
-  - name: 微博
-    icon: weibo red
-    style: basic
-    url: http://weibo.com/
+  - category: 社交
+    links:
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: http://weibo.com/
 
-  - name: 微信网页版
-    icon: wechat green
-    style: basic
-    url: http://wx.qq.com/
+    - name: 微信网页版
+      icon: wechat green
+      style: basic
+      url: http://wx.qq.com/
 
-  - name: 百度贴吧
-    icon: paw blue
-    style: basic
-    url: http://tieba.baidu.com/
+    - name: 百度贴吧
+      icon: paw blue
+      style: basic
+      url: http://tieba.baidu.com/
 
-  - name: 知乎
-    style: basic
-    url: http://www.zhihu.com/
+    - name: 知乎
+      style: basic
+      url: http://www.zhihu.com/
 
-  - name: Quora
-    icon: quora red
-    style: basic
-    url: http://www.quora.com
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: http://www.quora.com
 
-  - name: Facebook
-    icon: facebook blue
-    style: basic
-    url: http://www.facebook.com/
+    - name: Facebook
+      icon: facebook blue
+      style: basic
+      url: http://www.facebook.com/
 
-  - name: Google+
-    icon: google plus red
-    style: basic
-    url: https://plus.google.com/
+    - name: Google+
+      icon: google plus red
+      style: basic
+      url: https://plus.google.com/
 
-  - name: Tumblr
-    icon: tumblr blue
-    style: basic
-    url: http://www.tumblr.com/
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: http://www.tumblr.com/
 
-  - name: Instagram
-    icon: instagram pink
-    style: basic
-    url: http://www.instagram.com
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: http://www.instagram.com
 
-- category: 学习
-  links:
-  - name: CSDN
-    style: basic
-    url: http://www.csdn.net/
+  - category: 学习
+    links:
+    - name: CSDN
+      style: basic
+      url: http://www.csdn.net/
 
-  - name: W3School
-    style: basic
-    url: http://www.w3school.com.cn/
+    - name: W3School
+      style: basic
+      url: http://www.w3school.com.cn/
 
-  - name: Stack Overflow
-    icon: stack overflow orange
-    style: basic
-    url: http://stackoverflow.com/
+    - name: Stack Overflow
+      icon: stack overflow orange
+      style: basic
+      url: http://stackoverflow.com/
 
-  - name: GitHub
-    icon: github black
-    style: basic
-    url: http://github.com/
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: http://github.com/
 
-  - name: V2EX
-    style: basic
-    url: http://www.v2ex.com/
+    - name: V2EX
+      style: basic
+      url: http://www.v2ex.com/
 
-  - name: SegmentFault
-    style: basic
-    url: http://segmentfault.com/
+    - name: SegmentFault
+      style: basic
+      url: http://segmentfault.com/
 
-  - name: 掘金
-    style: basic
-    url: http://gold.xitu.io/
+    - name: 掘金
+      style: basic
+      url: http://gold.xitu.io/
 
-  - name: 网易公开课
-    style: basic
-    url: http://open.163.com/
+    - name: 网易公开课
+      style: basic
+      url: http://open.163.com/
 
   - category: 知乎
     links:
@@ -370,60 +368,60 @@
       style: basic
       url: http://tool.lu/
 
-- category: 博客
-  links:
-  - name: 小密圈
-    style: basic
-    url: https://wx.xiaomiquan.com/dweb/
+  - category: 博客
+    links:
+    - name: 小密圈
+      style: basic
+      url: https://wx.xiaomiquan.com/dweb/
 
-  - name: 知乎
-    style: basic
-    url: https://www.zhihu.com/
+    - name: 知乎
+      style: basic
+      url: https://www.zhihu.com/
 
-  - name: 简书
-    style: basic
-    url: http://www.jianshu.com/subscriptions#/timeline
+    - name: 简书
+      style: basic
+      url: http://www.jianshu.com/subscriptions#/timeline
 
-  - name: 卢松松
-    style: basic
-    url: http://lusongsong.com/
+    - name: 卢松松
+      style: basic
+      url: http://lusongsong.com/
 
-  - name: 顾小北
-    style: basic
-    url: http://www.guxiaobei.com/
+    - name: 顾小北
+      style: basic
+      url: http://www.guxiaobei.com/
 
-  - name: caoz
-    style: basic
-    url: https://seofangfa.com/caoz/
+    - name: caoz
+      style: basic
+      url: https://seofangfa.com/caoz/
 
-  - name: 方法
-    style: basic
-    url: https://seofangfa.com/
+    - name: 方法
+      style: basic
+      url: https://seofangfa.com/
 
-  - name: 阮一峰
-    style: basic
-    url: http://www.ruanyifeng.com/blog/archives.html
+    - name: 阮一峰
+      style: basic
+      url: http://www.ruanyifeng.com/blog/archives.html
 
-  - name: 设计导航
-    style: basic
-    url: http://idesign.qq.com/#!index/feed
+    - name: 设计导航
+      style: basic
+      url: http://idesign.qq.com/#!index/feed
 
-  - name: 36KR
-    style: basic
-    url: http://36kr.com/
+    - name: 36KR
+      style: basic
+      url: http://36kr.com/
 
-  - name: 博客大全
-    style: basic
-    url: http://daohang.lusongsong.com/
+    - name: 博客大全
+      style: basic
+      url: http://daohang.lusongsong.com/
 
-  - name: 云风
-    style: basic
-    url: http://blog.codingnow.com/
+    - name: 云风
+      style: basic
+      url: http://blog.codingnow.com/
 
-  - name: 傅盛
-    style: basic
-    url: http://fusheng.baijia.baidu.com/
+    - name: 傅盛
+      style: basic
+      url: http://fusheng.baijia.baidu.com/
 
-  - name: T型学院
-    style: basic
-    url: https://aissues.com/
+    - name: T型学院
+      style: basic
+      url: https://aissues.com/
