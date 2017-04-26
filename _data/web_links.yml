@@ -14,6 +14,11 @@
       style: basic
       url:  https://play.google.com/store
 
+    - name:  Googleblog
+      style: basic
+      url:  https://android-developers.googleblog.com/
+
+
     - name:  清博
       style: basic
       url:   http://www.gsdata.cn/
@@ -70,55 +75,70 @@
       style: basic
       url:   http://www.west.cn/
 
-  - category: 博客
+    - name:  阿里云
+      style: basic
+      url:   https://www.aliyun.com/
+
+  - category: Android
     links:
-    - name: 小密圈
+    - name: Google developers
       style: basic
-      url: https://wx.xiaomiquan.com/dweb/
+      url: https://developers.google.com/
 
-    - name: 知乎
+    - name: Android
       style: basic
-      url: https://www.zhihu.com/
+      url: https://developer.android.com/index.html
 
-    - name: 简书
+    - name:  Google Play
       style: basic
-      url: http://www.jianshu.com/subscriptions#/timeline
+      url:  https://play.google.com/store
 
-    - name: 卢松松
+    - name:  Android studio
       style: basic
-      url: http://lusongsong.com/
+      url:   http://www.android-studio.org/
 
-    - name: 顾小北
+    - name:  Segmentfault android
       style: basic
-      url: http://www.guxiaobei.com/
+      url:   https://segmentfault.com/t/android
 
-    - name: caoz
+    - name:  xda
       style: basic
-      url: https://seofangfa.com/caoz/
+      url:   https://www.xda-developers.com/
 
-    - name: 方法
+    - name:  开源中国android
       style: basic
-      url: https://seofangfa.com/
+      url:   https://www.oschina.net/android
 
-    - name: 阮一峰
-      style: basic
-      url: http://www.ruanyifeng.com/blog/archives.html
+  - category: Cocos2d
+    links:
 
-    - name: 设计导航
+    - name:  cocos
       style: basic
-      url: http://idesign.qq.com/#!index/feed
+      url:   http://www.cocos.com/category/blog
 
-    - name: 36KR
+    - name:  cocos论坛
       style: basic
-      url: http://36kr.com/
+      url:   http://forum.cocos.com/
 
-    - name: 博客大全
-      style: basic
-      url: http://daohang.lusongsong.com/
 
-    - name: 云风
+
+  - category: Unity
+    links:
+    - name: unity3d learn
       style: basic
-      url: http://blog.codingnow.com/
+      url: https://unity3d.com/cn/learn
+
+    - name: Documentation
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/Manual/
+
+    - name: Script API
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/ScriptReference/index.html
+
+    - name: 蛮牛
+      style: basic
+      url: http://edu.manew.com/course/explore?fliter%5Btype%5D=all&fliter%5Bprice%5D=free&fliter%5BcurrentLevelId%5D=all&orderBy=studentNum%E2%80%9D
 
   - category: 论坛
     links:
@@ -134,6 +154,9 @@
       style: basic
       url: https://www.blackhatworld.com/forums/
 
+    - name: 阿里云栖
+      style: basic
+      url: https://yq.aliyun.com/
 
   - category: 广告
     links:
@@ -201,12 +224,109 @@
       style: basic
       url: http://wiki.jikexueyuan.com/list/java/
 
+    - name: 小程序
+      style: basic
+      url: https://mp.weixin.qq.com/debug/wxadoc/dev/api/
 
 
 
 
   - category: 知乎
     links:
-    - name: 道
+    - name: 道(吴翰清)
       style: basic
       url: https://www.zhihu.com/people/aullik5/answers
+
+    - name: 道(吴翰清)
+      style: basic
+      url: http://www1.taosay.net/
+
+    - name: 余峰
+      style: basic
+      url: https://www.zhihu.com/people/baryeah/answers
+
+    - name: Feng
+      style: basic
+      url: https://www.zhihu.com/people/fenng/answers
+
+    - name: 许朝军
+      style: basic
+      url: https://www.zhihu.com/people/xu-zhao-jun/answers
+
+    - name: 汪华
+      style: basic
+      url: https://www.zhihu.com/people/wang-hua/answers
+
+    - name: 在线工具
+      style: basic
+      url: http://tool.lu/
+
+    - name: 在线工具
+      style: basic
+      url: http://tool.lu/
+
+    - name: 在线工具
+      style: basic
+      url: http://tool.lu/
+
+    - name: 在线工具
+      style: basic
+      url: http://tool.lu/
+
+    - name: 在线工具
+      style: basic
+      url: http://tool.lu/
+
+- category: 博客
+  links:
+  - name: 小密圈
+    style: basic
+    url: https://wx.xiaomiquan.com/dweb/
+
+  - name: 知乎
+    style: basic
+    url: https://www.zhihu.com/
+
+  - name: 简书
+    style: basic
+    url: http://www.jianshu.com/subscriptions#/timeline
+
+  - name: 卢松松
+    style: basic
+    url: http://lusongsong.com/
+
+  - name: 顾小北
+    style: basic
+    url: http://www.guxiaobei.com/
+
+  - name: caoz
+    style: basic
+    url: https://seofangfa.com/caoz/
+
+  - name: 方法
+    style: basic
+    url: https://seofangfa.com/
+
+  - name: 阮一峰
+    style: basic
+    url: http://www.ruanyifeng.com/blog/archives.html
+
+  - name: 设计导航
+    style: basic
+    url: http://idesign.qq.com/#!index/feed
+
+  - name: 36KR
+    style: basic
+    url: http://36kr.com/
+
+  - name: 博客大全
+    style: basic
+    url: http://daohang.lusongsong.com/
+
+  - name: 云风
+    style: basic
+    url: http://blog.codingnow.com/
+
+  - name: 傅盛
+    style: basic
+    url: http://fusheng.baijia.baidu.com/
