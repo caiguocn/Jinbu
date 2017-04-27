@@ -18,6 +18,14 @@
       style: basic
       url:  https://android-developers.googleblog.com/
 
+    - name:  nodejs
+      style: basic
+      url:  https://nodejs.org/en/
+
+    - name:  Chrome V8
+      style: basic
+      url:  https://developers.google.com/v8/
+
 
     - name:  清博
       style: basic
@@ -228,6 +236,11 @@
       style: basic
       url: http://tool.lu/
 
+    - name: jquery
+      style: basic
+      url: http://jquery.com/
+
+
 
   - category: 后端
     links:
@@ -239,6 +252,9 @@
       style: basic
       url: https://mp.weixin.qq.com/debug/wxadoc/dev/api/
 
+    - name: Developer  windows
+      style: basic
+      url: https://developer.microsoft.com/zh-cn/windows/desktop
 
   - category: 社交
     links:
