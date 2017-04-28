@@ -148,6 +148,10 @@
 
   - category: 论坛
     links:
+    - name:  GAD
+      style: basic
+      url:   http://gad.qq.com/
+
     - name: 看雪学院
       style: basic
       url: http://www.pediy.com/
