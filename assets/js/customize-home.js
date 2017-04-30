@@ -19,9 +19,9 @@ $('#page-loading-progress').progress({
 
 // GitHub
 function updateGitHub() {
-    $('#github-watch img').attr('src', 'https://img.shields.io/github/watchers/iROCKBUNNY/BYR-Navi.svg?style=social&label=Watch');
-    $('#github-star img').attr('src', 'https://img.shields.io/github/stars/iROCKBUNNY/BYR-Navi.svg?style=social&label=Star');
-    $('#github-fork img').attr('src', 'https://img.shields.io/github/forks/iROCKBUNNY/BYR-Navi.svg?style=social&label=Fork');
+    $('#github-watch img').attr('src', 'https://img.shields.io/github/watchers/ejinbu/BYR-Navi.svg?style=social&label=Watch');
+    $('#github-star img').attr('src', 'https://img.shields.io/github/stars/ejinbu/BYR-Navi.svg?style=social&label=Star');
+    $('#github-fork img').attr('src', 'https://img.shields.io/github/forks/ejinbu/BYR-Navi.svg?style=social&label=Fork');
 };
 updateGitHub();
 setInterval(function() {
@@ -31,7 +31,7 @@ setInterval(function() {
 // version
 moment.locale('zh-cn');
 var pushedAt = 'loading';
-$.getJSON('https://api.github.com/repos/iROCKBUNNY/BYR-Navi', function(data) {
+$.getJSON('https://api.github.com/repos/ejinbu/BYR-Navi', function(data) {
     pushedAt = data.pushed_at;
     $('#page-loading-progress').progress('increment');
 });
