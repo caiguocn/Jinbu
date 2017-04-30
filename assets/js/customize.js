@@ -39,7 +39,7 @@ $('.feedback')
 $('.ui.inverted.masthead.segment').addClass('bg' + Math.ceil(Math.random() * 14)).removeClass('zoomed');
 
 // var urlPrefix = 'http://localhost/BYR-Navi';
-var urlPrefix = 'http://byr123.irockbunny.com';
+var urlPrefix = 'http://byr123.ejinbu.com';
 
 // analytics
 $.getJSON(urlPrefix + '/json/analytics_data.json', function(data) {
