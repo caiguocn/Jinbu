@@ -216,6 +216,33 @@
       style: basic
       url: http://dig.tools/kj
 
+    - name: 京东
+      style: basic
+      url: http://jd.com
+
+    - name: 天猫
+      style: basic
+      url: http://tmall.com
+
+    - name: 淘宝
+      style: basic
+      url: http://taobao.com
+
+    - name: 一淘
+      style: basic
+      url: https://www.etao.com/
+
+    - name: 什么值得买
+      style: basic
+      url: http://www.smzdm.com
+
+    - name: 省钱快报
+      style: basic
+      url: http://cn.dealmoon.com/
+
+    - name: 电商网址
+      style: basic
+      url: http://hao.malllib.com/
 
 - section: 技术学习
   categories:
@@ -310,6 +337,26 @@
       icon: instagram pink
       style: basic
       url: http://www.instagram.com
+
+    - name: Twitter
+      icon: Twitter
+      style: basic
+      url: https://twitter.com/
+
+    - name: VK
+      icon: VK
+      style: basic
+      url: https://vk.com
+
+    - name: Youtube
+      icon: Youtube
+      style: basic
+      url: https://www.youtube.com/
+
+    - name: Pinterest
+      icon: Pinterest
+      style: basic
+      url: https://www.pinterest.com/
 
   - category: 学习
     links:
