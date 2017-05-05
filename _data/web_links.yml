@@ -131,6 +131,10 @@
       style: basic
       url:   http://forum.cocos.com/
 
+    - name:  weibo
+      style: basic
+      url:   http://weibo.com/cocos2dx?is_hot=1&noscale_head=1#_0
+
 
 
   - category: Unity
