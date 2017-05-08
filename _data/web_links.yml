@@ -91,6 +91,7 @@
       url:   http://123.w3cschool.cn/
 
 
+
   - category: Android
     links:
     - name: Google developers
@@ -120,6 +121,72 @@
     - name:  开源中国android
       style: basic
       url:   https://www.oschina.net/android
+
+- category: 社交
+    links:
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: http://weibo.com/
+
+    - name: 微信网页版
+      icon: wechat green
+      style: basic
+      url: http://wx.qq.com/
+
+    - name: 百度贴吧
+      icon: paw blue
+      style: basic
+      url: http://tieba.baidu.com/
+
+    - name: 知乎
+      style: basic
+      url: http://www.zhihu.com/
+
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: http://www.quora.com
+
+    - name: Facebook
+      icon: facebook blue
+      style: basic
+      url: http://www.facebook.com/
+
+    - name: Google+
+      icon: google plus red
+      style: basic
+      url: https://plus.google.com/
+
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: http://www.tumblr.com/
+
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: http://www.instagram.com
+
+    - name: Twitter
+      icon: Twitter
+      style: basic
+      url: https://twitter.com/
+
+    - name: VK
+      icon: VK
+      style: basic
+      url: https://vk.com
+
+    - name: Youtube
+      icon: Youtube
+      style: basic
+      url: https://www.youtube.com/
+
+    - name: Pinterest
+      icon: Pinterest
+      style: basic
+      url: https://www.pinterest.com/
 
   - category: Cocos2d
     links:
@@ -296,71 +363,7 @@
       style: basic
       url: https://developer.microsoft.com/zh-cn/windows/desktop
 
-  - category: 社交
-    links:
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: http://weibo.com/
 
-    - name: 微信网页版
-      icon: wechat green
-      style: basic
-      url: http://wx.qq.com/
-
-    - name: 百度贴吧
-      icon: paw blue
-      style: basic
-      url: http://tieba.baidu.com/
-
-    - name: 知乎
-      style: basic
-      url: http://www.zhihu.com/
-
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: http://www.quora.com
-
-    - name: Facebook
-      icon: facebook blue
-      style: basic
-      url: http://www.facebook.com/
-
-    - name: Google+
-      icon: google plus red
-      style: basic
-      url: https://plus.google.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: http://www.tumblr.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: http://www.instagram.com
-
-    - name: Twitter
-      icon: Twitter
-      style: basic
-      url: https://twitter.com/
-
-    - name: VK
-      icon: VK
-      style: basic
-      url: https://vk.com
-
-    - name: Youtube
-      icon: Youtube
-      style: basic
-      url: https://www.youtube.com/
-
-    - name: Pinterest
-      icon: Pinterest
-      style: basic
-      url: https://www.pinterest.com/
 
   - category: 学习
     links:
