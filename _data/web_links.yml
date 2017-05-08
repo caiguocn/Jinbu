@@ -257,14 +257,10 @@
       url: https://hacpai.com/
 
 
-  - category: 广告
-    links:
-    - name: LinkedIn
-      style: basic
-      url: http://www.linkedin.com/
 
 
-
+- section: 技术学习
+  categories:
   - category: 电商
     links:
     - name: Wish
@@ -314,9 +310,13 @@
     - name: 电商网址
       style: basic
       url: http://hao.malllib.com/
+      
+  - category: 广告
+    links:
+    - name: LinkedIn
+      style: basic
+      url: http://www.linkedin.com/
 
-- section: 技术学习
-  categories:
   - category: 前端
     links:
     - name: JavaScript极客
