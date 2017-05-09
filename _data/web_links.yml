@@ -263,6 +263,14 @@
   categories:
   - category: 电商
     links:
+    - name: TVBoX
+      style: basic
+      url: https://www.tvbox.shop
+
+    - name: Wish
+      style: basic
+      url: https://www.wish.com
+
     - name: Wish
       style: basic
       url: https://china-merchant.wish.com
@@ -307,10 +315,10 @@
       style: basic
       url: http://cn.dealmoon.com/
 
-    - name: 电商网址
+    - name: 米库电商网址
       style: basic
       url: http://hao.malllib.com/
-      
+
   - category: 广告
     links:
     - name: LinkedIn
