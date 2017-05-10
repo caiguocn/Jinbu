@@ -180,7 +180,7 @@
       url: http://www.instagram.com
 
     - name: Twitter
-      icon: Twitter
+      icon: twitter blue
       style: basic
       url: https://twitter.com/
 
@@ -190,7 +190,7 @@
       url: https://vk.com
 
     - name: Youtube
-      icon: yutube red
+      icon: youtube red
       style: basic
       url: https://www.youtube.com/
 
@@ -202,6 +202,7 @@
   - category: Cocos2d
     links:
     - name:  cocos
+      icon: cocos red
       style: basic
       url:   http://www.cocos.com/category/blog
 
