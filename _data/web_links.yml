@@ -8,10 +8,12 @@
       url: https://developers.google.com/
 
     - name: Android
+      icon: android red
       style: basic
       url: https://developer.android.com/index.html
 
     - name:  Google Play
+      icon: google blue
       style: basic
       url:  https://play.google.com/store
 
@@ -24,6 +26,7 @@
       url:  https://nodejs.org/en/
 
     - name:  Chrome V8
+      icon: chrome blue
       style: basic
       url:  https://developers.google.com/v8/
 
@@ -37,10 +40,12 @@
       url:   http://www.newrank.cn/
 
     - name:  google trends
+      icon: google blue
       style: basic
       url:   https://trends.google.com/trends/
 
     - name:  google Analytics
+      icon: google blue
       style: basic
       url:   http://www.google.cn/intl/zh-CN_ALL/analytics/index.html
 
@@ -52,6 +57,7 @@
   - category: 工具
     links:
     - name: Stack overflow
+      icon: stack overflow red
       style: basic
       url:  http://stackoverflow.com/
 
@@ -60,6 +66,7 @@
       url:  https://index.baidu.com/
 
     - name: Github
+      icon: gitbub red
       style: basic
       url:  https://github.com/
 
@@ -96,14 +103,17 @@
   - category: Android
     links:
     - name: Google developers
+      icon: android red
       style: basic
       url: https://developers.google.com/
 
     - name: Android
+      icon: android red
       style: basic
       url: https://developer.android.com/index.html
 
     - name:  Google Play
+      icon: android red
       style: basic
       url:  https://play.google.com/store
 
@@ -175,17 +185,17 @@
       url: https://twitter.com/
 
     - name: VK
-      icon: VK
+      icon: vk blue
       style: basic
       url: https://vk.com
 
     - name: Youtube
-      icon: Youtube
+      icon: yutube red
       style: basic
       url: https://www.youtube.com/
 
     - name: Pinterest
-      icon: Pinterest
+      icon: pinterest red
       style: basic
       url: https://www.pinterest.com/
 
