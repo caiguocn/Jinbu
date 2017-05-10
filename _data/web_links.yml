@@ -3,6 +3,7 @@
   - category: 关注
     links:
     - name: Google developers
+      icon: android red
       style: basic
       url: https://developers.google.com/
 
