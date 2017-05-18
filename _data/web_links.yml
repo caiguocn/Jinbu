@@ -273,6 +273,85 @@
 
 - section: 技术学习
   categories:
+  - category: 导购
+    links:
+    - name: 一淘
+      style: basic
+      url: https://www.etao.com/
+
+    - name: 惠惠网
+      style: basic
+      url: http://www.huihui.cn/
+
+    - name: 什么值得买
+      style: basic
+      url: http://www.smzdm.com
+
+    - name: 小红书
+      style: basic
+      url: http://www.xiaohongshu.com/
+
+    - name: 蘑菇街
+      style: basic
+      url: http://www.mogujie.com
+
+    - name: 美丽说
+      style: basic
+      url: http://www.meilishuo.com/
+
+    - name: 小红书
+      style: basic
+      url: http://cn.dealmoon.com/
+
+    - name: 慢慢买
+      style: basic
+      url: http://manmanbuy.com/
+
+    - name: 逛丢
+      style: basic
+      url: http://guangdiu.com/
+
+    - name: 逛丢
+      style: basic
+      url: http://www.baicaio.com/
+
+    - name: 礼物说
+      style: basic
+      url: http://www.liwushuo.com/
+
+    - name: knewone
+      style: basic
+      url: https://knewone.com/
+
+    - name: 豆瓣东西
+      style: basic
+      url: https://dongxi.douban.com/
+
+    - name: 知乎
+      style: basic
+      url: https://www.zhihu.com/question/20371413
+
+
+  - category: 海外导购
+    links:
+    - name: 省钱快报
+      style: basic
+      url: http://cn.dealmoon.com/
+
+    - name: 找丢网
+      style: basic
+      url: http://www.dealam.com/
+
+    - name: 海外网址
+      style: basic
+      url: http://www.hhlink.com/
+
+    - name: 器物与我
+      style: basic
+      url: http://qwme.org/archives/1681
+
+
+
   - category: 电商
     links:
     - name: TVBoX
@@ -283,7 +362,7 @@
       style: basic
       url: https://www.wish.com
 
-    - name: Wish
+    - name: Wish后台
       style: basic
       url: https://china-merchant.wish.com
 
@@ -314,18 +393,6 @@
     - name: 淘宝
       style: basic
       url: http://taobao.com
-
-    - name: 一淘
-      style: basic
-      url: https://www.etao.com/
-
-    - name: 什么值得买
-      style: basic
-      url: http://www.smzdm.com
-
-    - name: 省钱快报
-      style: basic
-      url: http://cn.dealmoon.com/
 
     - name: 米库电商网址
       style: basic
