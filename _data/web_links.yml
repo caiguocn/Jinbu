@@ -2,6 +2,11 @@
   categories:
   - category: 关注
     links:
+    - name: Google Play
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store
+
     - name: Google developers
       icon: android red
       style: basic
@@ -11,11 +16,6 @@
       icon: android red
       style: basic
       url: https://developer.android.com/index.html
-
-    - name:  Google Play
-      icon: google blue
-      style: basic
-      url:  https://play.google.com/store
 
     - name:  Googleblog
       style: basic
@@ -214,6 +214,13 @@
       style: basic
       url:   http://weibo.com/cocos2dx?is_hot=1&noscale_head=1#_0
 
+    - name:  友盟
+      style: basic
+      url:   https://i.umeng.com/?
+
+    - name:  mofang
+      style: basic
+      url:   http://v.mofang.com/
 
 
   - category: Unity
@@ -287,6 +294,20 @@
       style: basic
       url: http://www.smzdm.com
 
+    - name: 买个便宜货
+      style: basic
+      url: http://www.mgpyh.com/
+
+    - name: 一分网
+      style: basic
+      url: http://www.yifen.com/
+
+    - name: pconline聚超值
+      style: basic
+      url: http://best.pconline.com.cn/
+
+
+
     - name: 小红书
       style: basic
       url: http://www.xiaohongshu.com/
@@ -334,21 +355,69 @@
 
   - category: 海外导购
     links:
-    - name: 省钱快报
+    - name: dealnews
+      style: basic
+      url: http://dealnews.com/
+
+    - name: 省钱快报--华人
       style: basic
       url: http://cn.dealmoon.com/
 
-    - name: 找丢网
+    - name: 好康--华人
       style: basic
-      url: http://www.dealam.com/
+      url: http://www.hoconinfo.com/
 
-    - name: 海外网址
+    - name: 找丢网--华人
       style: basic
-      url: http://www.hhlink.com/
+      url: http://cn.dealam.com/
+
+    - name: slick deals
+      style: basic
+      url: https://slickdeals.net/
 
     - name: 器物与我
       style: basic
       url: http://qwme.org/archives/1681
+
+    - name: fat wallet
+      style: basic
+      url: https://www.fatwallet.com/
+
+    - name: deals plus
+      style: basic
+      url: http://www.dealsplus.com/
+
+    - name: dealsea
+      style: basic
+      url: http://dealsea.com/
+
+    - name: dealigg
+      style: basic
+      url: http://www.dealigg.com/
+
+    - name: retailmenot
+      style: basic
+      url: https://www.retailmenot.com/
+
+    - name: retrevo
+      style: basic
+      url: http://shop.retrevo.com/m/dailydeal/index/partners
+
+    - name: cnet
+      style: basic
+      url: https://www.cnet.com/deals/
+
+    - name: reddit  deals
+      style: basic
+      url: https://www.reddit.com/r/deals/
+
+    - name: reddit  coupons
+      style: basic
+      url: https://www.reddit.com/r/coupons/
+
+    - name: 省钱一族--华人
+      style: basic
+      url: http://www.mitbbs.com/bbsdoc/PennySaver.html
 
 
 
@@ -400,7 +469,43 @@
 
   - category: 广告
     links:
-    - name: LinkedIn
+    - name: 淘宝联盟
+      style: basic
+      url: http://pub.alimama.com/
+
+    - name: 亿起发
+      style: basic
+      url: http://www.yiqifa.com/
+
+    - name: 多麦
+      style: basic
+      url: http://www.duomai.com/
+
+    - name: 领克特
+      style: basic
+      url: http://www.linktech.cn/
+
+    - name: 唯一
+      style: basic
+      url: http://www.weiyi.com/
+
+    - name: 成果
+      style: basic
+      url: https://www.chanet.com.cn/
+
+    - name: Amazon
+      style: basic
+      url: https://associates.amazon.com/
+
+    - name: 中亚
+      style: basic
+      url: https://associates.amazon.cn/
+
+    - name: 京东
+      style: basic
+      url: http://media.jd.com/
+
+    - name: Amazon
       style: basic
       url: http://www.linkedin.com/
 
@@ -558,6 +663,76 @@
       style: basic
       url: http://tool.lu/
 
+
+
+- section: 学习相关
+  categories:
+  - category: 价格查询
+    links:
+    - name: keepa
+      style: basic
+      url: https://keepa.com/
+
+    - name: camelcamelcamel
+      style: basic
+      url: http://camelcamelcamel.com/
+
+    - name: google shopping
+      style: basic
+      url: http://www.google.com/shopping
+
+    - name: shopping
+      style: basic
+      url: http://www.shopping.com/
+
+    - name: priceblink
+      style: basic
+      url: http://www.priceblink.com/webcpns/browser-add-on/
+
+    - name: yahoo shopping
+      style: basic
+      url: https://shopping.yahoo.com/
+
+    - name: zoolert
+      style: basic
+      url: https://www.zoolert.com/index.php
+
+    - name: pricejot
+      style: basic
+      url: http://www.pricejot.com/
+
+    - name: 盒子比价网
+      style: basic
+      url: http://www.boxz.com/
+
+    - name: 惠惠
+      style: basic
+      url: http://www.huihui.cn/
+
+    - name: 一淘
+      style: basic
+      url: http://www.etao.com/
+
+    - name: 琅琅比价
+      style: basic
+      url: http://www.langlang.cc/
+
+    - name: 购物党
+      style: basic
+      url: http://www.gwdang.com/
+
+    - name: 西贴
+      style: basic
+      url: http://www.xitie.com/
+
+    - name: kakaku日本
+      style: basic
+      url: http://kakaku.com/
+
+    - name: 香港格价网
+      style: basic
+      url: http://www.price.com.hk/
+
   - category: 博客
     links:
     - name: 小密圈
@@ -615,3 +790,16 @@
     - name: T型学院
       style: basic
       url: https://aissues.com/
+
+  - category: 博客
+    links:
+    - name: 小密圈
+      style: basic
+      url: https://wx.xiaomiquan.com/dweb/
+
+
+  - category: 美术
+    links:
+    - name: 小密圈
+      style: basic
+      url: https://wx.xiaomiquan.com/dweb/
