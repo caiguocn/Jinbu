@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog_post
 title: 如何正确地练习写作
 date: 2015-3-02
 categories: blog
@@ -262,15 +262,3 @@ http://www.douban.com/doulist/37792472/
 ###「开智微信群」入群指南
 
 http://t.cn/RwYcbCP
-
-
-
-
-
-
-
-
-
-
-
-

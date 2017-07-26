@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog_post
 title: 写就是写本身的报酬
 date: 2015-09-15
 categories: blog
@@ -340,12 +340,3 @@ Ps
 
 
 （题图：saurabh mohnot by Nik FC）
-
-
-
-
-
-
-
-
-
