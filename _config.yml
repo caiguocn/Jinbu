@@ -53,12 +53,12 @@ exclude:
 # Site settings
 title: 进步听力学英语
 header-img: "img/green.jpg"
-tagline: "cn"  
-#baseurl: "http://www.ejinbu.com"
+tagline: "cn"
+baseurl: ""
 url: http://www.ejinbu.com
 
 # About/contact
-owner: 
+owner:
   name: " Caiguocn"
   email: caiguocn@qq.com
   bio: "写就是写的报酬"
@@ -67,16 +67,16 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+douban_username:
+twitter_username:
+github_username:
+facebook_username:
+weibo_username:
+zhihu_username:
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
@@ -86,7 +86,7 @@ paginate: 8
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -94,19 +94,18 @@ defaults:
       author: "CnFeat"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
+# Comments
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : 
+    short_name :
   disqus :
-      short_name : 
+      short_name :
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Links to include in footer navigation
-
