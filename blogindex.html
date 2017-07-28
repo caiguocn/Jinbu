@@ -1,12 +1,13 @@
 ---
 layout: blog_page
 description: "进步听力"
+permalink: /blogindex.html
 ---
 
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            
+        <h2 class="post-title">
             {{ post.title }}
         </h2>
         {% if post.subtitle %}
