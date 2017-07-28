@@ -29,7 +29,7 @@ logo_dark: /images/logo-dark.png
 logo_white: /images/logo-white.png
 
 
-plugins:
+gems:
  - jekyll-seo-tag
  - jekyll-sitemap
  # - jekyll-paginate
