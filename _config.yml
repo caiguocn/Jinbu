@@ -32,7 +32,7 @@ logo_white: /images/logo-white.png
 plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
- - jekyll-paginate
+ # - jekyll-paginate
 
 
 exclude:

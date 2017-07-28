@@ -6,4 +6,4 @@ gem "jekyll-sitemap"
 gem "html-proofer"
 gem 'tzinfo-data'
 gem 'tzinfo'
-gem 'jekyll-paginate'
+# gem 'jekyll-paginate'
