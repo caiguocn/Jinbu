@@ -1,7 +1,7 @@
 ---
 layout: blog_page
 title: "Archive"
-description: "你看到的，是我练习千字文的所有文章"
+description: "你看到的，是我每日练习翻译的所有文章及杂文."
 header-img: "img/orange.jpg"
 ---
 
