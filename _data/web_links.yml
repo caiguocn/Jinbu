@@ -835,8 +835,35 @@
       style: basic
       url: https://wx.xiaomiquan.com/dweb/
 
+    - name: 简书
+      style: basic
+      url: http://www.jianshu.com
 
-  - category: 美术
+    - name: 搜狐号
+      style: basic
+      url: http://mt.sohu.com/
+
+    - name: 企鹅号
+      style: basic
+      url: http://mt.sohu.com/
+
+    - name: 头条号
+      style: basic
+      url: http://www.toutiao.com/
+
+    - name: 百家号
+      style: basic
+      url: https://baijia.baidu.com/
+
+    - name: 一点号
+      style: basic
+      url: http://www.yidianzixun.com/
+
+    - name: UC头条号
+      style: basic
+      url: https://news.uc.cn/
+
+  - category: 美术设计
     links:
     - name: 小密圈
       style: basic
