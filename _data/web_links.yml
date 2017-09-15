@@ -39,6 +39,10 @@
       style: basic
       url:   http://www.newrank.cn/
 
+    - name:  大鱼
+      style: basic
+      url:  http://index.dayu.com/
+
     - name:  google trends
       icon: google blue
       style: basic
