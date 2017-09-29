@@ -293,6 +293,14 @@
   categories:
   - category: 导购
     links:
+    - name: 点购
+      style: basic
+      url: https://www.tapdealing.com/
+
+    - name: GA数据
+      style: basic
+      url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
+
     - name: 一淘
       style: basic
       url: https://www.etao.com/
