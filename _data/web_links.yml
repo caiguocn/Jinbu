@@ -961,8 +961,93 @@
 
 
 
-  - category: 美术设计
+  - category: FB
     links:
-    - name: 小密圈
+    - name: WhatWeLikeCO
       style: basic
-      url: https://wx.xiaomiquan.com/dweb/
+      url: https://www.facebook.com/WhatWeLikeCO/
+
+    - name: AliExpress
+      style: basic
+      url: https://www.facebook.com/AliExpress/
+
+    - name: AliExpress es
+      style: basic
+      url: https://www.facebook.com/aliexpress.es/
+
+    - name: wish
+      style: basic
+      url: https://www.facebook.com/wish/
+
+  - category: 东南亚
+    links:
+    - name: lazada co
+      style: basic
+      url: http://www.lazada.co.id/
+
+    - name: lazada my
+      style: basic
+      url: http://www.lazada.com.my/
+
+    - name: lazada ph
+      style: basic
+      url: http://www.lazada.com.ph/
+
+    - name: lazada sg
+      style: basic
+      url: http://www.lazada.sg/
+
+    - name: prelo co
+      style: basic
+      url: https://prelo.co.id/
+
+    - name: shopee sg
+      style: basic
+      url: https://shopee.sg/
+
+    - name: zalora
+      style: basic
+      url: https://worldwide.zalora.com/
+
+    - name: vipplaza
+      style: basic
+      url: http://www.vipplaza.co.id/
+
+    - name: femaledaily
+      style: basic
+      url: http://femaledaily.com/
+
+    - name: orori
+      style: basic
+      url: https://www.orori.com/
+
+    - name: klik-eat
+      style: basic
+      url: https://klik-eat.com/
+
+    - name: orami
+      style: basic
+      url: https://www.orami.co.id/
+
+    - name: jd id
+      style: basic
+      url: https://www.jd.id/
+
+
+  - category: 欧洲
+    links:
+    - name: prelo co
+      style: basic
+      url: https://prelo.co.id/
+
+    - name: lazada my
+      style: basic
+      url: http://www.lazada.com.my/
+
+    - name: lazada ph
+      style: basic
+      url: http://www.lazada.com.ph/
+
+    - name: lazada sg
+      style: basic
+      url: http://www.lazada.sg/
