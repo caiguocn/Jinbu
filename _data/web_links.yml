@@ -295,7 +295,7 @@
     links:
     - name: 点购
       style: basic
-      url: https://www.tapdealing.com/
+      url: http://www.tapdealing.com/
 
     - name: GA数据
       style: basic
