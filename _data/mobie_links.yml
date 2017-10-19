@@ -79,14 +79,14 @@
 
 - section: byr
   categories:
-  - category: 进步英语推荐
+  - category: 关注的开发商
     links:
     - name: VOA
       style: basic
       url: http://www.51voa.com/
 
 
-  - category: 进步英语推荐APP
+  - category: 顶级开发者APP
     links:
     - name: 扇贝
       style: basic

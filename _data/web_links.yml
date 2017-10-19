@@ -534,6 +534,22 @@
 
   - category: 广告
     links:
+    - name: Amazon
+      style: basic
+      url: https://associates.amazon.com/
+
+    - name: 中亚
+      style: basic
+      url: https://associates.amazon.cn/
+
+    - name: 京东
+      style: basic
+      url: http://media.jd.com/
+
+    - name: Amazon
+      style: basic
+      url: http://www.linkedin.com/
+
     - name: 淘宝联盟
       style: basic
       url: http://pub.alimama.com/
@@ -550,29 +566,11 @@
       style: basic
       url: http://www.linktech.cn/
 
-    - name: 唯一
-      style: basic
-      url: http://www.weiyi.com/
-
     - name: 成果
       style: basic
       url: https://www.chanet.com.cn/
 
-    - name: Amazon
-      style: basic
-      url: https://associates.amazon.com/
 
-    - name: 中亚
-      style: basic
-      url: https://associates.amazon.cn/
-
-    - name: 京东
-      style: basic
-      url: http://media.jd.com/
-
-    - name: Amazon
-      style: basic
-      url: http://www.linkedin.com/
 
   - category: 小程序
     links:
@@ -1033,6 +1031,24 @@
       style: basic
       url: https://www.jd.id/
 
+
+  - category: 美国
+    links:
+    - name: hip2save
+      style: basic
+      url: http://hip2save.com/
+
+    - name: thekrazycouponlady
+      style: basic
+      url: http://thekrazycouponlady.com/
+
+    - name: bensbargains
+      style: basic
+      url: https://bensbargains.com/
+
+    - name: amazondeals
+      style: basic
+      url: https://twitter.com/amazondeals
 
   - category: 欧洲
     links:
