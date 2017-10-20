@@ -194,6 +194,58 @@
       style: basic
       url:  https://play.google.com/store/apps/dev?id=9073678958056342661
 
+    - name: MAG Interactive
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6558349509091194327
+
+    - name: Random Logic Games, LLC
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=8111076891443836168
+
+    - name: Etermax
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=4857484411335878422
+
+    - name: Optime
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Optime+Software
+
+    - name: Second Gear Games
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=7444498667970408351
+
+    - name: Quarzo Apps
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=8933575792593715746
+
+    - name: MAG Interactive
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6558349509091194327
+
+    - name: LOTUM GmbH
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=LOTUM+GmbH
+
+    - name: Scopely
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=9028773071151690823
+
+    - name: Lulo
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Lulo+Apps
+
+    - name: PlaySimple Games Pte Ltd
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=PlaySimple+Games+Pte+Ltd
+
+    - name: Warner Bros. International Enterprises
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Warner+Bros.+International+Enterprises
+
+    - name: BitMango
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6249013288401661340
+
     - name:
       style: basic
       url:
@@ -206,58 +258,7 @@
       style: basic
       url:
 
-    - name:
-      style: basic
-      url:
 
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://play.google.com/store/apps/dev?id=6605125519975771237
 
   - category: 儿童教育
     links:
