@@ -88,12 +88,176 @@
 
   - category: 顶级开发者APP
     links:
-    - name: 扇贝
+    - name: king
       style: basic
-      url: http://www.shanbay.com/
+      url: https://play.google.com/store/apps/dev?id=6577204690045492686
+
+
+    - name: king
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6577204690045492686
+
+
+    - name: Chillingo
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6058820582570442962
+
+    - name: Rayark International Limited
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6939825389946648631
+
+    - name: Ketchapp
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6054197513203380012
+
+    - name: Zynga
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6690081412016968981
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
 
 
 
+  - category: game_word
+    links:
+    - name: MerigoTech
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=MerigoTech
+
+    - name: Ally team
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Ally+team
+
+    - name: ELECTRONIC ARTS
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6605125519975771237
+
+    - name: Zynga
+      style: basic
+      url:  https://play.google.com/store/apps/dev?id=6690081412016968981
+
+    - name: The FastMind
+      style: basic
+      url:  https://play.google.com/store/apps/dev?id=9073678958056342661
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://play.google.com/store/apps/dev?id=6605125519975771237
 
   - category: 儿童教育
     links:
