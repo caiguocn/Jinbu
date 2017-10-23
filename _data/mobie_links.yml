@@ -114,6 +114,96 @@
       style: basic
       url: https://play.google.com/store/apps/dev?id=6690081412016968981
 
+  - category: game_strategy
+    links:
+    - name: Elex Wireless
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Elex+Wireless
+
+    - name: flaregames
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=5492388613392482470
+
+    - name: General Adaptive Apps Pty Ltd
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=5287980258369385464
+
+    - name: General Adaptive Apps Pty Ltd
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=5287980258369385464
+
+    - name: Elite
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Elite+Games
+
+    - name: Backflip
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Backflip+Studios,+LLC
+
+    - name: Game Insight
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6361261091326496818
+
+    - name: IGG.COM 大神
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=IGG.COM
+
+    - name: Gaea Mobile Limited
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Gaea+Mobile+Limited
+
+    - name: GoodTeam
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=GoodTeam
+
+    - name: Mountain Lion
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Mountain+Lion
+
+    - name: Ember Entertainment
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Ember+Entertainment
+
+    - name: Home Net Games
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6828211798475415210
+
+    - name: TEAM42
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=TEAM42
+
+    - name: Social Quantum Ltd
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6752757042013862878
+
+    - name: SNK CORPORATION 韩
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=5156685669113307397
+
+    - name: DH Games
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=DH+Games
+
+    - name: Triniti Interactive Limited
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Triniti+Interactive+Limited
+
+    - name: Elex
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Elex
+
+    - name: Cat Studio HK
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=7891340555832391669
+
+    - name: Italy Games
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Italy+Games
+
+    - name: Cat Studio HK
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=7891340555832391669
+
     - name:
       style: basic
       url:
@@ -170,7 +260,53 @@
       style: basic
       url:
 
+    - name:
+      style: basic
+      url:
 
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
+
+    - name:
+      style: basic
+      url:
 
   - category: game_word
     links:
@@ -245,20 +381,3 @@
     - name: BitMango
       style: basic
       url: https://play.google.com/store/apps/dev?id=6249013288401661340
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-    - name:
-      style: basic
-      url:
-
-
-
-  - category: 儿童教育
-    links:
