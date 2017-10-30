@@ -570,6 +570,9 @@
       style: basic
       url: https://www.chanet.com.cn/
 
+    - name: 星罗
+      style: basic
+      url: http://www.linkstars.com/
 
 
   - category: 小程序
