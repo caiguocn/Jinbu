@@ -666,10 +666,6 @@
       style: basic
       url: http://jquery.com/
 
-
-
-  - category: 后端
-    links:
     - name: Java极客
       style: basic
       url: http://wiki.jikexueyuan.com/list/java/
@@ -677,6 +673,13 @@
     - name: Developer  windows
       style: basic
       url: https://developer.microsoft.com/zh-cn/windows/desktop
+
+
+  - category: 装
+    links:
+    - name: 极有家
+      style: basic
+      url: https://www.jiyoujia.com/
 
 
 
