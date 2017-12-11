@@ -144,6 +144,12 @@
       style: basic
       url:   https://www.oschina.net/android
 
+    - name:  泡在网上的日子
+      style: basic
+      url:   http://www.jcodecraeer.com/
+
+
+
   - category: 社交
     links:
     - name: LinkedIn
