@@ -2,12 +2,12 @@
   categories:
   - category: 关注
     links:
-    - name: Google Play
+    - name: Google Play商店
       icon: google red
       style: basic
       url:  https://play.google.com/store
 
-    - name: Google developers
+    - name: Google developers开发者
       icon: android red
       style: basic
       url: https://developers.google.com/
@@ -17,7 +17,7 @@
       style: basic
       url: https://developer.android.com/index.html
 
-    - name:  Googleblog
+    - name:  Googleblog博客
       style: basic
       url:  https://android-developers.googleblog.com/
 
@@ -48,12 +48,12 @@
       style: basic
       url:   https://trends.google.com/trends/
 
-    - name:  google Analytics
+    - name:  google Analytics分析
       icon: google blue
       style: basic
       url:   http://www.google.cn/intl/zh-CN_ALL/analytics/index.html
 
-    - name:  OS China
+    - name:  OS China开源
       style: basic
       url:   https://www.oschina.net/
 
@@ -146,6 +146,11 @@
 
   - category: 社交
     links:
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: http://www.linkedin.com/
+
     - name: 微博
       icon: weibo red
       style: basic
