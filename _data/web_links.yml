@@ -65,6 +65,14 @@
       style: basic
       url:  http://stackoverflow.com/
 
+    - name: tinypng图片
+      style: basic
+      url:  https://tinypng.com/
+
+    - name: 百度搜索
+      style: basic
+      url:  http://ziyuan.baidu.com/?castk=LTE%3D
+
     - name: 百度指数
       style: basic
       url:  https://index.baidu.com/
@@ -106,9 +114,13 @@
       style: basic
       url:   http://top.chinaz.com/
 
+    - name:  虎嗅
+      style: basic
+      url:   https://www.huxiu.com/
 
-
-
+    - name:  葡萄
+      style: basic
+      url:   http://youxiputao.com/
 
 
   - category: Android
@@ -244,6 +256,13 @@
       style: basic
       url:   http://v.mofang.com/
 
+    - name:  nodejs
+      style: basic
+      url:   http://nodejs.cn/
+
+    - name:  nodejs org
+      style: basic
+      url:  http://cnodejs.org/
 
   - category: Unity
     links:
@@ -265,6 +284,10 @@
 
   - category: 论坛
     links:
+    - name:  v2ex
+      style: basic
+      url:   https://www.v2ex.com/
+
     - name:  GAD
       style: basic
       url:   http://gad.qq.com/
@@ -348,10 +371,6 @@
       style: basic
       url: http://www.meilishuo.com/
 
-    - name: 慢慢买
-      style: basic
-      url: http://manmanbuy.com/
-
     - name: 逛丢
       style: basic
       url: http://guangdiu.com/
@@ -431,11 +450,11 @@
 
   - category: 海外导购
     links:
-    - name: dealnews
+    - name: dealnews 26.6
       style: basic
       url: http://dealnews.com/
 
-    - name: 省钱快报--华人
+    - name: 省钱快报 8.4
       style: basic
       url: http://cn.dealmoon.com/
 
@@ -447,7 +466,7 @@
       style: basic
       url: http://cn.dealam.com/
 
-    - name: slick deals
+    - name: slick deals 95
       style: basic
       url: https://slickdeals.net/
 
@@ -455,23 +474,23 @@
       style: basic
       url: http://qwme.org/archives/1681
 
-    - name: fat wallet
+    - name: ebates
       style: basic
-      url: https://www.fatwallet.com/
+      url: https://www.ebates.com
 
-    - name: deals plus
+    - name: deals plus 3.8
       style: basic
       url: http://www.dealsplus.com/
 
-    - name: dealsea
+    - name: dealsea 8.3
       style: basic
       url: http://dealsea.com/
 
-    - name: dealigg
+    - name: dealigg 1.5
       style: basic
       url: http://www.dealigg.com/
 
-    - name: retailmenot
+    - name: retailmenot 49
       style: basic
       url: https://www.retailmenot.com/
 
@@ -494,6 +513,14 @@
     - name: 省钱一族--华人
       style: basic
       url: http://www.mitbbs.com/bbsdoc/PennySaver.html
+
+    - name: 北美微论坛
+      style: basic
+      url: http://www.moonbbs.com/
+
+    - name: 末名空间
+      style: basic
+      url: http://www.mitbbs.com/
 
 
 
@@ -861,6 +888,10 @@
 
   - category: 博客
     links:
+    - name: myylm视频
+      style: basic
+      url: http://v.myylm.com/
+
     - name: 小密圈
       style: basic
       url: https://wx.xiaomiquan.com/dweb/
