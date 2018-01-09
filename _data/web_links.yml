@@ -172,7 +172,7 @@
     - name: Facebook
       icon: facebook blue
       style: basic
-      url: http://www.facebook.com/      
+      url: http://www.facebook.com/
 
     - name: LinkedIn
       icon: linkedin blue
@@ -572,7 +572,11 @@
 
   - category: 广告
     links:
-    - name: Amazon
+    - name: CJ联盟
+      style: basic
+      url: https://members.cj.com/member/publisher/home.do
+
+    - name: Amazon美国
       style: basic
       url: https://associates.amazon.com/
 
@@ -611,6 +615,30 @@
     - name: 星罗
       style: basic
       url: http://www.linkstars.com/
+
+    - name: linkshare
+      style: basic
+      url: https://rakutenmarketing.com/affiliate
+
+    - name: adidas
+      style: basic
+      url: http://www.adidas.co.uk/affiliates
+
+    - name: shareasale
+      style: basic
+      url: http://www.shareasale.com/
+
+    - name: pepperjam
+      style: basic
+      url: https://www.pepperjam.com/
+
+    - name: impactradius欧
+      style: basic
+      url: https://www.impactradius.com/
+
+    - name: channelaffiliate
+      style: basic
+      url: http://channelaffiliate.com/about
 
 
   - category: 小程序
