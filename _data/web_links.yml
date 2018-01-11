@@ -114,13 +114,7 @@
       style: basic
       url:   http://top.chinaz.com/
 
-    - name:  虎嗅
-      style: basic
-      url:   https://www.huxiu.com/
 
-    - name:  葡萄
-      style: basic
-      url:   http://youxiputao.com/
 
 
   - category: Android
@@ -156,9 +150,7 @@
       style: basic
       url:   https://www.oschina.net/android
 
-    - name:  泡在网上的日子
-      style: basic
-      url:   http://www.jcodecraeer.com/
+
 
 
 
@@ -263,6 +255,26 @@
     - name:  nodejs org
       style: basic
       url:  http://cnodejs.org/
+
+
+  - category: 资讯
+    links:
+    - name:  白鲸出海
+      style: basic
+      url:  http://www.baijingapp.com/
+
+
+    - name:  虎嗅
+      style: basic
+      url:   https://www.huxiu.com/
+
+    - name:  游戏葡萄
+      style: basic
+      url:   http://youxiputao.com/
+
+    - name:  泡在网上的日子
+      style: basic
+      url:   http://www.jcodecraeer.com/
 
   - category: Unity
     links:
