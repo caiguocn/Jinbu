@@ -225,6 +225,13 @@
       style: basic
       url: https://www.pinterest.com/
 
+    - name: slideshare
+      icon: pinterest red
+      style: basic
+      url: https://www.slideshare.net/
+
+
+
   - category: Cocos2d
     links:
     - name:  cocos
