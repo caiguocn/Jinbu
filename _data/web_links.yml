@@ -7,6 +7,11 @@
       style: basic
       url:  https://play.google.com/store
 
+    - name: Google PUblish
+      icon: android red
+      style: basic
+      url: https://play.google.com/apps/publish/?account=8050705195372532909#AppListPlace
+
     - name: Google developers开发者
       icon: android red
       style: basic
