@@ -945,6 +945,10 @@
 
   - category: 博客
     links:
+    - name: 缠中说禅
+      style: basic
+      url: http://blog.sina.com.cn/chzhshch
+
     - name: myylm视频
       style: basic
       url: http://v.myylm.com/
