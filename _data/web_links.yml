@@ -1243,6 +1243,10 @@
 
   - category: 图片下载
     links:
+    - name: iconfinder
+      style: basic
+      url: https://www.iconfinder.com/
+
     - name: Pexels
       style: basic
       url: https://www.pexels.com/
