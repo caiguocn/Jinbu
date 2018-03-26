@@ -238,10 +238,6 @@
 
   - category: 电商
     links:
-    - name: TVBoX
-      style: basic
-      url: https://www.tvbox.shop
-
     - name: Wish
       style: basic
       url: https://www.wish.com
@@ -262,7 +258,7 @@
       style: basic
       url: http://www.dianxiaomi.com/home.htm
 
-    - name: 导航
+    - name: 电商导航
       style: basic
       url: http://dig.tools/kj
 
@@ -278,9 +274,34 @@
       style: basic
       url: http://taobao.com
 
-    - name: 米库电商网址
+    - name: 米库
       style: basic
-      url: http://hao.malllib.com/
+      url: http://wish.malllib.com/wish/login.jsp
+
+    - name: 速卖通
+      style: basic
+      url: https://www.aliexpress.com/
+
+    - name: ebay
+      style: basic
+      url: https://www.ebay.com/
+
+    - name: lazada
+      style: basic
+      url: https://www.lazada.com/
+
+    - name: shopee
+      style: basic
+      url: https://shopee.cn/
+
+    - name: joom
+      style: basic
+      url: https://www.joom.com/en
+
+    - name: fancy
+      style: basic
+      url: https://fancy.com/
+
 
   - category: 海外导购
     links:
