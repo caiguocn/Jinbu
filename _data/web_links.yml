@@ -62,6 +62,14 @@
       style: basic
       url:   https://www.oschina.net/
 
+    - name:  雨果网
+      style: basic
+      url:   http://www.cifnews.com/
+
+    - name:  亿邦
+      style: basic
+      url:   http://www.ebrun.com/fto/?eb=hp_home_nav_xzdh
+
 
   - category: 工具
     links:
@@ -492,6 +500,60 @@
     - name:  nodejs org
       style: basic
       url:  http://cnodejs.org/
+
+  - category: LinkShare
+    links:
+    - name: Cotton On
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=450004&mid=41094&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: PinkQueen.com
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=416589&mid=41100&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Figleaves US
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=410918&mid=41002&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Carol's Daughter 香水
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=407329&mid=40934&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Dressilyme 婚纱
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=403522&mid=40846&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Silverrushstyle 宝石
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=384506&mid=40400&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Rebecca Minkoff US 内衣
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=383506&mid=40313&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Maurices
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=434631&mid=40158&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Zaful
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=502630&mid=40046&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Rosegal
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=501546&mid=39962&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Beddinginn
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=350147&mid=39785&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Rosegal
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=501546&mid=39962&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Rosegal
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=501546&mid=39962&offerNid=1&controls=1:1:3:1:1:1
 
   - category: 导购
     links:
