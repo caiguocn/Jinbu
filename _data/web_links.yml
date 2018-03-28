@@ -70,7 +70,6 @@
       style: basic
       url:   http://www.ebrun.com/fto/?eb=hp_home_nav_xzdh
 
-
   - category: 工具
     links:
     - name: Stack overflow
@@ -127,9 +126,6 @@
       style: basic
       url:   http://top.chinaz.com/
 
-
-
-
   - category: Android
     links:
     - name: Google developers
@@ -163,9 +159,131 @@
       style: basic
       url:   https://www.oschina.net/android
 
+  - category: 导购
+    links:
+    - name: 点购
+      style: basic
+      url: http://www.tapdealing.com/
 
+    - name: 发布信息
+      style: basic
+      url: http://www.gotochina.shop
 
+    - name: GA数据
+      style: basic
+      url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
 
+    - name: 一淘
+      style: basic
+      url: https://www.etao.com/
+
+    - name: 惠惠网
+      style: basic
+      url: http://www.huihui.cn/
+
+    - name: 什么值得买
+      style: basic
+      url: http://www.smzdm.com
+
+    - name: 买个便宜货
+      style: basic
+      url: http://www.mgpyh.com/
+
+    - name: 一分网
+      style: basic
+      url: http://www.yifen.com/
+
+    - name: pconline聚超值
+      style: basic
+      url: http://best.pconline.com.cn/
+
+    - name: 小红书
+      style: basic
+      url: http://www.xiaohongshu.com/
+
+    - name: 蘑菇街
+      style: basic
+      url: http://www.mogujie.com
+
+    - name: 美丽说
+      style: basic
+      url: http://www.meilishuo.com/
+
+    - name: 逛丢
+      style: basic
+      url: http://guangdiu.com/
+
+    - name: 白菜
+      style: basic
+      url: http://www.baicaio.com/
+
+    - name: 礼物说
+      style: basic
+      url: http://www.liwushuo.com/
+
+    - name: knewone
+      style: basic
+      url: https://knewone.com/
+
+    - name: 豆瓣东西
+      style: basic
+      url: https://dongxi.douban.com/
+
+    - name: 值值值
+      style: basic
+      url: http://zhizhizhi.com/
+
+    - name: 折800
+      style: basic
+      url: http://zhi.zhe800.com/
+
+    - name: 慢慢买
+      style: basic
+      url: http://manmanbuy.com/
+
+    - name: 惠喵
+      style: basic
+      url: http://www.liuzhuni.com/
+
+    - name: 识货
+      style: basic
+      url: http://www.shihuo.cn/
+
+    - name: 没得比
+      style: basic
+      url: http://www.meidebi.com/
+
+    - name: 半糖
+      style: basic
+      url: http://www.ibantang.com/
+
+    - name: 匠心之美
+      style: basic
+      url: http://www.showbagnow.com/
+
+    - name: EEE
+      style: basic
+      url: https://www.eee.com/
+
+    - name: 拆盒玩具
+      style: basic
+      url: http://www.chaihezi.com/
+
+    - name: 极客海淘
+      style: basic
+      url: http://www.123haitao.com/
+
+    - name: 知乎
+      style: basic
+      url: https://www.zhihu.com/question/20371413
+
+    - name: 豆折扣
+      style: basic
+      url: https://www.douzhekou.com/
+
+    - name:  导购网站
+      style: basic
+      url:   http://www.chinaz.com/tags/daogouwangzhan.shtml
 
   - category: 社交
     links:
@@ -243,7 +361,6 @@
       style: basic
       url: https://www.slideshare.net/
 
-
   - category: 电商
     links:
     - name: Wish
@@ -313,8 +430,6 @@
     - name: tophatter
       style: basic
       url:   https://tophatter.com/
-
-
 
   - category: 海外导购
     links:
@@ -462,12 +577,7 @@
 
 
 
-
-
-
-
 - section: 技术学习
-
   categories:
 
   - category: Cocos2d
@@ -555,129 +665,6 @@
       style: basic
       url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=501546&mid=39962&offerNid=1&controls=1:1:3:1:1:1
 
-  - category: 导购
-    links:
-    - name: 点购
-      style: basic
-      url: http://www.tapdealing.com/
-
-    - name: GA数据
-      style: basic
-      url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
-
-    - name: 一淘
-      style: basic
-      url: https://www.etao.com/
-
-    - name: 惠惠网
-      style: basic
-      url: http://www.huihui.cn/
-
-    - name: 什么值得买
-      style: basic
-      url: http://www.smzdm.com
-
-    - name: 买个便宜货
-      style: basic
-      url: http://www.mgpyh.com/
-
-    - name: 一分网
-      style: basic
-      url: http://www.yifen.com/
-
-    - name: pconline聚超值
-      style: basic
-      url: http://best.pconline.com.cn/
-
-    - name: 小红书
-      style: basic
-      url: http://www.xiaohongshu.com/
-
-    - name: 蘑菇街
-      style: basic
-      url: http://www.mogujie.com
-
-    - name: 美丽说
-      style: basic
-      url: http://www.meilishuo.com/
-
-    - name: 逛丢
-      style: basic
-      url: http://guangdiu.com/
-
-    - name: 白菜
-      style: basic
-      url: http://www.baicaio.com/
-
-    - name: 礼物说
-      style: basic
-      url: http://www.liwushuo.com/
-
-    - name: knewone
-      style: basic
-      url: https://knewone.com/
-
-    - name: 豆瓣东西
-      style: basic
-      url: https://dongxi.douban.com/
-
-    - name: 值值值
-      style: basic
-      url: http://zhizhizhi.com/
-
-    - name: 折800
-      style: basic
-      url: http://zhi.zhe800.com/
-
-    - name: 慢慢买
-      style: basic
-      url: http://manmanbuy.com/
-
-    - name: 惠喵
-      style: basic
-      url: http://www.liuzhuni.com/
-
-    - name: 识货
-      style: basic
-      url: http://www.shihuo.cn/
-
-    - name: 没得比
-      style: basic
-      url: http://www.meidebi.com/
-
-    - name: 半糖
-      style: basic
-      url: http://www.ibantang.com/
-
-    - name: 匠心之美
-      style: basic
-      url: http://www.showbagnow.com/
-
-    - name: EEE
-      style: basic
-      url: https://www.eee.com/
-
-    - name: 拆盒玩具
-      style: basic
-      url: http://www.chaihezi.com/
-
-    - name: 极客海淘
-      style: basic
-      url: http://www.123haitao.com/
-
-    - name: 知乎
-      style: basic
-      url: https://www.zhihu.com/question/20371413
-
-    - name: 豆折扣
-      style: basic
-      url: https://www.douzhekou.com/
-
-    - name:  导购网站
-      style: basic
-      url:   http://www.chinaz.com/tags/daogouwangzhan.shtml
-
-
   - category: 资讯
     links:
     - name:  白鲸出海
@@ -700,9 +687,6 @@
     - name:  Tap Tap
       style: basic
       url:   https://www.taptap.com/
-
-
-
 
   - category: Unity
     links:
@@ -760,8 +744,6 @@
       style: basic
       url: https://hacpai.com/
 
-
-
   - category: 小程序
     links:
     - name: 知晓程序
@@ -816,8 +798,6 @@
       style: basic
       url: http://so.csdn.net/so/search/s.do?q=%E4%BB%8A%E6%97%A5%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8E%A8%E8%8D%90&t=blog
 
-
-
   - category: 前端
     links:
     - name: JavaScript极客
@@ -856,17 +836,11 @@
       style: basic
       url: https://developer.microsoft.com/zh-cn/windows/desktop
 
-
-  - category: 装
+  - category: 家装
     links:
     - name: 极有家
       style: basic
       url: https://www.jiyoujia.com/
-
-
-
-
-
 
 
 
