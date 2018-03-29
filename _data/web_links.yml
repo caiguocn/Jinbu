@@ -122,9 +122,17 @@
       style: basic
       url:   http://123.w3cschool.cn/
 
-    - name:  中文网站排行
+    - name:  域名注册
       style: basic
-      url:   http://top.chinaz.com/
+      url:  https://wanwang.aliyun.com/?spm=5176.8142029.388261.237.3836dbccPZIGjm
+
+    - name:  英文学习
+      style: basic
+      url:   http://www.jinbu123.com/
+
+    - name:  tinder学习
+      style: basic
+      url:   http://www.tinder.shop/
 
   - category: Android
     links:
@@ -168,6 +176,22 @@
     - name: 发布信息
       style: basic
       url: http://www.gotochina.shop
+
+    - name: 网站gtmetrix
+      style: basic
+      url: https://gtmetrix.com/reports/www.tapdealing.com/5YkTw4nQ
+
+    - name: 测速pingdom
+      style: basic
+      url: https://tools.pingdom.com/#!/b56OY4/www.tapdealing.com
+
+    - name: 测速webpagetest
+      style: basic
+      url: http://www.webpagetest.org/
+
+    - name: 测速google
+      style: basic
+      url: https://developers.google.com/speed/
 
     - name: GA数据
       style: basic
@@ -505,6 +529,10 @@
       style: basic
       url: http://www.mitbbs.com/
 
+    - name: 印度desidime
+      style: basic
+      url: https://www.desidime.com/
+
   - category: 广告
     links:
     - name: CJ联盟
@@ -743,6 +771,10 @@
     - name: hacpai
       style: basic
       url: https://hacpai.com/
+
+    - name: 广告中国
+      style: basic
+      url: http://www.advertcn.com/forum.php?gid=1
 
   - category: 小程序
     links:
