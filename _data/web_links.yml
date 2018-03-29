@@ -72,6 +72,16 @@
 
   - category: 工具
     links:
+    - name: google关键字
+      icon: stack overflow red
+      style: basic
+      url:  https://adwords.google.com/aw/keywordplanner/home?ocid=109360025&__c=8704286225&sourceid=awo&__u=7159626305&authuser=0
+
+    - name: semrush关键字
+      icon: stack overflow red
+      style: basic
+      url:  https://www.semrush.com/
+
     - name: Stack overflow
       icon: stack overflow red
       style: basic
@@ -98,21 +108,17 @@
       style: basic
       url:  http://top.baidu.com/
 
-    - name: similar web
+    - name: similar web网站分析
       style: basic
       url:  https://www.similarweb.com/
 
-    - name:  appannie
+    - name:  appannie APP分析
       style: basic
       url:  https://www.appannie.com/dashboard/home/
 
     - name:  站长工具
       style: basic
       url:   http://tool.chinaz.com/
-
-    - name:  西部
-      style: basic
-      url:   http://www.west.cn/
 
     - name:  阿里云
       style: basic
