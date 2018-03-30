@@ -544,6 +544,10 @@
       style: basic
       url: https://www.desidime.com/
 
+    - name: 巴西buscape
+      style: basic
+      url: https://www.buscape.com.br/
+
   - category: 广告
     links:
     - name: CJ联盟
