@@ -82,6 +82,11 @@
       style: basic
       url:  https://www.semrush.com/
 
+    - name: myip
+      icon: stack overflow red
+      style: basic
+      url:  https://myip.ms/
+
     - name: Stack overflow
       icon: stack overflow red
       style: basic
