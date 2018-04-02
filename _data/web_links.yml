@@ -322,15 +322,20 @@
 
   - category: 社交
     links:
-    - name: Twitter
-      icon: twitter blue
+    - name: Instagram
+      icon: instagram pink
       style: basic
-      url: https://twitter.com/
+      url: http://www.instagram.com
 
     - name: Facebook
       icon: facebook blue
       style: basic
       url: http://www.facebook.com/
+
+    - name: Twitter
+      icon: twitter blue
+      style: basic
+      url: https://twitter.com/
 
     - name: LinkedIn
       icon: linkedin blue
@@ -370,11 +375,6 @@
       icon: tumblr blue
       style: basic
       url: http://www.tumblr.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: http://www.instagram.com
 
     - name: VK
       icon: vk blue
@@ -465,6 +465,17 @@
     - name: tophatter
       style: basic
       url:   https://tophatter.com/
+
+    - name: shopify
+      style: basic
+      url:  https://www.shopify.com
+
+    - name: etsy
+      style: basic
+      url:  https://www.etsy.com/
+
+
+
 
   - category: 海外导购
     links:
