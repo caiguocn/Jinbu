@@ -665,8 +665,108 @@
       style: basic
       url:  http://cnodejs.org/
 
-  - category: LinkShare
+  - category: LinkShare服装
     links:
+    - name: francesca's
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=482742&mid=41366&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: FILOFAX
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=440586&mid=41574&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: AG Jeans
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=441686&mid=41754&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Zales
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=517702&mid=41838&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: FairySeason
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=463155&mid=42030&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Ann Taylor
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=467248&mid=42156&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Lou & Grey
+      style: basic
+      url:   http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=467307&mid=42154&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: LOFT
+      style: basic
+      url:   http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=467303&mid=42157&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Yamibuy
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=496359&mid=42504&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: CWD Kids
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=498575&mid=42586&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Blue & Cream
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=502755&mid=42616&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Splendid
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=513777&mid=42623&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Tommy
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=563741&mid=42666&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Pediped
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=509649&mid=42695&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Pediped
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=509649&mid=42695&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Onlineshoes
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=518894&mid=42779&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Onlineshoes
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=518894&mid=42779&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: The MET
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=526182&mid=42838&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Project Nursery
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=569656&mid=42864&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Project Nursery
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=569656&mid=42864&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Pop Julia
+      style: basic
+      url:  http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=539506&mid=42978&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: IGXO
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=555332&mid=43054&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: IGXO
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=555332&mid=43054&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: JD Williams
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=539790&mid=42963&offerNid=1&controls=1:1:3:1:1:1
+
+    - name: Simply Be
+      style: basic
+      url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=573980&mid=42964&offerNid=1&controls=1:1:3:1:1:1
+
     - name: Cotton On服装
       style: basic
       url: http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=450004&mid=41094&offerNid=1&controls=1:1:3:1:1:1
