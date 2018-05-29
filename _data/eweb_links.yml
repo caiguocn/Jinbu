@@ -752,7 +752,7 @@
 
   - category: Unity
     links:
-    - name: unity3d learn  
+    - name: unity3d learn
       style: basic
       url: https://unity3d.com/cn/learn
 
@@ -976,34 +976,6 @@
 
   - category: 知乎
     links:
-    - name: 道(吴翰清)
-      style: basic
-      url: https://www.zhihu.com/people/aullik5/answers
-
-    - name: 道(吴翰清)
-      style: basic
-      url: http://www1.taosay.net/
-
-    - name: 余峰
-      style: basic
-      url: https://www.zhihu.com/people/baryeah/answers
-
-    - name: Feng
-      style: basic
-      url: https://www.zhihu.com/people/fenng/answers
-
-    - name: 许朝军
-      style: basic
-      url: https://www.zhihu.com/people/xu-zhao-jun/answers
-
-    - name: 汪华
-      style: basic
-      url: https://www.zhihu.com/people/wang-hua/answers
-
-    - name: 老道消息
-      style: basic
-      url: http://wemedia.ifeng.com/listpage/9450_1/list.shtml
-
     - name: 在线工具
       style: basic
       url: http://tool.lu/
@@ -1077,14 +1049,6 @@
 
   - category: 博客
     links:
-    - name: 缠中说禅
-      style: basic
-      url: http://blog.sina.com.cn/chzhshch
-
-    - name: myylm视频
-      style: basic
-      url: http://v.myylm.com/
-
     - name: 小密圈
       style: basic
       url: https://wx.xiaomiquan.com/dweb/
@@ -1093,61 +1057,13 @@
       style: basic
       url: https://www.zhihu.com/
 
-    - name: 简书
-      style: basic
-      url: http://www.jianshu.com/subscriptions#/timeline
-
-    - name: 卢松松
-      style: basic
-      url: http://lusongsong.com/
-
     - name: 顾小北
       style: basic
       url: http://www.guxiaobei.com/
 
-    - name: caoz
-      style: basic
-      url: https://seofangfa.com/caoz/
-
-    - name: 方法
-      style: basic
-      url: https://seofangfa.com/
-
-    - name: 阮一峰
-      style: basic
-      url: http://www.ruanyifeng.com/blog/archives.html
-
-    - name: 设计导航
-      style: basic
-      url: http://idesign.qq.com/#!index/feed
-
-    - name: 36KR
-      style: basic
-      url: http://36kr.com/
-
-    - name: 博客大全
-      style: basic
-      url: http://daohang.lusongsong.com/
-
-    - name: 云风
-      style: basic
-      url: http://blog.codingnow.com/
-
     - name: 傅盛
       style: basic
       url: http://fusheng.baijia.baidu.com/
-
-    - name: T型学院
-      style: basic
-      url: https://aissues.com/
-
-    - name: clowwindy(ss作者)
-      style: basic
-      url: https://github.com/clowwindy
-
-    - name: madeye(ss作者)
-      style: basic
-      url: https://github.com/madeye
 
   - category: 自媒体
     links:
