@@ -74,7 +74,7 @@
 
 
 
-  - category: Facebook帮助
+  - category: 每天
     links:
     - name: FB帮助中心
       style: basic
@@ -220,66 +220,45 @@
 
 
 
-  - category: 海外导购
+  - category: 速卖通
     links:
+    - name: 女包
+      style: basic
+      url:  https://www.aliexpress.com/af/category/200010063.html
 
+    - name: Shoulder Bags
+      style: basic
+      url:  https://www.aliexpress.com/af/category/200000764.html
 
-  - category: 广告
+    - name: Hobo Bags
+      style: basic
+      url:  https://www.aliexpress.com/af/category/200102008.html
+
+    - name: Waist Packs
+      style: basic
+      url:  https://www.aliexpress.com/af/category/200086032.html
+
+    - name: Waist Packs
+      style: basic
+      url:  https://www.aliexpress.com/af/category/200086032.html
+
+  - category: 速卖通
     links:
-
+    - name: 男包
+      style: basic
+      url:  https://www.aliexpress.com/af/category/200010057.html
 
 
 
 - section: 技术学习
   categories:
 
-  - category: Cocos2d
+  - category: 优秀站点
     links:
-
-
-  - category: LinkShare服装
-    links:
-
-
-  - category: 资讯
-    links:
-    - name:  白鲸出海
+    - name: giginewyork
       style: basic
-      url:  http://www.baijingapp.com/
+      url:  https://www.giginewyork.com/default.asp
 
-
-
-  - category: Unity
-    links:
-
-
-  - category: 论坛
-    links:
-    - name: 广告中国
-      style: basic
-      url: http://www.advertcn.com/forum.php?gid=1
-
-  - category: 小程序
-    links:
-
-
-  - category: 前端
-    links:
-
-
-  - category: 中国电商
-    links:
-    - name: zaful
-      style: basic
-      url: https://www.zaful.com/
-
-    - name: newchic
-      style: basic
-      url: https://www.newchic.com/
-
-    - name: newchic
-      style: basic
-      url: https://www.newchic.com/
 
 - section: 学习相关
   categories:
