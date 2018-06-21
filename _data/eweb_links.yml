@@ -19,9 +19,19 @@
       style: basic
       url:   https://www.facebook.com/business/
 
-    - name:  facebook帮助
+    - name:  instagram帮助
       style: basic
       url:   https://business.instagram.com/
+
+    - name:  pinterest帮助
+      style: basic
+      url:   https://business.pinterest.com/en
+
+    - name:  FB中国帮助
+      style: basic
+      url:   https://reachtheworldonfacebook.com
+
+
 
 
   - category: 工具
