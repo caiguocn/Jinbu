@@ -106,6 +106,30 @@
       style: basic
       url: https://www.ebags.com/
 
+    - name: cambridgesatchel
+      style: basic
+      url: https://us.cambridgesatchel.com/pages/womens
+
+    - name: baggu
+      style: basic
+      url: https://baggu.com/
+
+    - name: sfbags
+      style: basic
+      url: https://www.sfbags.com/
+
+    - name: loandsons
+      style: basic
+      url: https://www.loandsons.com/
+
+    - name: ivyandfig
+      style: basic
+      url: https://www.ivyandfig.com/
+
+    - name: flotoimports
+      style: basic
+      url: https://flotoimports.com/
+
   - category: 社交
     links:
     - name: Instagram
