@@ -88,15 +88,23 @@
 
 
 
-  - category: 每天
+  - category: 同类
     links:
-    - name: FB帮助中心
+    - name: miabag
       style: basic
-      url: https://www.facebook.com/business/
+      url: http://www.miabag.com/
 
-    - name: FB帮助中心
+    - name: mybag
       style: basic
-      url: https://www.facebook.com/business/
+      url: http://www.mybag.com/
+
+    - name: savemybag
+      style: basic
+      url: https://www.savemybag.it
+
+    - name: ebags
+      style: basic
+      url: https://www.ebags.com/
 
   - category: 社交
     links:
