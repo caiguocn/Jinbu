@@ -31,6 +31,14 @@
       style: basic
       url:   https://reachtheworldonfacebook.com
 
+    - name:  FB官方新闻
+      style: basic
+      url:   https://newsroom.fb.com/
+
+    - name:  shopify帮助中心
+      style: basic
+      url:  https://www.shopify.com/blog
+
 
 
 
@@ -96,6 +104,10 @@
 
   - category: 同类
     links:
+    - name: giginewyork
+      style: basic
+      url:  https://www.giginewyork.com/default.asp
+
     - name: miabag
       style: basic
       url: http://www.miabag.com/
@@ -135,6 +147,11 @@
     - name: flotoimports
       style: basic
       url: https://flotoimports.com/
+
+    - name: hobobags
+      style: basic
+      url: https://www.hobobags.com/
+
 
   - category: 社交
     links:
@@ -307,9 +324,7 @@
 
   - category: 优秀站点
     links:
-    - name: giginewyork
-      style: basic
-      url:  https://www.giginewyork.com/default.asp
+
 
 
 - section: 学习相关
