@@ -433,9 +433,15 @@
       style: basic
       url: http://fusheng.baijia.baidu.com/
 
-  - category: 自媒体
+  - category: 背包
     links:
+    - name: fjallraven
+      style: basic
+      url: https://www.fjallraven.us/
 
+    - name: dsgear(t主题)
+      style: basic
+      url: https://www.dsgear.com/
 
 
 
