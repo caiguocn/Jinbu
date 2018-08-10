@@ -108,6 +108,18 @@
 
   - category: 同类
     links:
+    - name: zaful
+      style: basic
+      url:  https://www.zaful.com
+
+    - name: newchic
+      style: basic
+      url:  https://www.newchic.com
+
+    - name: yoins
+      style: basic
+      url:  https://www.yoins.com
+
     - name: giginewyork
       style: basic
       url:  https://www.giginewyork.com/default.asp
