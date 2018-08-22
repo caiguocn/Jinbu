@@ -39,7 +39,13 @@
       style: basic
       url:  https://www.shopify.com/blog
 
+    - name:  STM广告
+      style: basic
+      url:  http://stmforum.com
 
+    - name:  blackhatworld
+      style: basic
+      url:  https://www.blackhatworld.com/forums/dropshipping-wholesale-hookups.68/  
 
 
   - category: 工具
@@ -94,6 +100,11 @@
 
   - category: 选品
     links:
+    - name: terapeak
+      icon: android red
+      style: basic
+      url: https://www.terapeak.com/
+
     - name: 1688
       icon: android red
       style: basic
@@ -119,6 +130,11 @@
     - name: yoins
       style: basic
       url:  https://www.yoins.com
+
+    - name: fossil
+      style: basic
+      url:  https://www.fossil.com
+      
 
     - name: giginewyork
       style: basic
