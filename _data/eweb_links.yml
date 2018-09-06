@@ -368,6 +368,10 @@
       style: basic
       url: http://www.jfinal.com/    
 
+    - name: wishmm
+      style: basic
+      url: http://www.wishmm.com
+
   - category: 知乎
     links:
     - name: 在线工具
