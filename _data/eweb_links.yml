@@ -364,6 +364,9 @@
 
   - category: 学习
     links:
+    - name: jfinal
+      style: basic
+      url: http://www.jfinal.com/    
 
   - category: 知乎
     links:
