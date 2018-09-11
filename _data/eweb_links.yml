@@ -349,13 +349,35 @@
       style: basic
       url:  https://www.aliexpress.com/af/category/200086032.html
 
-  - category: 速卖通
+  - category: fb
     links:
-    - name: 男包
+    - name: zaful
       style: basic
-      url:  https://www.aliexpress.com/af/category/200010057.html
+      url:  https://www.facebook.com/pg/Zaful/ads/?ref=page_internal
 
+    - name: NewChic
+      style: basic
+      url:  https://www.facebook.com/pg/LoveNewChic/ads/?ref=page_internal
 
+    - name: Yoins
+      style: basic
+      url:  https://www.facebook.com/pg/Yoinscollection/ads/?ref=page_internal
+
+    - name: Pierrebuy
+      style: basic
+      url:  https://www.facebook.com/pg/Pierrebuyofficial/ads/?ref=page_internal
+
+    - name: Giginewyork
+      style: basic
+      url:  https://www.facebook.com/pg/giginewyork/ads/?ref=page_internal
+
+    - name: Hobo
+      style: basic
+      url:  https://www.facebook.com/pg/HoboTheOriginal/ads/?country=1
+
+    - name: BAGGU
+      style: basic
+      url:  https://www.facebook.com/pg/BAGGUBAGGU/ads/?country=1&ref=page_internal
 
 - section: 技术学习
   categories:
