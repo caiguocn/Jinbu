@@ -100,7 +100,12 @@
     - name:  FACEBOOK符号
       style: basic
       url:   http://tw.piliapp.com/facebook-symbols/
+
+    - name:  iconosquare
+      style: basic
+      url:   https://pro.iconosquare.com/analyze/overview
  
+      
 
 
   - category: 选品
