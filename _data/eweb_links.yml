@@ -50,6 +50,10 @@
     - name:  gameres
       style: basic
       url:   https://www.gameres.com/
+
+    - name:  sohu bag
+      style: basic
+      url:   http://www.sohu.com/tag/63683
      
 
 
