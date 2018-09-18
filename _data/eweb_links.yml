@@ -55,6 +55,9 @@
       style: basic
       url:   http://www.sohu.com/tag/63683
      
+    - name:  小红书
+      style: basic
+      url:   https://www.xiaohongshu.com/explore?tab=fasion   
 
 
   - category: 工具
@@ -392,6 +395,12 @@
     - name: BAGGU
       style: basic
       url:  https://www.facebook.com/pg/BAGGUBAGGU/ads/?country=1&ref=page_internal
+
+    - name: MPGSport
+      style: basic
+      url:  https://www.facebook.com/MPGSport/
+
+      
 
 - section: 技术学习
   categories:
