@@ -304,11 +304,14 @@
       style: basic
       url: http://taobao.com
 
-    - name: 米库
+    - name: 米库wish
       style: basic
       url: http://wish.malllib.com/wish/login.jsp
 
-
+    - name: 米库amazon
+      style: basic
+      url: http://amazon.malllib.com/amazon/?utm_source=amz520.com
+      
     - name: ebay
       style: basic
       url: https://www.ebay.com/
