@@ -454,6 +454,11 @@
       style: basic
       url: http://www.wishmm.com
 
+    - name: w3school
+      style: basic
+      url: http://www.w3school.com.cn/tags/tag_th.asp
+      
+
   - category: 知乎
     links:
     - name: 在线工具
