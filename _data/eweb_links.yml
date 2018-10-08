@@ -304,6 +304,10 @@
       style: basic
       url: http://taobao.com
 
+    - name: 卖家网maijia
+      style: basic
+      url: http://www.maijia.com/
+
     - name: 米库wish
       style: basic
       url: http://wish.malllib.com/wish/login.jsp
