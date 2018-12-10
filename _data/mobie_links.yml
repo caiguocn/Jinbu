@@ -55,10 +55,13 @@
 
   - category: 资讯
     links:
+    - name: Steam
+      style: basic
+      url: https://store.steampowered.com/
+
     - name: 游戏邦
       style: basic
       url: http://gamerboom.com
-
 
     - name: 白鲸出海
       style: basic
@@ -108,7 +111,38 @@
       style: basic
       url: https://www.d.cn/
 
- 
+    - name: 多玩
+      style: basic
+      url: http://www.duowan.com/  
+
+    - name: 17173
+      style: basic
+      url:  https://www.17173.com/    
+
+    - name: 游侠网
+      style: basic
+      url:  http://www.ali213.net/       
+
+    - name: 久游网
+      style: basic
+      url:  http://www.uuu9.com/ 
+
+    - name: 游戏陀螺
+      style: basic
+      url:  https://www.youxituoluo.com/   
+
+    - name: 游戏时光
+      style: basic
+      url:  http://www.vgtime.com/
+
+    - name: 163爱玩网
+      style: basic
+      url:  http://play.163.com/
+
+    - name: 游戏论坛
+      style: basic
+      url:  http://www.gamerbbs.cn/
+
 
 
   - category: 培训
