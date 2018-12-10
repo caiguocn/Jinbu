@@ -55,10 +55,60 @@
 
   - category: 资讯
     links:
-    - name: CSDN
+    - name: 游戏邦
       style: basic
-      url: http://www.csdn.net/
+      url: http://gamerboom.com
 
+
+    - name: 白鲸出海
+      style: basic
+      url: http://www.baijingapp.com/
+
+    - name: 游戏葡萄
+      style: basic
+      url: http://youxiputao.com/          
+
+    - name: 触乐
+      style: basic
+      url: http://www.chuapp.com/ 
+
+    - name: 游资网
+      style: basic
+      url: https://www.gameres.com/
+
+    - name: 手游那点事
+      style: basic
+      url: http://www.nadianshi.com/  
+
+    - name: 游戏茶馆
+      style: basic
+      url: http://www.youxichaguan.com/
+
+    - name: 腾讯游戏学院
+      style: basic
+      url: http://gad.qq.com/   
+
+    - name: 游戏邦
+      style: basic
+      url: http://gamerboom.com
+
+    - name: gamelook
+      style: basic
+      url: http://www.gamelook.com.cn/
+
+    - name: 电玩巴士
+      style: basic
+      url: https://www.tgbus.com/
+
+    - name: 游民星空
+      style: basic
+      url: https://www.gamersky.com/
+
+    - name: 当乐网
+      style: basic
+      url: https://www.d.cn/
+
+ 
 
 
   - category: 培训
@@ -79,6 +129,32 @@
 
 - section: byr
   categories:
+  - category: 数据
+    links:
+    - name: VOA
+      style: basic
+      url: http://www.51voa.com/
+
+    - name: VOA
+      style: basic
+      url: http://www.51voa.com/
+
+    - name: VOA
+      style: basic
+      url: http://www.51voa.com/
+
+    - name: VOA
+      style: basic
+      url: http://www.51voa.com/
+
+    - name: VOA
+      style: basic
+      url: http://www.51voa.com/
+
+    - name: VOA
+      style: basic
+      url: http://www.51voa.com/                  
+
   - category: 关注的开发商
     links:
     - name: VOA
