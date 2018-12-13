@@ -51,6 +51,14 @@
       style: basic
       url: http://weibo.com/
 
+    - name: epicgames
+      icon: weibo red
+      style: basic
+      url: https://www.epicgames.com/store/en-US/
+
+
+      
+
 
 
   - category: 资讯
@@ -145,14 +153,26 @@
 
 
 
-  - category: 培训
+  - category: 游戏资讯海外
     links:
-    - name: LinkedIn
-      icon: linkedin blue
+    - name: TGA
       style: basic
-      url: http://www.linkedin.com/
+      url: https://thegameawards.com/
 
+    
+    - name: bluemoongame
+      style: basic
+      url: https://www.bluemoongame.com
 
+    - name: bluemoongame
+      style: basic
+      url: https://www.bluemoongame.com
+
+    - name: polygon
+      style: basic
+      url: https://www.polygon.com/    
+
+      
 
   - category: 博客
     links:
@@ -161,33 +181,45 @@
       url: http://www.youku.com/
 
 
-- section: byr
+- section: Youtube 游戏 
   categories:
   - category: 数据
     links:
-    - name: VOA
+    - name: thegameawards
       style: basic
-      url: http://www.51voa.com/
+      url: https://www.youtube.com/user/thegameawards14
 
-    - name: VOA
+    - name: xbox
       style: basic
-      url: http://www.51voa.com/
+      url: https://www.youtube.com/user/xbox
 
-    - name: VOA
+    - name: EA
       style: basic
-      url: http://www.51voa.com/
+      url: https://www.youtube.com/user/EA
 
-    - name: VOA
+    - name: Nintendo
       style: basic
-      url: http://www.51voa.com/
+      url: https://www.youtube.com/user/Nintendo
 
-    - name: VOA
+    - name: PlayStation
       style: basic
-      url: http://www.51voa.com/
+      url: https://www.youtube.com/user/PlayStation
 
-    - name: VOA
+    - name: CALLOFDUTY
       style: basic
-      url: http://www.51voa.com/                  
+      url: https://www.youtube.com/user/CALLOFDUTY
+
+    - name: gamespot
+      style: basic
+      url: https://www.youtube.com/user/gamespot
+
+    - name: Valve
+      style: basic
+      url: https://www.youtube.com/user/Valve           
+
+    - name: YongYea
+      style: basic
+      url: https://www.youtube.com/user/YongYea          
 
   - category: 关注的开发商
     links:
