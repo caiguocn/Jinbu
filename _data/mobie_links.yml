@@ -44,7 +44,7 @@
 
 
 
-  - category: Unity
+  - category: 游戏平台
     links:
     - name: 微博
       icon: weibo red
@@ -63,6 +63,10 @@
 
   - category: 资讯
     links:
+    - name: taptap
+      style: basic
+      url: https://www.taptap.com/
+
     - name: Steam
       style: basic
       url: https://store.steampowered.com/
