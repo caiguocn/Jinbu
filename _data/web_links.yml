@@ -773,70 +773,70 @@
       url: http://channelaffiliate.com/about
 
   - category: 价格查询
-      links:
-      - name: keepa
-        style: basic
-        url: https://keepa.com/
+    links:
+    - name: keepa
+      style: basic
+      url: https://keepa.com/
 
-      - name: camelcamelcamel
-        style: basic
-        url: http://camelcamelcamel.com/
+    - name: camelcamelcamel
+      style: basic
+      url: http://camelcamelcamel.com/
 
-      - name: google shopping
-        style: basic
-        url: http://www.google.com/shopping
+    - name: google shopping
+      style: basic
+      url: http://www.google.com/shopping
 
-      - name: shopping
-        style: basic
-        url: http://www.shopping.com/
+    - name: shopping
+      style: basic
+      url: http://www.shopping.com/
 
-      - name: priceblink
-        style: basic
-        url: http://www.priceblink.com/webcpns/browser-add-on/
+    - name: priceblink
+      style: basic
+      url: http://www.priceblink.com/webcpns/browser-add-on/
 
-      - name: yahoo shopping
-        style: basic
-        url: https://shopping.yahoo.com/
+    - name: yahoo shopping
+      style: basic
+      url: https://shopping.yahoo.com/
 
-      - name: zoolert
-        style: basic
-        url: https://www.zoolert.com/index.php
+    - name: zoolert
+      style: basic
+      url: https://www.zoolert.com/index.php
 
-      - name: pricejot
-        style: basic
-        url: http://www.pricejot.com/
+    - name: pricejot
+      style: basic
+      url: http://www.pricejot.com/
 
-      - name: 盒子比价网
-        style: basic
-        url: http://www.boxz.com/
+    - name: 盒子比价网
+      style: basic
+      url: http://www.boxz.com/
 
-      - name: 惠惠
-        style: basic
-        url: http://www.huihui.cn/
+    - name: 惠惠
+      style: basic
+      url: http://www.huihui.cn/
 
-      - name: 一淘
-        style: basic
-        url: http://www.etao.com/
+    - name: 一淘
+      style: basic
+      url: http://www.etao.com/
 
-      - name: 琅琅比价
-        style: basic
-        url: http://www.langlang.cc/
+    - name: 琅琅比价
+      style: basic
+      url: http://www.langlang.cc/
 
-      - name: 购物党
-        style: basic
-        url: http://www.gwdang.com/
+    - name: 购物党
+      style: basic
+      url: http://www.gwdang.com/
 
-      - name: 西贴
-        style: basic
-        url: http://www.xitie.com/
+    - name: 西贴
+      style: basic
+      url: http://www.xitie.com/
 
-      - name: kakaku日本
-        style: basic
-        url: http://kakaku.com/
+    - name: kakaku日本
+      style: basic
+      url: http://kakaku.com/
 
-      - name: 香港格价网
-        style: basic
-        url: http://www.price.com.hk/
+    - name: 香港格价网
+      style: basic
+      url: http://www.price.com.hk/
 
 - section: 技术
   categories:
