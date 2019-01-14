@@ -527,3 +527,77 @@
     - name: BitMango
       style: basic
       url: https://play.google.com/store/apps/dev?id=6249013288401661340
+
+
+- category: Instagram
+    links:
+    - name: MerigoTech
+      style: basic
+      url: 
+
+    - name: Ally team
+      style: basic
+      url: 
+
+    - name: ELECTRONIC ARTS
+      style: basic
+      url:
+    - name: Zynga
+      style: basic
+      url:  
+
+    - name: The FastMind
+      style: basic
+      url: 
+
+    - name: MAG Interactive
+      style: basic
+      url: 
+
+    - name: Random Logic Games, LLC
+      style: basic
+      url: 
+
+    - name: Etermax
+      style: basic
+      url: 
+
+    - name: Optime
+      style: basic
+      url:
+
+    - name: Second Gear Games
+      style: basic
+      url: 
+
+    - name: Quarzo Apps
+      style: basic
+      url: 
+
+    - name: MAG Interactive
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6558349509091194327
+
+    - name: LOTUM GmbH
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=LOTUM+GmbH
+
+    - name: Scopely
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=9028773071151690823
+
+    - name: Lulo
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Lulo+Apps
+
+    - name: PlaySimple Games Pte Ltd
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=PlaySimple+Games+Pte+Ltd
+
+    - name: Warner Bros. International Enterprises
+      style: basic
+      url: https://play.google.com/store/apps/developer?id=Warner+Bros.+International+Enterprises
+
+    - name: BitMango
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6249013288401661340
