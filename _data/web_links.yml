@@ -70,7 +70,7 @@
       style: basic
       url:   http://www.ebrun.com/fto/?eb=hp_home_nav_xzdh
 
-  - category: 工具
+  - category: 网站工具
     links:
     - name: google关键字
       icon: stack overflow red
@@ -178,39 +178,39 @@
       style: basic
       url:   https://www.oschina.net/android
 
-- category: EnglishNews
-    links:
-    - name: buzzfeed
-      style: basic
-      url: https://www.buzzfeed.com
+  - category: EnglishNews
+      links:
+      - name: buzzfeed
+        style: basic
+        url: https://www.buzzfeed.com
 
-    - name: fortune
-      style: basic
-      url: http://fortune.com
+      - name: fortune
+        style: basic
+        url: http://fortune.com
 
-    - name: forbes
-      style: basic
-      url: https://www.forbes.com
+      - name: forbes
+        style: basic
+        url: https://www.forbes.com
 
-    - name: cnn
-      style: basic
-      url: https://edition.cnn.com/
+      - name: cnn
+        style: basic
+        url: https://edition.cnn.com/
 
-    - name: foxnews
-      style: basic
-      url: https://www.foxnews.com/
+      - name: foxnews
+        style: basic
+        url: https://www.foxnews.com/
 
-    - name: 测速google
-      style: basic
-      url: https://developers.google.com/speed/
+      - name: 测速google
+        style: basic
+        url: https://developers.google.com/speed/
 
-    - name: GA数据
-      style: basic
-      url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
+      - name: GA数据
+        style: basic
+        url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
 
-    - name: 一淘
-      style: basic
-      url: https://www.etao.com/
+      - name: 一淘
+        style: basic
+        url: https://www.etao.com/
 
   - category: 社交
     links:
@@ -288,115 +288,115 @@
       style: basic
       url: https://www.slideshare.net/
 
-- category: 资讯
-    links:
-    - name: TGA
-      style: basic
-      url: https://thegameawards.com/
+  - category: 资讯
+      links:
+      - name: TGA
+        style: basic
+        url: https://thegameawards.com/
 
-    - name: bluemoongame
-      style: basic
-      url: https://www.bluemoongame.com
+      - name: bluemoongame
+        style: basic
+        url: https://www.bluemoongame.com
 
-    - name: bluemoongame
-      style: basic
-      url: https://www.bluemoongame.com
+      - name: bluemoongame
+        style: basic
+        url: https://www.bluemoongame.com
 
-    - name: polygon
-      style: basic
-      url: https://www.polygon.com/    
+      - name: polygon
+        style: basic
+        url: https://www.polygon.com/    
 
-    - name: taptap
-      style: basic
-      url: https://www.taptap.com/
+      - name: taptap
+        style: basic
+        url: https://www.taptap.com/
 
-    - name: Steam
-      style: basic
-      url: https://store.steampowered.com/
+      - name: Steam
+        style: basic
+        url: https://store.steampowered.com/
 
-    - name: 游戏邦
-      style: basic
-      url: http://gamerboom.com
+      - name: 游戏邦
+        style: basic
+        url: http://gamerboom.com
 
-    - name: 白鲸出海
-      style: basic
-      url: http://www.baijingapp.com/
+      - name: 白鲸出海
+        style: basic
+        url: http://www.baijingapp.com/
 
-    - name: 游戏葡萄
-      style: basic
-      url: http://youxiputao.com/          
+      - name: 游戏葡萄
+        style: basic
+        url: http://youxiputao.com/          
 
-    - name: 触乐
-      style: basic
-      url: http://www.chuapp.com/ 
+      - name: 触乐
+        style: basic
+        url: http://www.chuapp.com/ 
 
-    - name: 游资网
-      style: basic
-      url: https://www.gameres.com/
+      - name: 游资网
+        style: basic
+        url: https://www.gameres.com/
 
-    - name: 手游那点事
-      style: basic
-      url: http://www.nadianshi.com/  
+      - name: 手游那点事
+        style: basic
+        url: http://www.nadianshi.com/  
 
-    - name: 游戏茶馆
-      style: basic
-      url: http://www.youxichaguan.com/
+      - name: 游戏茶馆
+        style: basic
+        url: http://www.youxichaguan.com/
 
-    - name: 腾讯游戏学院
-      style: basic
-      url: http://gad.qq.com/   
+      - name: 腾讯游戏学院
+        style: basic
+        url: http://gad.qq.com/   
 
-    - name: 游戏邦
-      style: basic
-      url: http://gamerboom.com
+      - name: 游戏邦
+        style: basic
+        url: http://gamerboom.com
 
-    - name: gamelook
-      style: basic
-      url: http://www.gamelook.com.cn/
+      - name: gamelook
+        style: basic
+        url: http://www.gamelook.com.cn/
 
-    - name: 电玩巴士
-      style: basic
-      url: https://www.tgbus.com/
+      - name: 电玩巴士
+        style: basic
+        url: https://www.tgbus.com/
 
-    - name: 游民星空
-      style: basic
-      url: https://www.gamersky.com/
+      - name: 游民星空
+        style: basic
+        url: https://www.gamersky.com/
 
-    - name: 当乐网
-      style: basic
-      url: https://www.d.cn/
+      - name: 当乐网
+        style: basic
+        url: https://www.d.cn/
 
-    - name: 多玩
-      style: basic
-      url: http://www.duowan.com/  
+      - name: 多玩
+        style: basic
+        url: http://www.duowan.com/  
 
-    - name: 17173
-      style: basic
-      url:  https://www.17173.com/    
+      - name: 17173
+        style: basic
+        url:  https://www.17173.com/    
 
-    - name: 游侠网
-      style: basic
-      url:  http://www.ali213.net/       
+      - name: 游侠网
+        style: basic
+        url:  http://www.ali213.net/       
 
-    - name: 久游网
-      style: basic
-      url:  http://www.uuu9.com/ 
+      - name: 久游网
+        style: basic
+        url:  http://www.uuu9.com/ 
 
-    - name: 游戏陀螺
-      style: basic
-      url:  https://www.youxituoluo.com/   
+      - name: 游戏陀螺
+        style: basic
+        url:  https://www.youxituoluo.com/   
 
-    - name: 游戏时光
-      style: basic
-      url:  http://www.vgtime.com/
+      - name: 游戏时光
+        style: basic
+        url:  http://www.vgtime.com/
 
-    - name: 163爱玩网
-      style: basic
-      url:  http://play.163.com/
+      - name: 163爱玩网
+        style: basic
+        url:  http://play.163.com/
 
-    - name: 游戏论坛
-      style: basic
-      url:  http://www.gamerbbs.cn/      
+      - name: 游戏论坛
+        style: basic
+        url:  http://www.gamerbbs.cn/      
 
 - section: 电商
   categories:
@@ -542,8 +542,6 @@
       style: basic
       url:   http://www.chinaz.com/tags/daogouwangzhan.shtml
 
-
-
   - category: 电商
     links:
     - name: Wish
@@ -621,9 +619,6 @@
     - name: etsy
       style: basic
       url:  https://www.etsy.com/
-
-
-
 
   - category: 海外导购
     links:
@@ -777,71 +772,71 @@
       style: basic
       url: http://channelaffiliate.com/about
 
-- category: 价格查询
-    links:
-    - name: keepa
-      style: basic
-      url: https://keepa.com/
+  - category: 价格查询
+      links:
+      - name: keepa
+        style: basic
+        url: https://keepa.com/
 
-    - name: camelcamelcamel
-      style: basic
-      url: http://camelcamelcamel.com/
+      - name: camelcamelcamel
+        style: basic
+        url: http://camelcamelcamel.com/
 
-    - name: google shopping
-      style: basic
-      url: http://www.google.com/shopping
+      - name: google shopping
+        style: basic
+        url: http://www.google.com/shopping
 
-    - name: shopping
-      style: basic
-      url: http://www.shopping.com/
+      - name: shopping
+        style: basic
+        url: http://www.shopping.com/
 
-    - name: priceblink
-      style: basic
-      url: http://www.priceblink.com/webcpns/browser-add-on/
+      - name: priceblink
+        style: basic
+        url: http://www.priceblink.com/webcpns/browser-add-on/
 
-    - name: yahoo shopping
-      style: basic
-      url: https://shopping.yahoo.com/
+      - name: yahoo shopping
+        style: basic
+        url: https://shopping.yahoo.com/
 
-    - name: zoolert
-      style: basic
-      url: https://www.zoolert.com/index.php
+      - name: zoolert
+        style: basic
+        url: https://www.zoolert.com/index.php
 
-    - name: pricejot
-      style: basic
-      url: http://www.pricejot.com/
+      - name: pricejot
+        style: basic
+        url: http://www.pricejot.com/
 
-    - name: 盒子比价网
-      style: basic
-      url: http://www.boxz.com/
+      - name: 盒子比价网
+        style: basic
+        url: http://www.boxz.com/
 
-    - name: 惠惠
-      style: basic
-      url: http://www.huihui.cn/
+      - name: 惠惠
+        style: basic
+        url: http://www.huihui.cn/
 
-    - name: 一淘
-      style: basic
-      url: http://www.etao.com/
+      - name: 一淘
+        style: basic
+        url: http://www.etao.com/
 
-    - name: 琅琅比价
-      style: basic
-      url: http://www.langlang.cc/
+      - name: 琅琅比价
+        style: basic
+        url: http://www.langlang.cc/
 
-    - name: 购物党
-      style: basic
-      url: http://www.gwdang.com/
+      - name: 购物党
+        style: basic
+        url: http://www.gwdang.com/
 
-    - name: 西贴
-      style: basic
-      url: http://www.xitie.com/
+      - name: 西贴
+        style: basic
+        url: http://www.xitie.com/
 
-    - name: kakaku日本
-      style: basic
-      url: http://kakaku.com/
+      - name: kakaku日本
+        style: basic
+        url: http://kakaku.com/
 
-    - name: 香港格价网
-      style: basic
-      url: http://www.price.com.hk/
+      - name: 香港格价网
+        style: basic
+        url: http://www.price.com.hk/
 
 - section: 技术
   categories:
@@ -1058,8 +1053,6 @@
     - name: 极有家
       style: basic
       url: https://www.jiyoujia.com/
-
-
 
 - section: 工具
   categories:
@@ -1281,8 +1274,6 @@
     - name: 趣发现
       style: basic
       url: http://fun.html5.qq.com/
-
-
 
 - section: 电商相关
   categories:
