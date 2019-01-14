@@ -179,38 +179,38 @@
       url:   https://www.oschina.net/android
 
   - category: EnglishNews
-      links:
-      - name: buzzfeed
-        style: basic
-        url: https://www.buzzfeed.com
+    links:
+    - name: buzzfeed
+      style: basic
+      url: https://www.buzzfeed.com
 
-      - name: fortune
-        style: basic
-        url: http://fortune.com
+    - name: fortune
+      style: basic
+      url: http://fortune.com
 
-      - name: forbes
-        style: basic
-        url: https://www.forbes.com
+    - name: forbes
+      style: basic
+      url: https://www.forbes.com
 
-      - name: cnn
-        style: basic
-        url: https://edition.cnn.com/
+    - name: cnn
+      style: basic
+      url: https://edition.cnn.com/
 
-      - name: foxnews
-        style: basic
-        url: https://www.foxnews.com/
+    - name: foxnews
+      style: basic
+      url: https://www.foxnews.com/
 
-      - name: 测速google
-        style: basic
-        url: https://developers.google.com/speed/
+    - name: 测速google
+      style: basic
+      url: https://developers.google.com/speed/
 
-      - name: GA数据
-        style: basic
-        url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
+    - name: GA数据
+      style: basic
+      url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
 
-      - name: 一淘
-        style: basic
-        url: https://www.etao.com/
+    - name: 一淘
+      style: basic
+      url: https://www.etao.com/      
 
   - category: 社交
     links:
