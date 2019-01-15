@@ -70,7 +70,13 @@
       style: basic
       url:   http://www.ebrun.com/fto/?eb=hp_home_nav_xzdh
 
-  - category: 网站工具
+    - name:  领库
+      style: basic
+      url:   http://www.kolrank.com/
+
+      
+
+  - category: 工具
     links:
     - name: google关键字
       icon: stack overflow red
@@ -145,6 +151,10 @@
       style: basic
       url:   http://tinder.shop/
 
+    - name:  TAPD敏捷开发
+      style: basic
+      url:   https://www.tapd.cn/my_worktable/?from=left_tree_cloud_v2
+
   - category: Android
     links:
     - name: Google developers
@@ -200,6 +210,10 @@
       style: basic
       url: https://www.foxnews.com/
 
+    - name: techmeme
+      style: basic
+      url: https://www.techmeme.com/
+
     - name: 测速google
       style: basic
       url: https://developers.google.com/speed/
@@ -222,7 +236,7 @@
     - name: Facebook
       icon: facebook blue
       style: basic
-      url: http://www.facebook.com/
+      url: https://www.facebook.com/bookmarks/pages
 
     - name: Twitter
       icon: twitter blue
@@ -397,6 +411,12 @@
     - name: 游戏论坛
       style: basic
       url:  http://www.gamerbbs.cn/      
+
+    - name: readhub
+      style: basic
+      url:  https://readhub.cn/topics    
+
+  
 
 - section: 电商
   categories:
@@ -1116,6 +1136,12 @@
     - name: 51CTO学院
       style: basic
       url:  http://edu.51cto.com/
+
+    - name: 中国大学icourse163
+      style: basic
+      url:  https://www.icourse163.org/
+
+      
 
 
   - category: 知乎
