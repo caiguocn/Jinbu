@@ -192,7 +192,7 @@
     links:
     - name: buzzfeed
       style: basic
-      url: https://www.buzzfeed.com
+      url: https://www.buzzfeed.com/?country=us
 
     - name: fortune
       style: basic
