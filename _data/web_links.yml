@@ -78,6 +78,11 @@
 
   - category: 工具
     links:
+    - name: 敏捷工作台
+      icon: stack overflow red
+      style: basic
+      url:  https://www.tapd.cn/my_worktable?left_tree=1
+
     - name: google关键字
       icon: stack overflow red
       style: basic
@@ -190,6 +195,10 @@
 
   - category: EnglishNews
     links:
+    - name: quizzesbox
+      style: basic
+      url: https://www.quizzesbox.com
+
     - name: buzzfeed
       style: basic
       url: https://www.buzzfeed.com/?country=us
