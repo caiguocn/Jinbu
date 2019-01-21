@@ -201,7 +201,7 @@
 
     - name: buzzfeed
       style: basic
-      url: https://www.buzzfeed.com/?country=us
+      url: https://www.buzzfeed.com/quizzes?country=us
 
     - name: fortune
       style: basic
