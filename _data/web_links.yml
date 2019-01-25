@@ -53,10 +53,15 @@
       style: basic
       url:   https://trends.google.com/trends/
 
-    - name:  google Analytics分析
-      icon: google blue
+    - name:  Google Analytics分析
+      icon: google red
       style: basic
       url:   https://analytics.google.com/analytics/web/%3Fhl%3Dzh-CN%26pli%3D1&hl=zh-CN&q=EgSuiTgQGLzGn-IFIhkA8aeDSxBEn8cTsW6oM5nrwTeLxOSPLrZfMgFy#/
+
+    - name:  Google Search
+      icon: google red
+      style: basic
+      url:   https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.quizzesbox.com%2F
 
     - name:  OS China开源
       style: basic
