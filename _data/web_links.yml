@@ -85,6 +85,10 @@
       style: basic
       url:   http://www.kolrank.com/
 
+    - name:  google广告
+      style: basic
+      url:   https://ads.google.com/intl/zh-CN_cn/home/
+
       
 
   - category: 工具
