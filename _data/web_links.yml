@@ -175,6 +175,15 @@
       style: basic
       url:   https://www.tapd.cn/my_worktable/?from=left_tree_cloud_v2
 
+    - name:  爱站
+      style: basic
+      url:   https://www.aizhan.com/
+
+    - name:  themeforest商城
+      style: basic
+      url:   https://themeforest.net/
+      
+
   - category: Android
     links:
     - name: Google developers
@@ -1574,5 +1583,20 @@
     - name: Everlane
       style: basic
       url: https://www.everlane.com/collections/womens-newest-arrivals
+
+  - category:  wordpress
+    links:
+    - name: wikihow
+      style: basic
+      url: https://www.wikihow.com
+
+    - name: wordpress点金主题
+      style: basic
+      url: https://www.dianjin123.com/
+
+    - name: wpnewsdesk
+      style: basic
+      url: http://wpnewsdesk.com/
+
 
   
