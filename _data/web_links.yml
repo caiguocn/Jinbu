@@ -1603,5 +1603,35 @@
       style: basic
       url: http://wpnewsdesk.com/
 
+    - name: wordpress org
+      style: basic
+      url: https://wordpress.org/plugins/ 
+
+    - name: wordpress org
+      style: basic
+      url: https://wordpress.org/plugins/       
+
+  - category:  quiz
+    links:
+    - name: quizly
+      style: basic
+      url: http://quizly.co/
+
+    - name: buzzfeed quiz
+      style: basic
+      url: https://www.buzzfeed.com/quizzes/?country=us
+
+    - name: grizly
+      style: basic
+      url: https://grizly.com/quizzes/
+
+    - name: qoolquiz
+      style: basic
+      url: https://qoolquiz.com/
+
+    - name: quizur
+      style: basic
+      url: https://pt.quizur.com/
+
 
   
