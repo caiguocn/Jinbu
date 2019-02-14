@@ -86,6 +86,7 @@
       url:   http://www.kolrank.com/
 
     - name:  google广告
+      icon: google red
       style: basic
       url:   https://ads.google.com/intl/zh-CN_cn/home/
 
@@ -219,6 +220,10 @@
 
   - category: EnglishNews
     links:
+    - name: yahoo
+      style: basic
+      url: https://www.yahoo.com/
+
     - name: quizzesbox
       style: basic
       url: https://www.quizzesbox.com
