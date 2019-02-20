@@ -1653,5 +1653,33 @@
       style: basic
       url: https://www.thequiz.com/
 
+    - name: magiquiz
+      style: basic
+      url: https://www.magiquiz.com
+
+    - name: washingtontimes
+      style: basic
+      url: https://www.washingtontimes.com/quiz/
+
+    - name: beano quiz
+      style: basic
+      url: https://www.beano.com/categories/quizzes  
+
+   - name: quizzclub(pb)
+      style: basic
+      url: https://quizzclub.com/   
+
+
+
+
+      
+
+  - category:  网络工具
+    links:
+    - name: sockscap64
+      style: basic
+      url: https://www.sockscap64.com
+
+    
 
   
