@@ -1665,7 +1665,7 @@
       style: basic
       url: https://www.beano.com/categories/quizzes  
 
-    - name: quizzclub(pb)
+    - name: quizzclub
         style: basic
         url: https://quizzclub.com/    
 
