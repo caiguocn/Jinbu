@@ -1666,9 +1666,15 @@
       url: https://www.beano.com/categories/quizzes  
 
     - name: quizzclub
-        style: basic
-        url: https://quizzclub.com/    
+      style: basic
+      url: https://quizzclub.com/    
 
+    - name: brainfall
+      style: basic
+      url: https://brainfall.com/  
+
+
+  
   - category:  tools
     links:
     - name: sockscap64
