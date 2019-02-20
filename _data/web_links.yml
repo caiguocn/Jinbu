@@ -1665,16 +1665,11 @@
       style: basic
       url: https://www.beano.com/categories/quizzes  
 
-   - name: quizzclub(pb)
-      style: basic
-      url: https://quizzclub.com/   
+    - name: quizzclub(pb)
+        style: basic
+        url: https://quizzclub.com/    
 
-
-
-
-      
-
-  - category:  网络工具
+  - category:  tools
     links:
     - name: sockscap64
       style: basic
