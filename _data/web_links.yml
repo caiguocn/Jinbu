@@ -1673,7 +1673,21 @@
       style: basic
       url: https://brainfall.com/  
 
+    - name: msn quiz
+      style: basic
+      url: https://www.msn.com/en-gb/lifestyle/quiz     
 
+    - name: 365tests
+      style: basic
+      url: https://365tests.com/personality-tests/
+
+- section: 电商相关
+  categories:  
+  - category:  instagram tools
+    links:
+    - name: sockscap64
+      style: basic
+      url: https://www.sockscap64.com      
   
   - category:  tools
     links:
