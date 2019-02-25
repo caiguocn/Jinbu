@@ -1681,13 +1681,90 @@
       style: basic
       url: https://365tests.com/personality-tests/
 
+      
+
 - section: 电商相关
   categories:  
   - category:  instagram tools
     links:
-    - name: sockscap64
+    - name: socialblade
       style: basic
-      url: https://www.sockscap64.com      
+      url: https://socialblade.com/
+
+    - name: hopperhq
+      style: basic
+      url: https://www.hopperhq.com/
+
+    - name: hootsuite
+      style: basic
+      url: https://hootsuite.com/
+
+    - name: shoutcart
+      style: basic
+      url: https://shoutcart.com/
+
+    - name: influencermarketinghub
+      style: basic
+      url: https://influencermarketinghub.com/
+
+    - name: iconosquare帐号管理
+      style: basic
+      url: https://pro.iconosquare.com
+
+    - name: sproutsocial帐号管理
+      style: basic
+      url: https://sproutsocial.com/
+
+    - name: keyhole标签
+      style: basic
+      url: https://keyhole.co/
+
+    - name: minter
+      style: basic
+      url: https://minter.io/
+
+    - name: socialrank
+      style: basic
+      url: https://socialrank.com/
+
+    - name: onlypult
+      style: basic
+      url: https://onlypult.com/           
+
+    - name: crowdfireapp
+      style: basic
+      url: https://www.crowdfireapp.com/?request_locale=en_US
+
+    - name: instafollowerspro
+      style: basic
+      url: https://www.instafollowerspro.com/
+
+    - name: tagboard
+      style: basic
+      url: http://tagboard.com/           
+
+    - name: hashtags
+      style: basic
+      url: https://www.hashtags.org/        
+
+    - name: hashtracking
+      style: basic
+      url: https://www.hashtracking.com/         
+
+  - category:  twitter tools
+    links:
+    - name: tweetbinder
+      style: basic
+      url: https://www.tweetbinder.com/             
+
+    - name: twubs
+      style: basic
+      url: http://twubs.com/      
+
+    - name: ritetag
+      style: basic
+      url: https://ritetag.com/hashtag-search/love
+                                    
   
   - category:  tools
     links:
