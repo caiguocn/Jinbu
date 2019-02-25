@@ -1764,6 +1764,22 @@
     - name: ritetag
       style: basic
       url: https://ritetag.com/hashtag-search/love
+
+
+  - category:  instagram tools 2
+    links:
+    - name: later
+      style: basic
+      url: https://later.com/ 
+
+    - name: buffer
+      style: basic
+      url: https://buffer.com/
+
+    - name: wolfmillionaire
+      style: basic
+      url: https://wolfmillionaire.com/
+                                        
                                     
   
   - category:  tools
