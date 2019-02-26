@@ -1765,6 +1765,9 @@
       style: basic
       url: https://ritetag.com/hashtag-search/love
 
+    - name: hashtagify
+      style: basic
+      url: https://hashtagify.me/
 
   - category:  instagram tools 2
     links:
@@ -1779,7 +1782,25 @@
     - name: wolfmillionaire
       style: basic
       url: https://wolfmillionaire.com/
-                                        
+
+    - name: sendible
+      style: basic
+      url: https://www.sendible.com/?afmc=25
+
+    - name: tailwindapp
+      style: basic
+      url: https://www.tailwindapp.com
+
+    - name: agorapulse
+      style: basic
+      url: https://www.agorapulse.com/features/social-media-publishing
+
+    - name: autogrammer
+      style: basic
+      url: https://www.autogrammer.com/   
+
+      
+                                   
                                     
   
   - category:  tools
@@ -1787,6 +1808,28 @@
     - name: sockscap64
       style: basic
       url: https://www.sockscap64.com
+
+  - category:  python
+    links:
+    - name: 17python
+      style: basic
+      url: http://www.17python.com
+
+    - name: anaconda
+      style: basic
+      url: https://www.anaconda.com  
+
+    - name: runoob菜鸟 
+      style: basic
+      url: http://www.runoob.com/python/python-tutorial.html      
+
+    - name: liaoxuefeng 
+      style: basic
+      url: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+    - name: python org 
+      style: basic
+      url: https://www.python.org/        
 
     
 
