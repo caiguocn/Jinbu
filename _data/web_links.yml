@@ -281,6 +281,11 @@
       style: basic
       url: http://www.instagram.com
 
+    - name: Instagram Blog
+      icon: instagram pink
+      style: basic
+      url: https://business.instagram.com/blog
+
     - name: Facebook
       icon: facebook blue
       style: basic
