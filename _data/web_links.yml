@@ -1686,6 +1686,26 @@
       style: basic
       url: https://365tests.com/personality-tests/
 
+    - name: popbuzz
+      style: basic
+      url: https://www.popbuzz.com/quizzes/ 
+
+    - name: popbuzz
+      style: basic
+      url: https://www.popbuzz.com/quizzes/       
+
+    - name: quizony
+      style: basic
+      url: https://www.quizony.com/
+
+    - name: livingly
+      style: basic
+      url: http://www.livingly.com/quiz
+
+    - name: howstuffworks
+      style: basic
+      url: https://play.howstuffworks.com/
+
       
 
 - section: 电商相关
