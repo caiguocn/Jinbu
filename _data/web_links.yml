@@ -995,6 +995,62 @@
       style: basic
       url: https://www.zoo.com
 
+- section: 广告技术
+  categories:
+
+  - category: AdWords / Search Spy Tools
+    links:
+    - name:  spyfu
+      style: basic
+      url:   https://www.spyfu.com/
+
+    - name:  anstrex
+      style: basic
+      url:   https://www.anstrex.com 
+
+    - name:  idvert
+      style: basic
+      url:   https://idvert.com/
+
+    - name:  adbeat
+      style: basic
+      url:   https://www.adbeat.com
+
+  - category: Display Ad Spy Tools
+    links:
+    - name:  stmforum
+      style: basic
+      url:   https://stmforum.com/
+
+      
+  - category: App Spy Tools
+    links:
+    - name:  stmforum
+      style: basic
+      url:   https://stmforum.com/
+
+  - category: Social Ad Spy Tools
+    links:
+    - name:  stmforum
+      style: basic
+      url:   https://stmforum.com/
+
+  - category: Native Ads Spy Tools
+    links:
+    - name:  stmforum
+      style: basic
+      url:   https://stmforum.com/
+
+  - category: forum
+    links:
+    - name:  stmforum
+      style: basic
+      url:   https://stmforum.com/                  
+
+    - name:  paidinsights
+      style: basic
+      url:   https://www.paidinsights.com/
+
 
 - section: 技术
   categories:
