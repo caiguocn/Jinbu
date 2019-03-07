@@ -917,6 +917,85 @@
       style: basic
       url: http://www.price.com.hk/
 
+  - category:  quiz
+    links:
+    - name: quizly FB来源
+      style: basic
+      url: http://quizly.co/
+
+    - name: buzzfeed quiz
+      style: basic
+      url: https://www.buzzfeed.com/quizzes/?country=us
+
+    - name: grizly
+      style: basic
+      url: https://grizly.com/quizzes/
+
+    - name: qoolquiz
+      style: basic
+      url: https://qoolquiz.com/
+
+    - name: quizur
+      style: basic
+      url: https://pt.quizur.com/
+
+    - name: thequiz
+      style: basic
+      url: https://www.thequiz.com/
+
+    - name: magiquiz
+      style: basic
+      url: https://www.magiquiz.com
+
+    - name: washingtontimes
+      style: basic
+      url: https://www.washingtontimes.com/quiz/
+
+    - name: beano quiz
+      style: basic
+      url: https://www.beano.com/categories/quizzes  
+
+    - name: quizzclub
+      style: basic
+      url: https://quizzclub.com/    
+
+    - name: brainfall
+      style: basic
+      url: https://brainfall.com/  
+
+    - name: msn quiz
+      style: basic
+      url: https://www.msn.com/en-gb/lifestyle/quiz     
+
+    - name: 365tests
+      style: basic
+      url: https://365tests.com/personality-tests/
+
+    - name: popbuzz
+      style: basic
+      url: https://www.popbuzz.com/quizzes/ 
+
+    - name: popbuzz
+      style: basic
+      url: https://www.popbuzz.com/quizzes/       
+
+    - name: quizony
+      style: basic
+      url: https://www.quizony.com/
+
+    - name: livingly
+      style: basic
+      url: http://www.livingly.com/quiz
+
+    - name: howstuffworks
+      style: basic
+      url: https://play.howstuffworks.com/
+
+    - name: zoo
+      style: basic
+      url: https://www.zoo.com
+
+
 - section: 技术
   categories:
 
@@ -1632,79 +1711,6 @@
       style: basic
       url: https://wordpress.org/plugins/       
 
-  - category:  quiz
-    links:
-    - name: quizly
-      style: basic
-      url: http://quizly.co/
-
-    - name: buzzfeed quiz
-      style: basic
-      url: https://www.buzzfeed.com/quizzes/?country=us
-
-    - name: grizly
-      style: basic
-      url: https://grizly.com/quizzes/
-
-    - name: qoolquiz
-      style: basic
-      url: https://qoolquiz.com/
-
-    - name: quizur
-      style: basic
-      url: https://pt.quizur.com/
-
-    - name: thequiz
-      style: basic
-      url: https://www.thequiz.com/
-
-    - name: magiquiz
-      style: basic
-      url: https://www.magiquiz.com
-
-    - name: washingtontimes
-      style: basic
-      url: https://www.washingtontimes.com/quiz/
-
-    - name: beano quiz
-      style: basic
-      url: https://www.beano.com/categories/quizzes  
-
-    - name: quizzclub
-      style: basic
-      url: https://quizzclub.com/    
-
-    - name: brainfall
-      style: basic
-      url: https://brainfall.com/  
-
-    - name: msn quiz
-      style: basic
-      url: https://www.msn.com/en-gb/lifestyle/quiz     
-
-    - name: 365tests
-      style: basic
-      url: https://365tests.com/personality-tests/
-
-    - name: popbuzz
-      style: basic
-      url: https://www.popbuzz.com/quizzes/ 
-
-    - name: popbuzz
-      style: basic
-      url: https://www.popbuzz.com/quizzes/       
-
-    - name: quizony
-      style: basic
-      url: https://www.quizony.com/
-
-    - name: livingly
-      style: basic
-      url: http://www.livingly.com/quiz
-
-    - name: howstuffworks
-      style: basic
-      url: https://play.howstuffworks.com/
 
       
 
