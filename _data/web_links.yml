@@ -927,7 +927,7 @@
       style: basic
       url: https://www.buzzfeed.com/quizzes/?country=us
 
-    - name: grizly
+    - name: grizly G广告
       style: basic
       url: https://grizly.com/quizzes/
 
@@ -1000,9 +1000,22 @@
 
   - category: AdWords / Search Spy Tools
     links:
-    - name:  spyfu
+    - name:  1. spyfu
       style: basic
       url:   https://www.spyfu.com/
+
+    - name:  2. semrush
+      style: basic
+      url:   https://www.semrush.com
+
+    - name:  3. ispionage
+      style: basic
+      url:   https://www.ispionage.com/
+
+    - name:  4. keywordspy
+      style: basic
+      url:   http://www.keywordspy.com/    
+
 
     - name:  anstrex
       style: basic
@@ -1012,16 +1025,26 @@
       style: basic
       url:   https://idvert.com/
 
+
+
+  - category: Display Ad Spy Tools
+    links:
+    - name:  whatrunswhere
+      style: basic
+      url:   https://www.whatrunswhere.com/
+
     - name:  adbeat
       style: basic
       url:   https://www.adbeat.com
 
-  - category: Display Ad Spy Tools
-    links:
-    - name:  stmforum
+    - name:  adclarity
       style: basic
-      url:   https://stmforum.com/
+      url:   http://www.adclarity.com
 
+    - name:  moat
+      style: basic
+      url:   https://moat.com/moat_pro
+      
       
   - category: App Spy Tools
     links:
