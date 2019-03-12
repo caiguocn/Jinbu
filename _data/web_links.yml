@@ -90,6 +90,16 @@
       style: basic
       url:   https://ads.google.com/intl/zh-CN_cn/home/
 
+    - name:  runoob菜鸟教程
+      icon: google red
+      style: basic
+      url:   http://www.runoob.com/
+
+    - name:  w3school学校
+      icon: google red
+      style: basic
+      url:   http://www.w3school.com.cn/index.html     
+
       
 
   - category: 工具
@@ -262,17 +272,45 @@
       style: basic
       url: https://www.techmeme.com/
 
-    - name: 测速google
+    - name: VOA新闻
       style: basic
-      url: https://developers.google.com/speed/
+      url: http://www.51voa.com/
 
-    - name: GA数据
+    - name: 可可
       style: basic
-      url: https://analytics.google.com/analytics/web/?hl=zh-CN&pli=1#embed/report-home/a107260042w160145773p161383769/
+      url: http://www.kekenet.com/
 
-    - name: 一淘
+    - name: Globaltimes
       style: basic
-      url: https://www.etao.com/      
+      url: http://www.globaltimes.cn/
+
+    - name: 爱思
+      style: basic
+      url: http://www.24en.com/
+
+    - name: 泸江
+      style: basic
+      url: http://www.hjenglish.com/
+
+    - name: 大耳朵
+      style: basic
+      url: http://www.ebigear.com/
+
+    - name: 大耳朵
+      style: basic
+      url: http://www.ebigear.com/
+
+    - name: 大耳朵
+      style: basic
+      url: http://www.ebigear.com/
+
+    - name: CNN
+      style: basic
+      url: http://edition.cnn.com/ASIA/
+
+    - name: 今日美国
+      style: basic
+      url: http://www.usatoday.com/   
 
   - category: 社交
     links:
