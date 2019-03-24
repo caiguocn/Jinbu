@@ -99,6 +99,26 @@
       icon: google red
       style: basic
       url:   http://www.w3school.com.cn/index.html     
+      
+    - name:  博客园
+      icon: google red
+      style: basic
+      url:   https://www.cnblogs.com/
+      
+    - name:  腾讯课堂
+      icon: google red
+      style: basic
+      url:   https://ke.qq.com/   
+      
+    - name:  TapTap
+      icon: google red
+      style: basic
+      url:   https://www.taptap.com/
+      
+    - name:  AppAnnie
+      icon: google red
+      style: basic
+      url:   https://www.appannie.com/dashboard/home/
 
       
 
@@ -311,6 +331,10 @@
     - name: 今日美国
       style: basic
       url: http://www.usatoday.com/   
+      
+    - name: 扇贝英语
+      style: basic
+      url: https://www.shanbay.com/news/articles/
 
   - category: 社交
     links:
@@ -729,6 +753,23 @@
     - name: 极有家
       style: basic
       url: https://www.jiyoujia.com/
+
+- section: h5游戏
+  categories:
+  - category: cocos creator
+    links:
+    - name: cocos
+      style: basic
+      url: https://www.cocos.com/docs/
+      
+    - name: layabox
+      style: basic
+      url: https://ldc2.layabox.com/     
+      
+    - name: 微信游戏
+      style: basic
+      url: https://www.xiaoyouxi100.com/ 
+
 
 - section: 工具
   categories:
