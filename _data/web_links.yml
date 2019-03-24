@@ -513,9 +513,7 @@
       style: basic
       url:  https://readhub.cn/topics    
 
-  
-
-- section: 电商
+- section: 技术
   categories:
   - category: 导购
     links:
@@ -1113,7 +1111,6 @@
       url:   https://www.paidinsights.com/
 
 
-- section: 技术
   categories:
 
   - category: Cocos2d
@@ -1988,3 +1985,4 @@
     
 
   
+- section: 电商
