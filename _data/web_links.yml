@@ -712,10 +712,6 @@
 
   - category: 前端
     links:
-    - name: JavaScript极客
-      style: basic
-      url: http://wiki.jikexueyuan.com/list/javascript/
-
     - name: JS python廖雪峰
       style: basic
       url: http://www.liaoxuefeng.com/
@@ -769,6 +765,71 @@
     - name: 微信游戏
       style: basic
       url: https://www.xiaoyouxi100.com/ 
+
+  - category: TypeScript
+    links:
+    - name: tslang
+      style: basic
+      url: https://www.tslang.cn/docs/home.html
+
+  - category: JavaScript
+    links:
+    - name: JavaScript极客
+      style: basic
+      url: http://wiki.jikexueyuan.com/list/javascript/
+
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/javascript
+
+  - category: Jfinal
+    links:
+    - name: jfinal
+      style: basic
+      url: https://www.jfinal.com/
+
+    - name: jpress
+      style: basic
+      url: http://jpress.io/
+
+      
+  - category: Flutter
+    links:
+    - name: flutter
+      style: basic
+      url: https://flutter.dev/
+
+    - name: flutterchina
+      style: basic
+      url: https://flutterchina.club/
+
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/flutter/blogs
+
+    - name: 干货
+      style: basic
+      url: http://gank.io/  
+
+
+  - category: C#
+    links:
+    - name: nuget
+      style: basic
+      url: https://www.nuget.org/
+      
+    - name: gitstar ranking
+      style: basic
+      url: https://gitstar-ranking.com/
+      
+    - name: codeplex
+      style: basic
+      url: https://archive.codeplex.com/
+
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/c%23  
+
 
 
 - section: 工具
