@@ -911,6 +911,10 @@
 
   - category: 学习
     links:
+    - name: 腾讯课堂
+      style: basic
+      url: https://ke.qq.com/
+
     - name: CSDN
       style: basic
       url: http://www.csdn.net/
