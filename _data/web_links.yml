@@ -5,7 +5,7 @@
     - name: Google Play商店
       icon: google red
       style: basic
-      url:  https://play.google.com/store
+      url:  https://play.google.com/store/apps/new?&hl=en
 
     - name: Google PUblish
       icon: android red
