@@ -347,6 +347,42 @@
 
   - category: EnglishNews
     links:
+    - name: gamespot
+      style: basic
+      url: https://www.gamespot.com/news/
+
+    - name: pc gamer
+      style: basic
+      url: https://www.pcgamer.com/news/
+
+    - name: games radar
+      style: basic
+      url: https://www.gamesradar.com/news/   
+
+    - name: game zone
+      style: basic
+      url: https://www.gamezone.com/news/
+      
+    - name: digital trends
+      style: basic
+      url: https://www.digitaltrends.com/  
+
+    - name: game info
+      style: basic
+      url: https://www.gameinformer.com/ 
+     
+    - name: metacritic
+      style: basic
+      url: https://www.metacritic.com/game
+      
+    - name: polygon
+      style: basic
+      url: https://www.polygon.com/   
+      
+    - name: theverge
+      style: basic
+      url: https://www.theverge.com/games      
+
     - name: yahoo
       style: basic
       url: https://www.yahoo.com/
