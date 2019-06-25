@@ -6,11 +6,98 @@
       icon: google red
       style: basic
       url:  https://play.google.com/store/apps/new?&hl=en
+      
+    - name: Family
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/FAMILY?hl=en
+      
+    - name: Word
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_WORD?hl=en    
+      
+    - name: Trivia
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_TRIVIA?hl=en        
+      
+    - name: Sport
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_SPORTS?hl=en    
+      
+    - name: Simulation
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_SIMULATION?hl=en
+      
+    - name: Role Playing
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ROLE_PLAYING?hl=en
+      
+    - name: Racing
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_RACING?hl=en
+            
+    - name: Puzzle
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_PUZZLE?hl=en
+      
+    - name: Educational
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_EDUCATIONAL?hl=en
+
+    - name: Casual
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_CASUAL?hl=en
+
+    - name: Casino
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_CASINO?hl=en
+
+    - name: Card
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_CARD?hl=en
+      
+    - name: Action
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ACTION?hl=en
+
+    - name: Adventure
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ADVENTURE?hl=en
+
+    - name: Arcade
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ARCADE?hl=en
+      
+    - name: Board
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_BOARD?hl=en   
+      
+    - name: Music
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_MUSIC?hl=en    
+
+
 
     - name: Google PUblish
       icon: android red
       style: basic
-      url: https://play.google.com/apps/publish/?account=8050705195372532909#AppListPlace
+      url: https://play.google.com/apps/publish/
 
     - name: Google developers开发者
       icon: android red
@@ -2076,13 +2163,42 @@
       style: basic
       url:   https://stmforum.com/
 
-  - category: forum
+  - category: 本地
     links:
-    - name:  stmforum
+    - name:  广东政务网
       style: basic
-      url:   https://stmforum.com/                  
+      url:   http://www.gdzwfw.gov.cn/?region=440300          
 
-    - name:  paidinsights
+    - name:  汽车摇号
       style: basic
-      url:   https://www.paidinsights.com/
+      url:   http://xqctk.jtys.sz.gov.cn/
+
+    - name:  深圳社保
+      style: basic
+      url:   http://szsi.sz.gov.cn/
+      
+    - name:  深圳会展中心
+      style: basic
+      url:   http://www.szcec.com/  
+
+    - name:  深圳政府中心
+      style: basic
+      url:   http://www.sz.gov.cn/cn/
+      
+    - name:  深圳新闻网
+      style: basic
+      url:   http://www.sznews.com/
+      
+    - name:  深圳本地宝
+      style: basic
+      url:   http://sz.bendibao.com/ 
+      
+    - name:  深圳之窗
+      style: basic
+      url:   https://www.shenchuang.com/     
+      
+    - name:  家在深圳
+      style: basic
+      url:   http://bbs.szhome.com/      
+      
 
