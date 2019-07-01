@@ -2235,6 +2235,17 @@
       
     - name:  家在深圳
       style: basic
-      url:   http://bbs.szhome.com/      
+      url:   http://bbs.szhome.com/     
       
+- section: 技术
+  categories:
+  - category: 在线编程练习
+    links:
+    - name:  lintcode
+      style: basic
+      url:   https://www.lintcode.com/
+      
+    - name:  lintcode 答案
+      style: basic
+      url:   https://www.jiuzhang.com/solutions/
 
