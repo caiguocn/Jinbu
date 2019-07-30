@@ -1,4 +1,4 @@
-- section: game
+- section: public
   categories:
   - category: king
     links:
@@ -29,3 +29,8 @@
     - name: Zynga
       style: basic
       url: https://play.google.com/store/apps/dev?id=6690081412016968981
+
+- section: public
+  categories:
+  - category: 购物
+    links:
