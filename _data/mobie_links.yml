@@ -1,4 +1,4 @@
-- section: 游戏 
+- section: game
   categories:
   - category: 顶级开发者APP
     links:
@@ -193,3 +193,12 @@
     - name: BitMango
       style: basic
       url: https://play.google.com/store/apps/dev?id=6249013288401661340
+
+- section: 游戏 
+  categories:
+  - category: 开发者APP
+    links:
+    - name: king
+      style: basic
+      url: https://play.google.com/store/apps/dev?id=6577204690045492686
+
