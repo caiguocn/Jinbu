@@ -1,6 +1,6 @@
-- section: game
+- section: public
   categories:
-  - category: 顶级开发者APP
+  - category: 购物
     links:
     - name: king
       style: basic
