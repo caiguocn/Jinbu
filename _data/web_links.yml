@@ -41,7 +41,7 @@
       icon: google red
       style: basic
       url:  https://play.google.com/store/apps/category/GAME_RACING?hl=en
-            
+      
     - name: Puzzle
       icon: google red
       style: basic
@@ -51,17 +51,17 @@
       icon: google red
       style: basic
       url:  https://play.google.com/store/apps/category/GAME_EDUCATIONAL?hl=en
-
+      
     - name: Casual
       icon: google red
       style: basic
       url:  https://play.google.com/store/apps/category/GAME_CASUAL?hl=en
-
+      
     - name: Casino
       icon: google red
       style: basic
       url:  https://play.google.com/store/apps/category/GAME_CASINO?hl=en
-
+      
     - name: Card
       icon: google red
       style: basic
@@ -71,12 +71,12 @@
       icon: google red
       style: basic
       url:  https://play.google.com/store/apps/category/GAME_ACTION?hl=en
-
+      
     - name: Adventure
       icon: google red
       style: basic
       url:  https://play.google.com/store/apps/category/GAME_ADVENTURE?hl=en
-
+      
     - name: Arcade
       icon: google red
       style: basic
@@ -85,103 +85,99 @@
     - name: Board
       icon: google red
       style: basic
-      url:  https://play.google.com/store/apps/category/GAME_BOARD?hl=en   
+      url:  https://play.google.com/store/apps/category/GAME_BOARD?hl=en
       
     - name: Music
       icon: google red
       style: basic
-      url:  https://play.google.com/store/apps/category/GAME_MUSIC?hl=en    
-
-
-
+      url:  https://play.google.com/store/apps/category/GAME_MUSIC?hl=en
+      
     - name: Google PUblish
       icon: android red
       style: basic
       url: https://play.google.com/apps/publish/
-
+      
     - name: Google developers开发者
       icon: android red
       style: basic
       url: https://developers.google.com/
-
+      
     - name: Android
       icon: android red
       style: basic
       url: https://developer.android.com/index.html
-
+      
     - name:  Googleblog博客
       style: basic
       url:  https://android-developers.googleblog.com/
-
+      
     - name:  nodejs
       style: basic
       url:  https://nodejs.org/en/
-
+      
     - name:  Chrome V8
       icon: chrome blue
       style: basic
       url:  https://developers.google.com/v8/
-
-
+      
     - name:  清博
       style: basic
       url:   http://www.gsdata.cn/
-
+      
     - name:  新榜
       style: basic
       url:   http://www.newrank.cn/
-
+      
     - name:  大鱼
       style: basic
       url:  http://index.dayu.com/
-
+      
     - name:  google trends
       icon: google blue
       style: basic
       url:   https://trends.google.com/trends/
-
+      
     - name:  Google Analytics分析
       icon: google red
       style: basic
       url:   https://analytics.google.com/analytics/web
-
+      
     - name:  Google Search
       icon: google red
       style: basic
       url:   https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.quizzesbox.com%2F
-
+      
     - name:  Bing Webmaster
       icon: google red
       style: basic
       url:  https://www.bing.com/webmaster/home/dashboard?url=https%3A%2F%2Fwww.quizzesbox.com%2F#
       
-
     - name:  OS China开源
       style: basic
       url:   https://www.oschina.net/
-
+      
     - name:  雨果网
       style: basic
       url:   http://www.cifnews.com/
-
+      
     - name:  亿邦
       style: basic
       url:   http://www.ebrun.com/fto/?eb=hp_home_nav_xzdh
-
+      
     - name:  领库
       style: basic
       url:   http://www.kolrank.com/
-
+      
     - name:  google广告
       icon: google red
       style: basic
       url:   https://ads.google.com/intl/zh-CN_cn/home/
-
+      
     - name:  runoob菜鸟教程
       icon: google red
       style: basic
       url:   http://www.runoob.com/
-
+      
     - name:  w3school学校
       icon: google red
       style: basic
@@ -205,22 +201,20 @@
     - name:  AppAnnie
       icon: google red
       style: basic
-      url:   https://www.appannie.com/dashboard/home/
-
+      url:   https://www.appannie.com/dashboard/home
       
-
   - category: 工具
     links:
     - name: Tapd敏捷工作台
       icon: stack overflow red
       style: basic
       url:  https://www.tapd.cn/52418834/prong/stories/stories_list
-
+      
     - name: 腾讯文档
       icon: stack overflow red
       style: basic
       url:  https://docs.qq.com/desktop
-
+      
     - name: Mytools
       icon: stack overflow red
       style: basic
@@ -230,30 +224,30 @@
       icon: stack overflow red
       style: basic
       url:  https://adwords.google.com/aw/keywordplanner/home?ocid=109360025&__c=8704286225&sourceid=awo&__u=7159626305&authuser=0
-
+      
     - name: semrush关键字
       icon: stack overflow red
       style: basic
       url:  https://www.semrush.com/
-
+      
     - name: myip
       icon: stack overflow red
       style: basic
       url:  https://myip.ms/
-
+      
     - name: Stack overflow
       icon: stack overflow red
       style: basic
       url:  http://stackoverflow.com/
-
+      
     - name: tinypng图片
       style: basic
       url:  https://tinypng.com/
-
+      
     - name: 百度搜索
       style: basic
       url:  http://ziyuan.baidu.com/?castk=LTE%3D
-
+      
     - name: 百度指数
       style: basic
       url:  https://index.baidu.com/
