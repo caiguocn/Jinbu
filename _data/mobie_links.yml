@@ -1,7 +1,7 @@
-- section: 游戏公司
-  categories:
-  - category: 关注
-    links:
+- section: game
+  categories: 
+  - category: look
+    links: 
     - name: king
       style: basic
       url: https://play.google.com/store/apps/dev?id=6577204690045492686
