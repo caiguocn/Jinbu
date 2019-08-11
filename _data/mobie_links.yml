@@ -30,8 +30,6 @@
       style: basic
       url: https://play.google.com/store/apps/dev?id=6690081412016968981
       
-  - category: game_strategy
-    links:
     - name: Elex Wireless
       style: basic
       url: https://play.google.com/store/apps/developer?id=Elex+Wireless
@@ -120,8 +118,6 @@
       style: basic
       url: https://play.google.com/store/apps/dev?id=7891340555832391669
       
-  - category: game_word
-    links:
     - name: MerigoTech
       style: basic
       url: https://play.google.com/store/apps/developer?id=MerigoTech
@@ -194,10 +190,6 @@
       style: basic
       url: https://play.google.com/store/apps/dev?id=6249013288401661340
       
-- section: 游戏 
-  categories:
-  - category: 开发者APP
-    links:
     - name: king
       style: basic
-      url: https://play.google.com/store/apps/dev?id=6577204690045492686
+      url: https://play.google.com/store/apps/dev?id=6577204690045492686      
