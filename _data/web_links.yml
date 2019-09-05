@@ -861,11 +861,51 @@
       style: basic
       url: https://developer.microsoft.com/zh-cn/windows/desktop
 
-  - category: 家装
+  - category: 自媒体
     links:
-    - name: 极有家
+    - name: 小密圈
       style: basic
-      url: https://www.jiyoujia.com/
+      url: https://wx.xiaomiquan.com/dweb/
+
+    - name: 简书
+      style: basic
+      url: http://www.jianshu.com
+
+    - name: 搜狐号
+      style: basic
+      url: http://mt.sohu.com/
+
+    - name: 企鹅号
+      style: basic
+      url: http://mt.sohu.com/
+
+    - name: 头条号
+      style: basic
+      url: http://www.toutiao.com/
+
+    - name: 百家号
+      style: basic
+      url: https://baijia.baidu.com/
+
+    - name: 一点号
+      style: basic
+      url: http://www.yidianzixun.com/
+
+    - name: UC头条号
+      style: basic
+      url: https://news.uc.cn/
+
+    - name: qq圈
+      style: basic
+      url: http://quan.qq.com/
+
+    - name: 鲜橙
+      style: basic
+      url: 51xiancheng.com
+
+    - name: 趣发现
+      style: basic
+      url: http://fun.html5.qq.com/
 
 - section: h5游戏
   categories:
@@ -1208,51 +1248,7 @@
       style: basic
       url: https://github.com/madeye
 
-  - category: 自媒体
-    links:
-    - name: 小密圈
-      style: basic
-      url: https://wx.xiaomiquan.com/dweb/
 
-    - name: 简书
-      style: basic
-      url: http://www.jianshu.com
-
-    - name: 搜狐号
-      style: basic
-      url: http://mt.sohu.com/
-
-    - name: 企鹅号
-      style: basic
-      url: http://mt.sohu.com/
-
-    - name: 头条号
-      style: basic
-      url: http://www.toutiao.com/
-
-    - name: 百家号
-      style: basic
-      url: https://baijia.baidu.com/
-
-    - name: 一点号
-      style: basic
-      url: http://www.yidianzixun.com/
-
-    - name: UC头条号
-      style: basic
-      url: https://news.uc.cn/
-
-    - name: qq圈
-      style: basic
-      url: http://quan.qq.com/
-
-    - name: 鲜橙
-      style: basic
-      url: 51xiancheng.com
-
-    - name: 趣发现
-      style: basic
-      url: http://fun.html5.qq.com/
 
 - section: 电商相关
   categories:
