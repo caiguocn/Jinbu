@@ -284,7 +284,11 @@
     - name:  域名注册
       style: basic
       url:  https://wanwang.aliyun.com/?spm=5176.8142029.388261.237.3836dbccPZIGjm
-
+      
+    - name:  域名注册
+      style: basic
+      url:  https://wanwang.aliyun.com/domain/reserve?spm=5176.8006371.772226.domainprerelease.647d7e63aVzXI7#/?%7B%22type%22%3A%22partner%22%2C%22params%22%3A%7B%22keyWord%22%3A%22%22%2C%22excludeKeyWord%22%3A%22%22%2C%22keywordAsPrefix%22%3Afalse%2C%22keywordAsSuffix%22%3Afalse%2C%22exKeywordAsPrefix%22%3Afalse%2C%22exKeywordAsSuffix%22%3Afalse%2C%22constitute%22%3A%5B%2212%22%5D%2C%22suffix%22%3A%5B%22com%22%5D%2C%22domainType%22%3A%22%22%2C%22endDate%22%3A%22%22%2C%22regDate%22%3A%22%22%2C%22pageSize%22%3A20%2C%22currentPage%22%3A1%2C%22bookStatus%22%3A%22%22%2C%22ranges%22%3A%7B%22length%22%3A%22%22%2C%22price%22%3A%22%22%7D%2C%22reserveRmb%22%3A%5B%5D%2C%22partnerTypes%22%3A%22%22%2C%22sortBy%22%3A6%2C%22sortType%22%3A2%2C%22_t%22%3A%22partner%22%7D%2C%22quickIndex%22%3A%226%22%2C%22minPrice%22%3A%22%22%2C%22maxPrice%22%3A%22%22%2C%22minLength%22%3A%22%22%2C%22maxLength%22%3A%22%22%7D
+    
     - name:  英文学习
       style: basic
       url:   http://www.jinbu123.com/
@@ -304,7 +308,14 @@
     - name:  inorthant
       style: basic
       url:   https://inorthant.net/autoposter/dashboard
+
+    - name:  bugly
+      style: basic
+      url:   https://bugly.qq.com/v2/index    
       
+    - name:  bookstack电子书
+      style: basic
+      url:   https://www.bookstack.cn/explore?cid=28&tab=popular        
 
   - category: Android
     links:
@@ -653,8 +664,12 @@
     - name: readhub
       style: basic
       url:  https://readhub.cn/topics    
+      
+    - name: AppCome来
+      style: basic
+      url:  http://www.appcome.com/    
 
-  
+
 
 - section: 技术
   categories:
@@ -688,30 +703,19 @@
     - name:  nodejs org
       style: basic
       url:  http://cnodejs.org/
+      
+    - name:  vld
+      style: basic
+      url:  https://archive.codeplex.com/?p=vld
+      
 
 
-  - category: 资讯
+  - category: GITHUB
     links:
-    - name:  白鲸出海
+    - name:  gbc-core服务端架构
       style: basic
-      url:  http://www.baijingapp.com/
+      url:  https://github.com/dualface/gbc-core
 
-
-    - name:  虎嗅
-      style: basic
-      url:   https://www.huxiu.com/
-
-    - name:  游戏葡萄
-      style: basic
-      url:   http://youxiputao.com/
-
-    - name:  泡在网上的日子
-      style: basic
-      url:   http://www.jcodecraeer.com/
-
-    - name:  Tap Tap
-      style: basic
-      url:   https://www.taptap.com/
 
   - category: Unity
     links:
@@ -772,6 +776,10 @@
     - name: 广告中国
       style: basic
       url: http://www.advertcn.com/forum.php?gid=1
+  
+    - name: 魔趣ROM
+      style: basic
+      url: https://download.mokeedev.com/
 
   - category: 小程序
     links:
@@ -932,6 +940,12 @@
     - name: tslang
       style: basic
       url: https://www.tslang.cn/docs/home.html
+      
+  - category: Java
+    links:
+    - name: jforgame游戏服务
+      style: basic
+      url: https://github.com/kingston-csj/jforgame  
 
   - category: JavaScript
     links:
@@ -953,6 +967,15 @@
       style: basic
       url: http://jpress.io/
 
+  - category: GO
+    links:
+    - name: agones
+      style: basic
+      url: https://agones.dev/site/
+      
+    - name: agones
+      style: basic
+      url: https://studygolang.com/   
       
   - category: Flutter
     links:
@@ -990,9 +1013,38 @@
     - name: segmentfault
       style: basic
       url: https://segmentfault.com/t/c%23  
+      
+  - category: LUA
+    links:
+    - name: babelua
+      style: basic
+      url: https://archive.codeplex.com/?p=babelua
+      
+    - name: gitstar ranking
+      style: basic
+      url: https://gitstar-ranking.com/
+      
+    - name: codeplex
+      style: basic
+      url: https://archive.codeplex.com/
 
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/c%23
 
+  - category: NodeJs
+    links:
+    - name: pomelo
+      style: basic
+      url: https://github.com/NetEase/pomelo
+      
+  - category: Python
+    links:
+    - name: ComblockEngine游戏服务 
+      style: basic
+      url: https://www.comblockengine.com/docs/1.0/client/sdkgen/
 
+      
 - section: 工具
   categories:
   - category: 图片下载
@@ -1138,6 +1190,13 @@
       style: basic
       url:  https://www.icourse163.org/
 
+    - name: 教学资源区
+      style: basic
+      url:  https://www.44886.com/
+      
+    - name: 国家教育资源
+      style: basic
+      url:  http://1s1k.eduyun.cn/portal/html/1s1k/ranking/1.html      
       
 
 
