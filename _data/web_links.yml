@@ -947,6 +947,11 @@
       style: basic
       url:  https://github.com/potato47    
 
+  - category: C++
+    links:
+    - name: C++电子书
+      style: basic
+      url: https://www.bookstack.cn/explore?page=1&tab=popular&cid=28&lang=
 
   - category: TypeScript
     links:
@@ -959,6 +964,11 @@
     - name: jforgame游戏服务
       style: basic
       url: https://github.com/kingston-csj/jforgame  
+  
+    - name: jforgame游戏服务
+      style: basic
+      url: https://www.liaoxuefeng.com/wiki/1252599548343744/1255943660631584 
+     
 
   - category: JavaScript
     links:
@@ -1066,6 +1076,25 @@
       style: basic
       url: https://www.comblockengine.com/docs/1.0/client/sdkgen/
 
+    - name: 17python
+      style: basic
+      url: http://www.17python.com
+
+    - name: anaconda
+      style: basic
+      url: https://www.anaconda.com  
+
+    - name: runoob菜鸟 
+      style: basic
+      url: http://www.runoob.com/python/python-tutorial.html      
+
+    - name: liaoxuefeng廖雪峰 
+      style: basic
+      url: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+    - name: python org 
+      style: basic
+      url: https://www.python.org/    
       
 - section: 工具
   categories:
@@ -1665,31 +1694,6 @@
     - name: gank io
       style: basic
       url: http://gank.io
-
-      
-  - category:  python
-    links:
-    - name: 17python
-      style: basic
-      url: http://www.17python.com
-
-    - name: anaconda
-      style: basic
-      url: https://www.anaconda.com  
-
-    - name: runoob菜鸟 
-      style: basic
-      url: http://www.runoob.com/python/python-tutorial.html      
-
-    - name: liaoxuefeng 
-      style: basic
-      url: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
-
-    - name: python org 
-      style: basic
-      url: https://www.python.org/        
-
-    
 
   
 - section: 电商导购
