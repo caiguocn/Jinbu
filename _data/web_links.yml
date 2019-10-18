@@ -934,6 +934,19 @@
     - name: 微信游戏
       style: basic
       url: https://www.xiaoyouxi100.com/ 
+      
+    - name: 幼麟棋牌
+      style: basic
+      url:  https://github.com/babykylin/babykylin_scmj 
+      
+    - name: 幼麟blog
+      style: basic
+      url:  https://qilinzi.blog.csdn.net/ 
+      
+    - name: 小游戏集合
+      style: basic
+      url:  https://github.com/potato47    
+
 
   - category: TypeScript
     links:
@@ -1031,9 +1044,18 @@
     - name: segmentfault
       style: basic
       url: https://segmentfault.com/t/c%23
+  
+    - name: 云风blog
+      style: basic
+      url: https://blog.codingnow.com/
+      
 
   - category: NodeJs
     links:
+    - name: nodejs.org官网
+      style: basic
+      url: https://nodejs.org/en/download/
+      
     - name: pomelo
       style: basic
       url: https://github.com/NetEase/pomelo
