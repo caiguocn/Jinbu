@@ -284,6 +284,10 @@
     - name:  域名注册
       style: basic
       url:  https://wanwang.aliyun.com/?spm=5176.8142029.388261.237.3836dbccPZIGjm
+  
+    - name:  域名注册
+      style: basic
+      url:  http://www.xinnet.com/
       
     - name:  域名注册
       style: basic
