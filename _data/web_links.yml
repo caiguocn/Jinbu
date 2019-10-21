@@ -205,6 +205,11 @@
       
   - category: 工具
     links:
+    - name: Firebase功能
+      icon: stack overflow red
+      style: basic
+      url:  https://console.firebase.google.com/u/0/?pli=1
+      
     - name: Tapd敏捷工作台
       icon: stack overflow red
       style: basic
