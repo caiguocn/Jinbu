@@ -285,11 +285,11 @@
       style: basic
       url:  https://wanwang.aliyun.com/?spm=5176.8142029.388261.237.3836dbccPZIGjm
   
-    - name:  域名注册
+    - name:  新网
       style: basic
       url:  http://www.xinnet.com/
       
-    - name:  域名注册
+    - name:  抢注
       style: basic
       url:  https://wanwang.aliyun.com/domain/reserve?spm=5176.8006371.772226.domainprerelease.647d7e63aVzXI7#/?%7B%22type%22%3A%22partner%22%2C%22params%22%3A%7B%22keyWord%22%3A%22%22%2C%22excludeKeyWord%22%3A%22%22%2C%22keywordAsPrefix%22%3Afalse%2C%22keywordAsSuffix%22%3Afalse%2C%22exKeywordAsPrefix%22%3Afalse%2C%22exKeywordAsSuffix%22%3Afalse%2C%22constitute%22%3A%5B%2212%22%5D%2C%22suffix%22%3A%5B%22com%22%5D%2C%22domainType%22%3A%22%22%2C%22endDate%22%3A%22%22%2C%22regDate%22%3A%22%22%2C%22pageSize%22%3A20%2C%22currentPage%22%3A1%2C%22bookStatus%22%3A%22%22%2C%22ranges%22%3A%7B%22length%22%3A%22%22%2C%22price%22%3A%22%22%7D%2C%22reserveRmb%22%3A%5B%5D%2C%22partnerTypes%22%3A%22%22%2C%22sortBy%22%3A6%2C%22sortType%22%3A2%2C%22_t%22%3A%22partner%22%7D%2C%22quickIndex%22%3A%226%22%2C%22minPrice%22%3A%22%22%2C%22maxPrice%22%3A%22%22%2C%22minLength%22%3A%22%22%2C%22maxLength%22%3A%22%22%7D
     
@@ -784,6 +784,10 @@
     - name: 魔趣ROM
       style: basic
       url: https://download.mokeedev.com/
+      
+    - name: apachecn AI社区
+      style: basic
+      url: https://docs.apachecn.org/  
 
   - category: 小程序
     links:
