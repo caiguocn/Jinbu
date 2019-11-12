@@ -1000,6 +1000,18 @@
 
   - category: JavaScript
     links:
+     - name: Angular
+      style: basic
+      url: https://angular.cn/
+      
+     - name: Vue JS
+      style: basic
+      url: https://cn.vuejs.org/
+      
+     - name: React
+      style: basic
+      url: https://react.docschina.org/
+    
     - name: JavaScript极客
       style: basic
       url: http://wiki.jikexueyuan.com/list/javascript/
