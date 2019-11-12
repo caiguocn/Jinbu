@@ -562,7 +562,11 @@
 
   - category: 资讯
     links:
-    - name: 独立开发者
+    - name: 独立开发
+      style: basic
+      url: https://www.zhihu.com/search?type=content&q=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85
+
+    - name: 独立开发
       style: basic
       url: https://www.zhihu.com/question/24667846/answer/28564010
 
