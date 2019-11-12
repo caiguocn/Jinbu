@@ -562,6 +562,10 @@
 
   - category: 资讯
     links:
+    - name: 独立开发者
+      style: basic
+      url: https://www.zhihu.com/question/24667846/answer/28564010
+
     - name: TGA
       style: basic
       url: https://thegameawards.com/
@@ -678,6 +682,13 @@
       style: basic
       url:  http://www.appcome.com/    
 
+    - name: 篝火营地
+      style: basic
+      url:  https://gouhuo.qq.com/ 
+      
+    - name: indie nova
+      style: basic
+      url:  https://indienova.com/    
 
 
 - section: 技术
@@ -1708,7 +1719,34 @@
       style: basic
       url: http://gank.io
 
-  
+    - name: 软件下载
+      style: basic
+      url: https://www.softpedia.com/
+      
+    - name: yishimei
+      style: basic
+      url: http://www.yishimei.cn/
+      
+    - name: wanghualang
+      style: basic
+      url: https://www.wanghualang.com/
+
+    - name: 系统下载
+      style: basic
+      url: https://msdn.itellyou.cn/
+
+    - name: macxin
+      style: basic
+      url: https://www.macxin.com
+
+    - name: dcloud
+      style: basic
+      url: https://www.dcloud.io/     
+      
+    - name: rapid json
+      style: basic
+      url: http://miloyip.github.io/rapidjson/zh-cn/   
+      
 - section: 电商导购
   categories:
   - category: 导购
@@ -2328,6 +2366,18 @@
     - name:  家在深圳
       style: basic
       url:   http://bbs.szhome.com/     
+      
+    - name:  家在临深
+      style: basic
+      url:   http://bbs.szhome.com/        
+
+    - name:  家在宝安
+      style: basic
+      url:   http://bbs.szhome.com/10001.html    
+    
+    - name:  家在南山
+      style: basic
+      url:   http://bbs.szhome.com/50010.html
       
 - section: 技术
   categories:
