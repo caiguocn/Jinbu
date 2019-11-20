@@ -560,6 +560,11 @@
       style: basic
       url: https://www.slideshare.net/
 
+    - name: B站
+      icon: pinterest red
+      style: basic
+      url: https://space.bilibili.com/60110615/favlist?spm_id_from=333.851.b_696e7465726e6174696f6e616c486561646572.32
+
   - category: 资讯
     links:
     - name: 独立开发
@@ -694,6 +699,63 @@
       style: basic
       url:  https://indienova.com/    
 
+  - category: 本地
+    links:
+    - name:  雪球
+      style: basic
+      url:   https://xueqiu.com/
+
+    - name:  观察者
+      style: basic
+      url:   https://www.guancha.cn/   
+
+    - name:  广东政务网
+      style: basic
+      url:   http://www.gdzwfw.gov.cn/?region=440300          
+
+    - name:  汽车摇号
+      style: basic
+      url:   http://xqctk.jtys.sz.gov.cn/
+
+    - name:  深圳社保
+      style: basic
+      url:   http://szsi.sz.gov.cn/
+      
+    - name:  深圳会展中心
+      style: basic
+      url:   http://www.szcec.com/  
+
+    - name:  深圳政府中心
+      style: basic
+      url:   http://www.sz.gov.cn/cn/
+      
+    - name:  深圳新闻网
+      style: basic
+      url:   http://www.sznews.com/
+      
+    - name:  深圳本地宝
+      style: basic
+      url:   http://sz.bendibao.com/ 
+      
+    - name:  深圳之窗
+      style: basic
+      url:   https://www.shenchuang.com/     
+      
+    - name:  家在深圳
+      style: basic
+      url:   http://bbs.szhome.com/     
+      
+    - name:  家在临深
+      style: basic
+      url:   http://bbs.szhome.com/30030.html     
+
+    - name:  家在宝安
+      style: basic
+      url:   http://bbs.szhome.com/10001.html    
+    
+    - name:  家在南山
+      style: basic
+      url:   http://bbs.szhome.com/50010.html
 
 - section: 技术
   categories:
@@ -2353,55 +2415,7 @@
       style: basic
       url:   https://stmforum.com/
 
-  - category: 本地
-    links:
-    - name:  广东政务网
-      style: basic
-      url:   http://www.gdzwfw.gov.cn/?region=440300          
 
-    - name:  汽车摇号
-      style: basic
-      url:   http://xqctk.jtys.sz.gov.cn/
-
-    - name:  深圳社保
-      style: basic
-      url:   http://szsi.sz.gov.cn/
-      
-    - name:  深圳会展中心
-      style: basic
-      url:   http://www.szcec.com/  
-
-    - name:  深圳政府中心
-      style: basic
-      url:   http://www.sz.gov.cn/cn/
-      
-    - name:  深圳新闻网
-      style: basic
-      url:   http://www.sznews.com/
-      
-    - name:  深圳本地宝
-      style: basic
-      url:   http://sz.bendibao.com/ 
-      
-    - name:  深圳之窗
-      style: basic
-      url:   https://www.shenchuang.com/     
-      
-    - name:  家在深圳
-      style: basic
-      url:   http://bbs.szhome.com/     
-      
-    - name:  家在临深
-      style: basic
-      url:   http://bbs.szhome.com/        
-
-    - name:  家在宝安
-      style: basic
-      url:   http://bbs.szhome.com/10001.html    
-    
-    - name:  家在南山
-      style: basic
-      url:   http://bbs.szhome.com/50010.html
       
 - section: 技术
   categories:
