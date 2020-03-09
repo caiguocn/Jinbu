@@ -2,10 +2,15 @@
   categories:
   - category: 关注
     links:
-    - name: Google Play商店
+    - name: Google Play 每日排行榜
       icon: google red
       style: basic
-      url:  https://play.google.com/store/apps/new?&hl=en
+      url:  https://play.google.com/store/apps/top/category/GAME?hl=en
+      
+    - name: 游戏每日排行榜
+      icon: google red
+      style: basic
+      url:  https://www.appannie.com/apps/ios/top-chart/?country=US&category=6014&device=iphone&date=2020-03-09&feed=All&rank_sorting_type=rank&page_number=0&page_size=100&table_selections=
       
     - name: Family
       icon: google red
