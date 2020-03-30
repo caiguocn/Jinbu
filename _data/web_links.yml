@@ -1,3 +1,453 @@
+- section: h5游戏
+  categories:
+  - category: cocos creator
+    links:
+    - name: cocos
+      style: basic
+      url: https://www.cocos.com/docs/
+      
+    - name: layabox
+      style: basic
+      url: https://ldc2.layabox.com/     
+      
+    - name: 微信游戏
+      style: basic
+      url: https://www.xiaoyouxi100.com/ 
+      
+    - name: 幼麟棋牌
+      style: basic
+      url:  https://github.com/babykylin/babykylin_scmj 
+      
+    - name: 幼麟blog
+      style: basic
+      url:  https://qilinzi.blog.csdn.net/ 
+      
+    - name: 小游戏集合
+      style: basic
+      url:  https://github.com/potato47    
+
+  - category: C++
+    links:
+    - name: C++电子书
+      style: basic
+      url: https://www.bookstack.cn/explore?page=1&tab=popular&cid=28&lang=
+
+  - category: TypeScript
+    links:
+    - name: tslang
+      style: basic
+      url: https://www.tslang.cn/docs/home.html
+      
+  - category: Java
+    links:
+    - name: jforgame游戏服务
+      style: basic
+      url: https://github.com/kingston-csj/jforgame  
+  
+    - name: jforgame游戏服务
+      style: basic
+      url: https://www.liaoxuefeng.com/wiki/1252599548343744/1255943660631584 
+     
+
+  - category: JavaScript
+    links:
+    - name: Bootstrap
+      style: basic
+      url: https://www.bootcss.com/
+
+    - name: Angular
+      style: basic
+      url: https://angular.cn/
+
+    - name: Vue JS
+      style: basic
+      url: https://cn.vuejs.org/
+
+    - name: React
+      style: basic
+      url: https://react.docschina.org/
+
+    - name: Express JS
+      style: basic
+      url: http://www.expressjs.com.cn/   
+
+    - name: JavaScript极客
+      style: basic
+      url: http://wiki.jikexueyuan.com/list/javascript/
+
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/javascript
+
+  - category: Jfinal
+    links:
+    - name: jfinal
+      style: basic
+      url: https://www.jfinal.com/
+
+    - name: jpress
+      style: basic
+      url: http://jpress.io/
+
+  - category: GO
+    links:
+    - name: agones
+      style: basic
+      url: https://agones.dev/site/
+      
+    - name: agones
+      style: basic
+      url: https://studygolang.com/   
+      
+  - category: Flutter
+    links:
+    - name: flutter
+      style: basic
+      url: https://flutter.dev/
+
+    - name: flutterchina
+      style: basic
+      url: https://flutterchina.club/
+
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/flutter/blogs
+
+    - name: 干货
+      style: basic
+      url: http://gank.io/  
+
+
+  - category: C#
+    links:
+    - name: nuget
+      style: basic
+      url: https://www.nuget.org/
+      
+    - name: gitstar ranking
+      style: basic
+      url: https://gitstar-ranking.com/
+      
+    - name: codeplex
+      style: basic
+      url: https://archive.codeplex.com/
+
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/c%23  
+      
+  - category: LUA
+    links:
+    - name: babelua
+      style: basic
+      url: https://archive.codeplex.com/?p=babelua
+      
+    - name: gitstar ranking
+      style: basic
+      url: https://gitstar-ranking.com/
+      
+    - name: codeplex
+      style: basic
+      url: https://archive.codeplex.com/
+
+    - name: segmentfault
+      style: basic
+      url: https://segmentfault.com/t/c%23
+  
+    - name: 云风blog
+      style: basic
+      url: https://blog.codingnow.com/
+      
+
+  - category: NodeJs
+    links:
+    - name: nodejs.org官网
+      style: basic
+      url: https://nodejs.org/en/download/
+      
+    - name: pomelo
+      style: basic
+      url: https://github.com/NetEase/pomelo
+      
+  - category: Python
+    links:
+    - name: ComblockEngine游戏服务 
+      style: basic
+      url: https://www.comblockengine.com/docs/1.0/client/sdkgen/
+
+    - name: 17python
+      style: basic
+      url: http://www.17python.com
+
+    - name: anaconda
+      style: basic
+      url: https://www.anaconda.com  
+
+    - name: runoob菜鸟 
+      style: basic
+      url: http://www.runoob.com/python/python-tutorial.html      
+
+    - name: liaoxuefeng廖雪峰 
+      style: basic
+      url: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+    - name: python org 
+      style: basic
+      url: https://www.python.org/    
+      
+- section: 技术
+  categories:
+  - category: Cocos2d
+    links:
+    - name:  cocos
+      icon: cocos red
+      style: basic
+      url:   http://www.cocos.com/category/blog
+
+    - name:  cocos论坛
+      style: basic
+      url:   http://forum.cocos.com/
+
+    - name:  weibo
+      style: basic
+      url:   http://weibo.com/cocos2dx?is_hot=1&noscale_head=1#_0
+
+    - name:  友盟
+      style: basic
+      url:   https://i.umeng.com/?
+
+    - name:  mofang
+      style: basic
+      url:   http://v.mofang.com/
+
+    - name:  nodejs
+      style: basic
+      url:   http://nodejs.cn/
+
+    - name:  nodejs org
+      style: basic
+      url:  http://cnodejs.org/
+      
+    - name:  vld
+      style: basic
+      url:  https://archive.codeplex.com/?p=vld
+      
+
+
+  - category: GITHUB
+    links:
+    - name:  gbc-core服务端架构
+      style: basic
+      url:  https://github.com/dualface/gbc-core
+
+
+  - category: Unity
+    links:
+    - name: unity3d learn
+      style: basic
+      url: https://unity3d.com/cn/learn
+
+    - name: Documentation
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/Manual/
+
+    - name: Script API
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/ScriptReference/index.html
+
+    - name: 蛮牛
+      style: basic
+      url: http://edu.manew.com/course/explore?fliter%5Btype%5D=all&fliter%5Bprice%5D=free&fliter%5BcurrentLevelId%5D=all&orderBy=studentNum%E2%80%9D
+
+  - category: 论坛
+    links:
+    - name:  v2ex
+      style: basic
+      url:   https://www.v2ex.com/
+
+    - name:  GAD
+      style: basic
+      url:   http://gad.qq.com/
+
+    - name: 看雪学院
+      style: basic
+      url: http://www.pediy.com/
+
+    - name: 看雪论坛
+      style: basic
+      url: http://bbs.pediy.com/
+
+    - name: blackhatworld
+      style: basic
+      url: https://www.blackhatworld.com/forums/
+
+    - name: 阿里云栖
+      style: basic
+      url: https://yq.aliyun.com/
+
+    - name: bugly
+      style: basic
+      url: http://bugly.qq.com/bbs/forum.php
+
+    - name: jfinal
+      style: basic
+      url: http://www.jfinal.com/
+
+    - name: hacpai
+      style: basic
+      url: https://hacpai.com/
+
+    - name: 广告中国
+      style: basic
+      url: http://www.advertcn.com/forum.php?gid=1
+  
+    - name: 魔趣ROM
+      style: basic
+      url: https://download.mokeedev.com/
+      
+    - name: apachecn AI社区
+      style: basic
+      url: https://docs.apachecn.org/  
+
+  - category: 小程序
+    links:
+    - name: 知晓程序
+      style: basic
+      url: https://minapp.com/miniapp/
+
+    - name: 小程序
+      style: basic
+      url: https://mp.weixin.qq.com/debug/wxadoc/dev/api/
+
+    - name: 微信官方
+      style: basic
+      url: https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=2017830
+
+    - name: 微信官方
+      style: basic
+      url: https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=2017830
+
+    - name: 很快
+      style: basic
+      url: http://www.henkuai.com/forum.php
+
+    - name: 第九程序
+      style: basic
+      url: http://9.cn/
+
+    - name: 云市场
+      style: basic
+      url: https://market.cloud.tencent.com/xcx/
+
+    - name: 微资讯
+      style: basic
+      url: http://www.we123.com/news/
+
+    - name: 追格
+      style: basic
+      url: https://www.zhuige.com/
+
+    - name: 爱看
+      style: basic
+      url: http://www.aikanapp.com/
+
+    - name: 知乎
+      style: basic
+      url: https://zhuanlan.zhihu.com/wxapp-union
+
+    - name: wxopen社区
+      style: basic
+      url: http://wxopen.club/
+
+    - name: 今日推荐
+      style: basic
+      url: http://so.csdn.net/so/search/s.do?q=%E4%BB%8A%E6%97%A5%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8E%A8%E8%8D%90&t=blog
+
+  - category: 前端
+    links:
+    - name: JS python廖雪峰
+      style: basic
+      url: http://www.liaoxuefeng.com/
+
+    - name: W3C
+      style: basic
+      url: http://www.w3cschool.cn/
+
+    - name: W3C 菜鸟
+      style: basic
+      url: http://www.runoob.com/
+
+    - name: W3C在线
+      style: basic
+      url: http://www.w3school.com.cn/
+
+    - name: 在线工具
+      style: basic
+      url: http://tool.lu/
+
+    - name: jquery
+      style: basic
+      url: http://jquery.com/
+
+    - name: Java极客
+      style: basic
+      url: http://wiki.jikexueyuan.com/list/java/
+
+    - name: Developer  windows
+      style: basic
+      url: https://developer.microsoft.com/zh-cn/windows/desktop
+
+  - category: 自媒体
+    links:
+    - name: 简书
+      style: basic
+      url: http://www.jianshu.com
+
+    - name: 搜狐号
+      style: basic
+      url: https://mp.sohu.com/mpfe/v3/login
+
+    - name: 企鹅号
+      style: basic
+      url: http://mt.sohu.com/
+
+    - name: 今日头条
+      style: basic
+      url: http://www.toutiao.com/
+ 
+    - name: 头条号
+      style: basic
+      url: https://sso.toutiao.com/login/?service=https://mp.toutiao.com/sso_confirm/?redirect_url=JTJG  
+
+    - name: 百家号
+      style: basic
+      url: https://baijiahao.baidu.com/builder/author/register/index
+
+    - name: 一点号
+      style: basic
+      url: https://mp.yidianzixun.com/
+
+    - name: 大鱼号
+      style: basic
+      url: https://mp.dayu.com/
+
+    - name: qq圈
+      style: basic
+      url: http://quan.qq.com/
+
+    - name: 企鹅号
+      style: basic
+      url: https://om.qq.com/userAuth/index
+      
+    - name: 趣头条
+      style: basic
+      url: https://mp.qutoutiao.net/login?backUrl=https%3A%2F%2Fmp.qutoutiao.net%2Fpage%2Ffirst-page
+      
+    - name: 小密圈
+      style: basic
+      url: https://wx.xiaomiquan.com/dweb/      
+
+
 - section: 综合
   categories:
   - category: 关注
@@ -762,455 +1212,6 @@
       style: basic
       url:   http://bbs.szhome.com/50010.html
 
-- section: 技术
-  categories:
-  - category: Cocos2d
-    links:
-    - name:  cocos
-      icon: cocos red
-      style: basic
-      url:   http://www.cocos.com/category/blog
-
-    - name:  cocos论坛
-      style: basic
-      url:   http://forum.cocos.com/
-
-    - name:  weibo
-      style: basic
-      url:   http://weibo.com/cocos2dx?is_hot=1&noscale_head=1#_0
-
-    - name:  友盟
-      style: basic
-      url:   https://i.umeng.com/?
-
-    - name:  mofang
-      style: basic
-      url:   http://v.mofang.com/
-
-    - name:  nodejs
-      style: basic
-      url:   http://nodejs.cn/
-
-    - name:  nodejs org
-      style: basic
-      url:  http://cnodejs.org/
-      
-    - name:  vld
-      style: basic
-      url:  https://archive.codeplex.com/?p=vld
-      
-
-
-  - category: GITHUB
-    links:
-    - name:  gbc-core服务端架构
-      style: basic
-      url:  https://github.com/dualface/gbc-core
-
-
-  - category: Unity
-    links:
-    - name: unity3d learn
-      style: basic
-      url: https://unity3d.com/cn/learn
-
-    - name: Documentation
-      style: basic
-      url: https://docs.unity3d.com/2017.1/Documentation/Manual/
-
-    - name: Script API
-      style: basic
-      url: https://docs.unity3d.com/2017.1/Documentation/ScriptReference/index.html
-
-    - name: 蛮牛
-      style: basic
-      url: http://edu.manew.com/course/explore?fliter%5Btype%5D=all&fliter%5Bprice%5D=free&fliter%5BcurrentLevelId%5D=all&orderBy=studentNum%E2%80%9D
-
-  - category: 论坛
-    links:
-    - name:  v2ex
-      style: basic
-      url:   https://www.v2ex.com/
-
-    - name:  GAD
-      style: basic
-      url:   http://gad.qq.com/
-
-    - name: 看雪学院
-      style: basic
-      url: http://www.pediy.com/
-
-    - name: 看雪论坛
-      style: basic
-      url: http://bbs.pediy.com/
-
-    - name: blackhatworld
-      style: basic
-      url: https://www.blackhatworld.com/forums/
-
-    - name: 阿里云栖
-      style: basic
-      url: https://yq.aliyun.com/
-
-    - name: bugly
-      style: basic
-      url: http://bugly.qq.com/bbs/forum.php
-
-    - name: jfinal
-      style: basic
-      url: http://www.jfinal.com/
-
-    - name: hacpai
-      style: basic
-      url: https://hacpai.com/
-
-    - name: 广告中国
-      style: basic
-      url: http://www.advertcn.com/forum.php?gid=1
-  
-    - name: 魔趣ROM
-      style: basic
-      url: https://download.mokeedev.com/
-      
-    - name: apachecn AI社区
-      style: basic
-      url: https://docs.apachecn.org/  
-
-  - category: 小程序
-    links:
-    - name: 知晓程序
-      style: basic
-      url: https://minapp.com/miniapp/
-
-    - name: 小程序
-      style: basic
-      url: https://mp.weixin.qq.com/debug/wxadoc/dev/api/
-
-    - name: 微信官方
-      style: basic
-      url: https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=2017830
-
-    - name: 微信官方
-      style: basic
-      url: https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=2017830
-
-    - name: 很快
-      style: basic
-      url: http://www.henkuai.com/forum.php
-
-    - name: 第九程序
-      style: basic
-      url: http://9.cn/
-
-    - name: 云市场
-      style: basic
-      url: https://market.cloud.tencent.com/xcx/
-
-    - name: 微资讯
-      style: basic
-      url: http://www.we123.com/news/
-
-    - name: 追格
-      style: basic
-      url: https://www.zhuige.com/
-
-    - name: 爱看
-      style: basic
-      url: http://www.aikanapp.com/
-
-    - name: 知乎
-      style: basic
-      url: https://zhuanlan.zhihu.com/wxapp-union
-
-    - name: wxopen社区
-      style: basic
-      url: http://wxopen.club/
-
-    - name: 今日推荐
-      style: basic
-      url: http://so.csdn.net/so/search/s.do?q=%E4%BB%8A%E6%97%A5%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8E%A8%E8%8D%90&t=blog
-
-  - category: 前端
-    links:
-    - name: JS python廖雪峰
-      style: basic
-      url: http://www.liaoxuefeng.com/
-
-    - name: W3C
-      style: basic
-      url: http://www.w3cschool.cn/
-
-    - name: W3C 菜鸟
-      style: basic
-      url: http://www.runoob.com/
-
-    - name: W3C在线
-      style: basic
-      url: http://www.w3school.com.cn/
-
-    - name: 在线工具
-      style: basic
-      url: http://tool.lu/
-
-    - name: jquery
-      style: basic
-      url: http://jquery.com/
-
-    - name: Java极客
-      style: basic
-      url: http://wiki.jikexueyuan.com/list/java/
-
-    - name: Developer  windows
-      style: basic
-      url: https://developer.microsoft.com/zh-cn/windows/desktop
-
-  - category: 自媒体
-    links:
-    - name: 简书
-      style: basic
-      url: http://www.jianshu.com
-
-    - name: 搜狐号
-      style: basic
-      url: https://mp.sohu.com/mpfe/v3/login
-
-    - name: 企鹅号
-      style: basic
-      url: http://mt.sohu.com/
-
-    - name: 今日头条
-      style: basic
-      url: http://www.toutiao.com/
- 
-    - name: 头条号
-      style: basic
-      url: https://sso.toutiao.com/login/?service=https://mp.toutiao.com/sso_confirm/?redirect_url=JTJG  
-
-    - name: 百家号
-      style: basic
-      url: https://baijiahao.baidu.com/builder/author/register/index
-
-    - name: 一点号
-      style: basic
-      url: https://mp.yidianzixun.com/
-
-    - name: 大鱼号
-      style: basic
-      url: https://mp.dayu.com/
-
-    - name: qq圈
-      style: basic
-      url: http://quan.qq.com/
-
-    - name: 企鹅号
-      style: basic
-      url: https://om.qq.com/userAuth/index
-      
-    - name: 趣头条
-      style: basic
-      url: https://mp.qutoutiao.net/login?backUrl=https%3A%2F%2Fmp.qutoutiao.net%2Fpage%2Ffirst-page
-      
-    - name: 小密圈
-      style: basic
-      url: https://wx.xiaomiquan.com/dweb/      
-
-- section: h5游戏
-  categories:
-  - category: cocos creator
-    links:
-    - name: cocos
-      style: basic
-      url: https://www.cocos.com/docs/
-      
-    - name: layabox
-      style: basic
-      url: https://ldc2.layabox.com/     
-      
-    - name: 微信游戏
-      style: basic
-      url: https://www.xiaoyouxi100.com/ 
-      
-    - name: 幼麟棋牌
-      style: basic
-      url:  https://github.com/babykylin/babykylin_scmj 
-      
-    - name: 幼麟blog
-      style: basic
-      url:  https://qilinzi.blog.csdn.net/ 
-      
-    - name: 小游戏集合
-      style: basic
-      url:  https://github.com/potato47    
-
-  - category: C++
-    links:
-    - name: C++电子书
-      style: basic
-      url: https://www.bookstack.cn/explore?page=1&tab=popular&cid=28&lang=
-
-  - category: TypeScript
-    links:
-    - name: tslang
-      style: basic
-      url: https://www.tslang.cn/docs/home.html
-      
-  - category: Java
-    links:
-    - name: jforgame游戏服务
-      style: basic
-      url: https://github.com/kingston-csj/jforgame  
-  
-    - name: jforgame游戏服务
-      style: basic
-      url: https://www.liaoxuefeng.com/wiki/1252599548343744/1255943660631584 
-     
-
-  - category: JavaScript
-    links:
-    - name: Bootstrap
-      style: basic
-      url: https://www.bootcss.com/
-
-    - name: Angular
-      style: basic
-      url: https://angular.cn/
-
-    - name: Vue JS
-      style: basic
-      url: https://cn.vuejs.org/
-
-    - name: React
-      style: basic
-      url: https://react.docschina.org/
-
-    - name: Express JS
-      style: basic
-      url: http://www.expressjs.com.cn/   
-
-    - name: JavaScript极客
-      style: basic
-      url: http://wiki.jikexueyuan.com/list/javascript/
-
-    - name: segmentfault
-      style: basic
-      url: https://segmentfault.com/t/javascript
-
-  - category: Jfinal
-    links:
-    - name: jfinal
-      style: basic
-      url: https://www.jfinal.com/
-
-    - name: jpress
-      style: basic
-      url: http://jpress.io/
-
-  - category: GO
-    links:
-    - name: agones
-      style: basic
-      url: https://agones.dev/site/
-      
-    - name: agones
-      style: basic
-      url: https://studygolang.com/   
-      
-  - category: Flutter
-    links:
-    - name: flutter
-      style: basic
-      url: https://flutter.dev/
-
-    - name: flutterchina
-      style: basic
-      url: https://flutterchina.club/
-
-    - name: segmentfault
-      style: basic
-      url: https://segmentfault.com/t/flutter/blogs
-
-    - name: 干货
-      style: basic
-      url: http://gank.io/  
-
-
-  - category: C#
-    links:
-    - name: nuget
-      style: basic
-      url: https://www.nuget.org/
-      
-    - name: gitstar ranking
-      style: basic
-      url: https://gitstar-ranking.com/
-      
-    - name: codeplex
-      style: basic
-      url: https://archive.codeplex.com/
-
-    - name: segmentfault
-      style: basic
-      url: https://segmentfault.com/t/c%23  
-      
-  - category: LUA
-    links:
-    - name: babelua
-      style: basic
-      url: https://archive.codeplex.com/?p=babelua
-      
-    - name: gitstar ranking
-      style: basic
-      url: https://gitstar-ranking.com/
-      
-    - name: codeplex
-      style: basic
-      url: https://archive.codeplex.com/
-
-    - name: segmentfault
-      style: basic
-      url: https://segmentfault.com/t/c%23
-  
-    - name: 云风blog
-      style: basic
-      url: https://blog.codingnow.com/
-      
-
-  - category: NodeJs
-    links:
-    - name: nodejs.org官网
-      style: basic
-      url: https://nodejs.org/en/download/
-      
-    - name: pomelo
-      style: basic
-      url: https://github.com/NetEase/pomelo
-      
-  - category: Python
-    links:
-    - name: ComblockEngine游戏服务 
-      style: basic
-      url: https://www.comblockengine.com/docs/1.0/client/sdkgen/
-
-    - name: 17python
-      style: basic
-      url: http://www.17python.com
-
-    - name: anaconda
-      style: basic
-      url: https://www.anaconda.com  
-
-    - name: runoob菜鸟 
-      style: basic
-      url: http://www.runoob.com/python/python-tutorial.html      
-
-    - name: liaoxuefeng廖雪峰 
-      style: basic
-      url: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
-
-    - name: python org 
-      style: basic
-      url: https://www.python.org/    
-      
 - section: 工具
   categories:
   - category: 图片下载
