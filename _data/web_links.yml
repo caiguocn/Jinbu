@@ -2435,282 +2435,115 @@
       style: basic
       url:   https://www.jiuzhang.com/solutions/
 
-- category: 其它
-  links:
-  - name:  腾讯游戏
-    style: basic
-    url:   https://game.qq.com/web201910/introduce.html
-    
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  37互娱
-    style: basic
-    url:   https://www.37.com/
-
-  - name:  世纪华通
-    style: basic
-    url:   http://www.sjhuatong.com/index.php/cn/?f=industry&shengdagame
-
-  - name:  莉莉丝
-    style: basic
-    url:   https://www.lilithgames.com/cn/games?nlr=1
-
-  - name:  完美世界
-    style: basic
-    url:   https://games.wanmei.com/
-
-  - name:  B站游戏
-    style: basic
-    url:   https://game.bilibili.com/
-
-  - name:  米哈游
-    style: basic
-    url:   https://www.mihayo.com/
-
-  - name:  心动网络
-    style: basic
-    url:   https://www.xd.com/games/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  吉比特 问道
-    style: basic
-    url:   https://www.g-bits.com/mobile/
-
-  - name:  祖龙娱乐
-    style: basic
-    url:   http://www.zulong.com/#/game
-
-- category: 深圳
-  links:    
-  - name:  凯撒文化
-    style: basic
-    url:   http://www.kaiser.com.cn/product/list
-
-  - name:  创梦天地 乐逗
-    style: basic
-    url:   https://www.idreamsky.com/uucc2.html
-
-  - name:  冰川网络
-    style: basic
-    url:   hhttp://yz.q1.com/main.html
-
-  - name:  中手游
-    style: basic
-    url:   https://www.cmge.com/
-
-  - name:  中青宝
-    style: basic
-    url:   http://www.zqgame.com/
-
-  - name:  第七大道
-    style: basic
-    url:   hhttp://www.7road.com/
-
-  - name:  好玩互动 OK玩平台
-    style: basic
-    url:   https://www.okwan.com/game/
-
-  - name:  星河互动 咸鱼
-    style: basic
-    url:   hhttp://www.xinghehudong.com/
-
-  - name:  迷你世界
-    style: basic
-    url:   https://www.mini1.cn/
-
-  - name:  第一波
-    style: basic
-    url:   http://www.szdiyibo.com/index.php?g=&m=Index&a=home
-
-  - name:  萌蛋互动 猪来了
-    style: basic
-    url:   https://www.aladinfun.com/#Game
-
-  - name:  禅游
-    style: basic
-    url:   http://www.zen-game.com/product/
-
-  - name:  乐易网络
-    style: basic
-    url:   http://www.leyinetwork.com/
-
-  - name:  尚游
-    style: basic
-    url:   https://www.syyx.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
-
-  - name:  网易游戏
-    style: basic
-    url:   http://game.163.com/
+  - category: 大型游戏公司
+    links:
+    - name:  腾讯游戏
+      style: basic
+      url:   https://game.qq.com/web201910/introduce.html
+
+    - name:  网易游戏
+      style: basic
+      url:   http://game.163.com/
+
+    - name:  37互娱
+      style: basic
+      url:   https://www.37.com/
+
+    - name:  世纪华通
+      style: basic
+      url:   http://www.sjhuatong.com/index.php/cn/?f=industry&shengdagame
+
+    - name:  莉莉丝
+      style: basic
+      url:   https://www.lilithgames.com/cn/games?nlr=1
+
+    - name:  完美世界
+      style: basic
+      url:   https://games.wanmei.com/
+
+    - name:  B站游戏
+      style: basic
+      url:   https://game.bilibili.com/
+
+    - name:  米哈游
+      style: basic
+      url:   https://www.mihayo.com/
+
+    - name:  心动网络
+      style: basic
+      url:   https://www.xd.com/games/
+
+    - name:  网易游戏
+      style: basic
+      url:   http://game.163.com/
+
+    - name:  吉比特 问道
+      style: basic
+      url:   https://www.g-bits.com/mobile/
+
+    - name:  祖龙娱乐
+      style: basic
+      url:   http://www.zulong.com/#/game
+
+  - category: 深圳
+    links:    
+    - name:  凯撒文化
+      style: basic
+      url:   http://www.kaiser.com.cn/product/list
+
+    - name:  创梦天地 乐逗
+      style: basic
+      url:   https://www.idreamsky.com/uucc2.html
+
+    - name:  冰川网络
+      style: basic
+      url:   hhttp://yz.q1.com/main.html
+
+    - name:  中手游
+      style: basic
+      url:   https://www.cmge.com/
+
+    - name:  中青宝
+      style: basic
+      url:   http://www.zqgame.com/
+
+    - name:  第七大道
+      style: basic
+      url:   hhttp://www.7road.com/
+
+    - name:  好玩互动 OK玩平台
+      style: basic
+      url:   https://www.okwan.com/game/
+
+    - name:  星河互动 咸鱼
+      style: basic
+      url:   hhttp://www.xinghehudong.com/
+
+    - name:  迷你世界
+      style: basic
+      url:   https://www.mini1.cn/
+
+    - name:  第一波
+      style: basic
+      url:   http://www.szdiyibo.com/index.php?g=&m=Index&a=home
+
+    - name:  萌蛋互动 猪来了
+      style: basic
+      url:   https://www.aladinfun.com/#Game
+
+    - name:  禅游
+      style: basic
+      url:   http://www.zen-game.com/product/
+
+    - name:  乐易网络
+      style: basic
+      url:   http://www.leyinetwork.com/
+
+    - name:  尚游
+      style: basic
+      url:   https://www.syyx.com/
+
+    - name:  网易游戏
+      style: basic
+      url:   http://game.163.com/
+
