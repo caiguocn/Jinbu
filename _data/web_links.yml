@@ -2477,6 +2477,10 @@
       style: basic
       url:   http://game.163.com/
 
+    - name:  巨人网络
+      style: basic
+      url:   http://game.163.com/      
+
     - name:  吉比特 问道
       style: basic
       url:   https://www.g-bits.com/mobile/
@@ -2599,7 +2603,11 @@
 
     - name:  西安点扣软件
       style: basic
-      url:   http://www.zulong.com/#/game                  
+      url:   http://www.zulong.com/#/game         
+
+    - name:  云图微动
+      style: basic
+      url:   http://www.zulong.com/#/game                
 
   - category: 深圳
     links:    
