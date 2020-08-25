@@ -2471,15 +2471,15 @@
 
     - name:  西山居
       style: basic
-      url:   https://www.mihayo.com/
+      url:   https://www.xishanju.com/cn/product.html
 
     - name:  凯英网络
       style: basic
-      url:   https://www.mihayo.com/
+      url:   https://www.kingnet.com/
 
     - name:  畅游
       style: basic
-      url:   https://www.mihayo.com/
+      url:   http://www.changyou.com/index.shtml
 
     - name:  帝龙文化
       style: basic
@@ -2487,15 +2487,15 @@
 
     - name:  顺网科技
       style: basic
-      url:   https://www.mihayo.com/       
+      url:   https://www.swjoy.com/  
 
     - name:  艾格拉斯
       style: basic
-      url:   https://www.mihayo.com/       
+      url:   http://www.g2us.com/pages/productCenter.html? 
       
     - name:  金科文化
       style: basic
-      url:   https://www.mihayo.com/       
+      url:   http://www.jinkejoy.com/      
       
     - name:  晨鑫科技
       style: basic
@@ -2503,7 +2503,7 @@
       
     - name:  中南文化
       style: basic
-      url:   https://www.mihayo.com/       
+      url:   http://jggame.net/   
       
     - name:  凯撒文化
       style: basic
@@ -2511,11 +2511,11 @@
       
     - name:  博雅互动
       style: basic
-      url:   https://www.mihayo.com/       
+      url:   http://www.boyaa.com/ 
       
     - name:  星辉娱乐
       style: basic
-      url:   https://www.mihayo.com/       
+      url:   http://www.rastar.com/
       
     - name:  美盛文化
       style: basic
