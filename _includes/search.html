@@ -14,25 +14,25 @@
     <!-- <div class="ui inverted link list"> -->
         <!-- <a class="item loading-trigger" href="{{ '/donate/' | relative_url }}">买雪糕给辛苦滴程序猿</a> -->
     <!-- </div> -->
-	    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
-                    <!-- kill the Facebook and Weibo -->
-                    <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
 
-                </ul>
-                <p class="copyright text-muted">
-                &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
-                </p>
-            </div>
-        </div>
-    </div>
+	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+			<ul class="list-inline text-center">
+				<!-- kill the Facebook and Weibo -->
+				<!-- <li> -->
+					<!-- <a href="{{ "/feed.xml" | prepend: site.baseurl }}"> -->
+						<!-- <span class="fa-stack fa-lg"> -->
+							<!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+							<!-- <i class="fa fa-rss fa-stack-1x fa-inverse"></i> -->
+						<!-- </span> -->
+					<!-- </a> -->
+				<!-- </li> -->
+
+			</ul>
+			<p class="copyright text-muted">
+			&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
+			</p>
+		</div>
+	</div>
 </div>
