@@ -1,17 +1,38 @@
 <div class="ui text container">
-    <h1 class="ui inverted header"><i id="logo" class="fa fa-star fa-fw" aria-hidden="true"></i></h1>
-    <h2>{{ site.name }}</h2>
-    <h3><a id="jinbu_download" href="http://pan.baidu.com/s/1sluC8dn" target="_blank">进步听力学英语离线包下载</a></h3>
-    <div class="ui inverted fluid left icon action input" id="search-div">
-        <i class="search icon"></i>
-        <input id="search-query" type="text" placeholder="立即搜索">
-        <select class="ui compact selection dropdown" id="search-services">
-            {% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}" data-suffix="{{ item.suffix }}">{{ item.name }}</option>{% endfor %}
-        </select>
-        <div id="search-button" type="submit" class="ui icon button">Go</div>
-    </div>
+    <!-- <h1 class="ui inverted header"><i id="logo" class="fa fa-star fa-fw" aria-hidden="true"></i></h1> -->
+    <!-- <h2>{{ site.name }}</h2> -->
+    <!-- <h3><a id="jinbu_download" href="http://pan.baidu.com/s/1sluC8dn" target="_blank">进步听力学英语离线包下载</a></h3> -->
+    <!-- <div class="ui inverted fluid left icon action input" id="search-div"> -->
+        <!-- <i class="search icon"></i> -->
+        <!-- <input id="search-query" type="text" placeholder="立即搜索"> -->
+        <!-- <select class="ui compact selection dropdown" id="search-services"> -->
+            <!-- {% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}" data-suffix="{{ item.suffix }}">{{ item.name }}</option>{% endfor %} -->
+        <!-- </select> -->
+        <!-- <div id="search-button" type="submit" class="ui icon button">Go</div> -->
+    <!-- </div> -->
 
-    <div class="ui inverted link list">
-        <a class="item loading-trigger" href="{{ '/donate/' | relative_url }}">买雪糕给辛苦滴程序猿</a>
+    <!-- <div class="ui inverted link list"> -->
+        <!-- <a class="item loading-trigger" href="{{ '/donate/' | relative_url }}">买雪糕给辛苦滴程序猿</a> -->
+    <!-- </div> -->
+	    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <!-- kill the Facebook and Weibo -->
+                    <li>
+                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+
+                </ul>
+                <p class="copyright text-muted">
+                &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
+                </p>
+            </div>
+        </div>
     </div>
 </div>
