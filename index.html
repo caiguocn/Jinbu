@@ -2,20 +2,25 @@
 layout: default
 home: true
 ---
-{% for section in site.data.links %}
-    <div class="ui vertical stripe links segment">
-        {% if forloop.first %}{% include page_loading_progress_bar.html %}{% endif %}
-        <div class="ui equal width stackable internally celled grid">
-            <div class="center aligned row">
-                {% for item in section.categories %}
-                    <div class="links column">
-                        <div class="ui header">{{ item.category }}</div>
-                        <div class="ui labels">
-                            {% for link in item.links %}<a class="ui {{ link.style }} label" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
-                        </div>
-                    </div>
-                {% endfor %}
+<div class="ui vertical stripe quote segment">
+    <div class="ui equal width stackable internally celled grid">
+        <div class="center aligned row">
+            <div class="column">
+                <img class="ui centered medium rounded bordered image" src="{{ '/images/donate/alipay1.jpg' | relative_url }}" alt="alipay1.jpg">
+            </div>
+            <div class="column">
+                <img class="ui centered medium rounded bordered image" src="{{ '/images/donate/wechat1.png' | relative_url }}" alt="wechat1.jpg">
             </div>
         </div>
     </div>
-{% endfor %}
+</div>
+<div class="ui vertical stripe segment">
+    <div class="ui middle aligned stackable grid container">
+        <div class="row">
+            <div class="center aligned column">
+                <h3 class="ui header">您的每一发支持，都是开发者坚持的动力！</h3>
+                <p>如果您想自定义捐款数目，请扫描以下二维码。</p>
+            </div>
+        </div>
+    </div>
+</div>
