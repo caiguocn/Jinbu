@@ -14,15 +14,15 @@ repository: https://github.com/caiguocn/Jinbu
 
 timezone: Asia/Shanghai
 
-name: 步步游戏
-author: 步步
+name: 进步英语
+author: 进步英语
 author_url: http://www.ejinbu.com
 organization: EJinbu
 organization_url: http://ejinbu.com
-description: 进步英语.读而立·写而生
+description: 进步英语.进步听力学英语 离线包下载 APP下载
 keywords: 进步听力学英语, 英语, 听力, 四级英语考试, 新概念英语, 六级英语, 托福,雅思,
 
-contact: QQ:4577047
+contact: 微信:463059061
 
 logo: /images/logo.png
 logo_dark: /images/logo-dark.png
@@ -56,7 +56,7 @@ exclude:
 
 
 # Site settings
-title: 努力,进步
+title: 进步英语
 header-img: "img/green.jpg"
 tagline: "cn"
 baseurl: ""
@@ -66,7 +66,7 @@ url: http://www.ejinbu.com
 owner:
   name: " Caiguocn"
   email: caiguocn@qq.com
-  bio: "选择游戏"
+  bio: "进步英语"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
