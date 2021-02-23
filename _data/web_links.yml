@@ -272,6 +272,9 @@
       style: basic
       url: https://segmentfault.com/t/c%23  
       
+      
+- section: 技术
+  categories:
   - category: LUA
     links:
     - name: babelua
@@ -331,8 +334,6 @@
       style: basic
       url: https://www.python.org/    
       
-- section: 技术
-  categories:
   - category: Cocos2d
     links:
     - name:  cocos
