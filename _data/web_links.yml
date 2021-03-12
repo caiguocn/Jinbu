@@ -395,6 +395,23 @@
     - name: 蛮牛
       style: basic
       url: http://edu.manew.com/course/explore?fliter%5Btype%5D=all&fliter%5Bprice%5D=free&fliter%5BcurrentLevelId%5D=all&orderBy=studentNum%E2%80%9D
+      
+    - name: 凉鞋的笔记
+      style: basic
+      url: https://liangxiegame.com/welcome
+      
+    - name: cnblog unity
+      style: basic
+      url: https://zzk.cnblogs.com/s/blogpost?Keywords=unity&pageindex=2
+      
+    - name: 凉鞋cnblog
+      style: basic
+      url: https://www.cnblogs.com/liangxiegame/tag/C%23/
+      
+    - name: 嘉栋cnblog
+      style: basic
+      url: https://www.cnblogs.com/murongxiaopifu/category/635853.html 
+      
 
   - category: 论坛
     links:
