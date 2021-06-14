@@ -1177,6 +1177,10 @@
 
   - category: 本地
     links:
+    - name:  深圳房地产
+      style: basic
+      url:   http://www.szhome.com/
+      
     - name:  雪球
       style: basic
       url:   https://xueqiu.com/
