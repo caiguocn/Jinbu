@@ -40,6 +40,10 @@
       
   - category: Java
     links:
+    - name: javafx
+      style: basic
+      url: https://openjfx.cn/
+      
     - name: jforgame游戏服务
       style: basic
       url: https://github.com/kingston-csj/jforgame  
@@ -133,7 +137,7 @@
       style: basic
       url: http://www.baijingapp.com/
       
-      - name: 游戏manew
+    - name: 游戏manew
       style: basic
       url: http://www.manew.com/
 
