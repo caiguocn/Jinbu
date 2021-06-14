@@ -132,10 +132,14 @@
     - name: 白鲸出海
       style: basic
       url: http://www.baijingapp.com/
+      
+      - name: 游戏manew
+      style: basic
+      url: http://www.manew.com/
 
     - name: 游戏葡萄
       style: basic
-      url: http://youxiputao.com/          
+      url: http://youxiputao.com/
 
     - name: 触乐
       style: basic
@@ -606,6 +610,10 @@
   categories:
   - category: 关注
     links:
+    - name: playboard
+      style: basic
+      url:  https://playboard.co/en/
+      
     - name: Family
       icon: google red
       style: basic
@@ -1232,6 +1240,10 @@
     - name:  家在南山
       style: basic
       url:   http://bbs.szhome.com/50010.html
+      
+    - name:  懂车帝
+      style: basic
+      url:   https://www.dongchedi.com/
 
 - section: 工具
   categories:
