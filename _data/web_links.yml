@@ -272,13 +272,25 @@
       style: basic
       url: https://gitstar-ranking.com/
       
-    - name: codeplex
+    - name: Unity脚本API
       style: basic
-      url: https://archive.codeplex.com/
+      url: https://docs.unity.cn/cn/2021.1/ScriptReference/
 
     - name: segmentfault
       style: basic
       url: https://segmentfault.com/t/c%23  
+      
+    - name: 微软API
+      style: basic
+      url: https://docs.microsoft.com/zh-cn/dotnet/api/system?view=net-5.0  
+      
+    - name: 微软 C#文档
+      style: basic
+      url: https://docs.microsoft.com/zh-cn/dotnet/csharp/
+      
+    - name: Unity手册
+      style: basic
+      url: https://docs.unity.cn/cn/2021.1/Manual/index.html
       
       
 - section: 技术
