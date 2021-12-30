@@ -2749,7 +2749,7 @@
 
     - name:  Dreamics Limited时空幻境
       style: basic
-      url:   hhttps://www.magictavern.com/
+      url:   https://www.magictavern.com/
 
     - name:  EYOUGAME
       style: basic
@@ -2787,11 +2787,11 @@
 
     - name:  创梦天地 乐逗
       style: basic
-      url:   https://www.idreamsky.com/uucc2.html
+      url:   https://www.idreamsky.com
 
     - name:  冰川网络
       style: basic
-      url:   hhttp://yz.q1.com/main.html
+      url:   http://yz.q1.com/main.html
 
     - name:  中手游
       style: basic
@@ -2803,7 +2803,7 @@
 
     - name:  第七大道
       style: basic
-      url:   hhttp://www.7road.com/
+      url:   http://www.7road.com/
 
     - name:  好玩互动 OK玩平台
       style: basic
@@ -2811,7 +2811,7 @@
 
     - name:  星河互动 咸鱼
       style: basic
-      url:   hhttp://www.xinghehudong.com/
+      url:   http://www.xinghehudong.com/
 
     - name:  迷你世界
       style: basic
