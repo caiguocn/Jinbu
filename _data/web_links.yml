@@ -292,6 +292,19 @@
       style: basic
       url: https://docs.unity.cn/cn/2021.1/Manual/index.html
       
+    - name: XAML
+      style: basic
+      url: https://docs.microsoft.com/zh-cn/windows/uwp/xaml-platform/xaml-overview
+      
+    - name: 商店
+      style: basic
+      url: https://assetstore.unity.com/ 
+      
+    - name: 腾讯游戏学院
+      style: basic
+      url: https://gameinstitute.qq.com/course
+      
+      
       
 - section: 技术
   categories:
@@ -1219,11 +1232,11 @@
 
     - name:  深圳社保
       style: basic
-      url:   http://szsi.sz.gov.cn/
+      url:   https://sipub.sz.gov.cn/hspms/
       
-    - name:  深圳会展中心
+    - name:  深圳住房
       style: basic
-      url:   http://www.szcec.com/  
+      url:   http://zjj.sz.gov.cn/ztfw/zfbz/?from=index 
 
     - name:  深圳政府中心
       style: basic
@@ -1257,10 +1270,18 @@
       style: basic
       url:   http://bbs.szhome.com/50010.html
       
+    - name:  业主
+      style: basic
+      url:   http://bbs.szhome.com/30.html  
+
     - name:  懂车帝
       style: basic
       url:   https://www.dongchedi.com/
-
+      
+    - name:  安居公租
+      style: basic
+      url:   http://bbs.szhome.com/500070.html     
+      
 - section: 工具
   categories:
   - category: 图片下载
