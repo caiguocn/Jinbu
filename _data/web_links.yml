@@ -1290,6 +1290,12 @@
       style: basic
       url:   http://bbs.szhome.com/500070.html     
       
+    - name:  教育
+      style: basic
+      url:   http://bbs.szhome.com/580.html   
+      
+      
+      
 - section: 工具
   categories:
   - category: 图片下载
