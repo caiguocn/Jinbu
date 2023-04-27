@@ -1,6 +1,6 @@
-- section: h5游戏
+- section: 游戏
   categories:
-  - category: cocos creator
+  - category: 游戏时光
     links:
     - name: cocos
       style: basic
@@ -130,6 +130,7 @@
       url: https://www.polygon.com/    
 
     - name: taptap
+      icon: google red
       style: basic
       url: https://www.taptap.com/
 
