@@ -1,30 +1,24 @@
 - section: h5游戏
   categories:
-  - category: cocos creator
+  - category: 模拟游戏
     links:
-    - name: cocos
+    - name: Taptap
+      icon: google red
       style: basic
-      url: https://www.cocos.com/docs/
+      url: https://www.taptap.cn/top/download/management?os=ios
       
-    - name: layabox
+    - name: Taptap Android排行榜
       style: basic
-      url: https://ldc2.layabox.com/     
+      url: https://www.taptap.cn/top/download 
       
-    - name: 微信游戏
+    - name: Taptap iOS排行榜
       style: basic
-      url: https://www.xiaoyouxi100.com/ 
+      url: https://www.taptap.cn/top/download?os=ios
       
-    - name: 幼麟棋牌
+    - name: Taptap 发现
       style: basic
-      url:  https://github.com/babykylin/babykylin_scmj 
+      url: https://www.taptap.cn/categories 
       
-    - name: 幼麟blog
-      style: basic
-      url:  https://qilinzi.blog.csdn.net/ 
-      
-    - name: 小游戏集合
-      style: basic
-      url:  https://github.com/potato47    
 
   - category: C++
     links:
