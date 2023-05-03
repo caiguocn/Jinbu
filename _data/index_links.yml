@@ -403,13 +403,52 @@
       style: basic
       url:  https://line-of-action.com
       
-
-
-  - category: GITHUB
-    links:
-    - name:  gbc-core服务端架构
+    - name:  涂鸦王国
       style: basic
-      url:  https://github.com/dualface/gbc-core
+      url:  https://www.gracg.com/    
+
+
+  - category: 游戏美术资源
+    links:
+    - name:  Pixiv日本
+      style: basic
+      url:  https://www.pixiv.net/
+      
+    - name:  ArtStation A站
+      style: basic
+      url:  https://www.artstation.com/     
+      
+    - name:  cgsociety
+      style: basic
+      url:  https://cgsociety.org/ 
+      
+    - name:  deviantart
+      style: basic
+      url:  http://www.deviantart.com
+
+    - name:  Kenney游戏
+      style: basic
+      url:  https://www.kenney.nl/assets
+
+    - name:  game-icons 
+      style: basic
+      url:  https://game-icons.net/
+      
+    - name:  CGwall原画网
+      style: basic
+      url:  https://www.cgwall.cn/
+       
+    - name:  人人素材网
+      style: basic
+      url:   http://www.renrensucai.com/
+
+    - name:  CG美术网
+      style: basic
+      url:   https://www.cgmeishu.com/
+      
+    - name:  3D工具 
+      style: basic
+      url:   https://3dtotal.com/    
 
 
   - category: Unity
