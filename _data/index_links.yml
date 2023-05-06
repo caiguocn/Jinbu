@@ -130,6 +130,10 @@
       
     - name: TGA
       style: basic
+      url:  https://www.facebook.com/gaming/play/?store_visit_source=gaming_tab
+     
+    - name: TGA
+      style: basic
       url: https://thegameawards.com/
 
     - name: bluemoongame
