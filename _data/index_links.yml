@@ -2,7 +2,7 @@
   categories:
   - category: 模拟游戏
     links:
-    - name: Taptap
+    - name: Taptap 排行榜
       icon: google red
       style: basic
       url: https://www.taptap.cn/top/download/management?os=ios
@@ -19,9 +19,25 @@
       style: basic
       url: https://www.taptap.cn/categories 
       
+    - name: Taptap 放置
+      style: basic
+      url: https://www.taptap.cn/tag/%E6%94%BE%E7%BD%AE    
+      
+    - name: Taptap 类别
+      style: basic
+      url: https://www.taptap.cn/categories/all   
 
   - category: Unity
     links:
+    - name: Taptap 排行榜
+      icon: google red
+      style: basic
+      url: https://www.taptap.cn/top/download/management?os=ios
+      
+    - name: UEFans
+      style: basic
+      url: http://www.uefans.com
+      
     - name: ET框架
       style: basic
       url: http://etgame.cn/
@@ -36,6 +52,11 @@
 
   - category: TypeScript
     links:
+    - name: Taptap 排行榜
+      icon: google red
+      style: basic
+      url: https://www.taptap.cn/top/download/management?os=ios
+      
     - name: tslang
       style: basic
       url: https://www.tslang.cn/docs/home.html
