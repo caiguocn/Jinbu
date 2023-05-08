@@ -107,15 +107,19 @@
       style: basic
       url: https://segmentfault.com/t/javascript
 
-  - category: Jfinal
+  - category: 一些Blog
     links:
-    - name: jfinal
+    - name: 烟雨
       style: basic
-      url: https://www.jfinal.com/
+      url: https://www.lfzxb.top/
 
-    - name: jpress
+    - name: L's Blog
       style: basic
-      url: http://jpress.io/
+      url: http://www.liuocean.com/
+      
+    - name: 无境
+      style: basic
+      url: https://www.drflower.top/  
       
   - category: 新闻      
     links:
