@@ -77,35 +77,71 @@
       url: https://www.liaoxuefeng.com/wiki/1252599548343744/1255943660631584 
      
 
-  - category: JavaScript
+  - category: bilibili视频
     links:
     - name: Google Play 获奖佳作
       style: basic
       url: https://www.taptap.cn/category/e2609
 
-    - name: Angular
+    - name: 芒果冰OL
       style: basic
-      url: https://angular.cn/
+      url: https://space.bilibili.com/617285?spm_id_from=333.337.0.0
 
-    - name: Vue JS
+    - name: 敖厂长
       style: basic
-      url: https://cn.vuejs.org/
+      url: https://space.bilibili.com/122879?spm_id_from=333.337.0.0
 
-    - name: React
+    - name: 游戏X博士
       style: basic
-      url: https://react.docschina.org/
+      url: https://space.bilibili.com/356798697/?spm_id_from=333.999.0.0
 
-    - name: Express JS
+    - name: 逍遥散人
       style: basic
-      url: http://www.expressjs.com.cn/   
+      url: https://space.bilibili.com/168598
 
-    - name: JavaScript极客
+    - name: 游研社
       style: basic
-      url: http://wiki.jikexueyuan.com/list/javascript/
+      url: https://space.bilibili.com/31700507/?spm_id_from=333.999.0.0
 
-    - name: segmentfault
+    - name: 3DM游戏网官方
       style: basic
-      url: https://segmentfault.com/t/javascript
+      url: https://space.bilibili.com/137543719?spm_id_from=333.337.0.0
+      
+    - name: 大老师Sam
+      style: basic
+      url: https://space.bilibili.com/429741851/?spm_id_from=333.999.0.0
+
+    - name: 苏安安Susanne
+      style: basic
+      url: https://space.bilibili.com/9463690?spm_id_from=333.337.search-card.all.click
+      
+    - name: TGA
+      style: basic
+      url: https://thegameawards.com/
+
+    - name: TGA
+      style: basic
+      url: https://thegameawards.com/
+
+    - name: TGA
+      style: basic
+      url: https://thegameawards.com/
+
+    - name: TGA
+      style: basic
+      url: https://thegameawards.com/
+
+    - name: TGA
+      style: basic
+      url: https://thegameawards.com/
+
+    - name: TGA
+      style: basic
+      url: https://thegameawards.com/
+
+    - name: TGA
+      style: basic
+      url: https://thegameawards.com/      
 
   - category: 一些Blog
     links:
