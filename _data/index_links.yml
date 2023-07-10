@@ -46,9 +46,18 @@
       style: basic
       url: https://gameframework.cn/ 
       
+    - name: Unity文档
+      style: basic
+      url: https://docs.unity.cn/cn/current/Manual/index.html     
+      
     - name: store unity 
       style: basic
       url: https://assetstore.unity.com/?locale=zh_CN&force=true  
+      
+    - name: AES
+      style: basic
+      url: http://amplify.pt/unity/amplify-shader-editor/
+      
 
   - category: TypeScript
     links:
@@ -1392,6 +1401,9 @@
       style: basic
       url:   http://bbs.szhome.com/580.html   
       
+    - name:  珠江台
+      style: basic
+      url:   https://www.gdtv.cn/tvChannelDetail/44           
       
       
 - section: 工具

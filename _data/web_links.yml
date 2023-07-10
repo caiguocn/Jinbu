@@ -1295,7 +1295,9 @@
       style: basic
       url:   http://bbs.szhome.com/580.html   
       
-      
+    - name:  珠江台
+      style: basic
+      url:   https://www.gdtv.cn/tvChannelDetail/44        
       
 - section: 工具
   categories:
