@@ -208,7 +208,7 @@
 
     - name: 游戏邦
       style: basic
-      url: http://gamerboom.com
+      url: https://gamerboom.com/archives/category/interview
 
     - name: 白鲸出海
       style: basic
@@ -220,7 +220,7 @@
 
     - name: 游戏葡萄
       style: basic
-      url: http://youxiputao.com/
+      url: https://youxiputao.com/article.html
 
     - name: 触乐
       style: basic
