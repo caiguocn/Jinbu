@@ -296,6 +296,10 @@
       style: basic
       url: https://studygolang.com/   
       
+    - name: agones
+      style: basic
+      url:  https://www.youtube.com/watch?v=s0XJOGfUxkE&list=PL6BVjks7felOGZzos8p4U9E55XCIOH4Oj&index=15&ab_channel=AI%E5%B0%8F%E7%8E%8B%E5%AD%90
+     
   - category: 电影
     links:
     - name: 剧迷app
@@ -310,9 +314,9 @@
       style: basic
       url: https://www.movieffm.net/
 
-    - name: 干货
+    - name: 央视频
       style: basic
-      url: http://gank.io/  
+      url: https://www.yangshipin.cn/#/tv/home
 
 
   - category: C#
