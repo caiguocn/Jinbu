@@ -128,43 +128,19 @@
       style: basic
       url: https://thegameawards.com/
 
-    - name: TGA
-      style: basic
-      url: https://thegameawards.com/
-
-    - name: TGA
-      style: basic
-      url: https://thegameawards.com/
-
-    - name: TGA
-      style: basic
-      url: https://thegameawards.com/
-
-    - name: TGA
-      style: basic
-      url: https://thegameawards.com/
-
-    - name: TGA
-      style: basic
-      url: https://thegameawards.com/
-
-    - name: TGA
-      style: basic
-      url: https://thegameawards.com/      
-
-  - category: 一些Blog
+  - category: AI
     links:
-    - name: 烟雨
+    - name: civitai
       style: basic
-      url: https://www.lfzxb.top/
+      url: https://civitai.com/
 
-    - name: L's Blog
+    - name: tusiart
       style: basic
-      url: http://www.liuocean.com/
+      url: https://tusiart.com/
       
-    - name: 无境
+    - name: 秋葉aaaki
       style: basic
-      url: https://www.drflower.top/  
+      url: https://space.bilibili.com/12566101
       
   - category: 新闻      
     links:
@@ -312,19 +288,19 @@
 
   - category: GO
     links:
-    - name: agones
+    - name: 小王子Discord
       style: basic
-      url: https://agones.dev/site/
+      url: https://discord.com/channels/1102747726548050000/1102792139546562571
       
     - name: agones
       style: basic
       url: https://studygolang.com/   
       
-  - category: Flutter
+  - category: 电影
     links:
-    - name: flutter
+    - name: 剧迷
       style: basic
-      url: https://flutter.dev/
+      url: https://www.gimys.app/
 
     - name: flutterchina
       style: basic
