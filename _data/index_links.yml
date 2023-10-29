@@ -26,6 +26,208 @@
     - name: Taptap 类别
       style: basic
       url: https://www.taptap.cn/categories/all   
+      
+  - category: 关注
+    links:
+    - name: playboard
+      style: basic
+      url:  https://playboard.co/en/
+      
+    - name: Family
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/FAMILY?hl=en
+      
+    - name: Word
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_WORD?hl=en    
+      
+    - name: Trivia
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_TRIVIA?hl=en        
+      
+    - name: Sport
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_SPORTS?hl=en    
+      
+    - name: Simulation
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_SIMULATION?hl=en
+      
+    - name: Role Playing
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ROLE_PLAYING?hl=en
+      
+    - name: Racing
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_RACING?hl=en
+      
+    - name: Puzzle
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_PUZZLE?hl=en
+      
+    - name: Educational
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_EDUCATIONAL?hl=en
+      
+    - name: Casual
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_CASUAL?hl=en
+      
+    - name: Casino
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_CASINO?hl=en
+      
+    - name: Card
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_CARD?hl=en
+      
+    - name: Action
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ACTION?hl=en
+      
+    - name: Adventure
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ADVENTURE?hl=en
+      
+    - name: Arcade
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_ARCADE?hl=en
+      
+    - name: Board
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_BOARD?hl=en
+      
+    - name: Music
+      icon: google red
+      style: basic
+      url:  https://play.google.com/store/apps/category/GAME_MUSIC?hl=en
+      
+    - name: Google PUblish
+      icon: android red
+      style: basic
+      url: https://play.google.com/apps/publish/
+      
+    - name: Google developers开发者
+      icon: android red
+      style: basic
+      url: https://developers.google.com/
+      
+    - name: Android
+      icon: android red
+      style: basic
+      url: https://developer.android.com/index.html
+      
+    - name:  Googleblog博客
+      style: basic
+      url:  https://android-developers.googleblog.com/
+      
+    - name:  nodejs
+      style: basic
+      url:  https://nodejs.org/en/
+      
+    - name:  Chrome V8
+      icon: chrome blue
+      style: basic
+      url:  https://developers.google.com/v8/
+      
+    - name:  清博
+      style: basic
+      url:   http://www.gsdata.cn/
+      
+    - name:  新榜
+      style: basic
+      url:   http://www.newrank.cn/
+      
+    - name:  大鱼
+      style: basic
+      url:  http://index.dayu.com/
+      
+    - name:  google trends
+      icon: google blue
+      style: basic
+      url:   https://trends.google.com/trends/
+      
+    - name:  Google Analytics分析
+      icon: google red
+      style: basic
+      url:   https://analytics.google.com/analytics/web
+      
+    - name:  Google Search
+      icon: google red
+      style: basic
+      url:   https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.quizzesbox.com%2F
+      
+    - name:  Bing Webmaster
+      icon: google red
+      style: basic
+      url:  https://www.bing.com/webmaster/home/dashboard?url=https%3A%2F%2Fwww.quizzesbox.com%2F#
+      
+    - name:  OS China开源
+      style: basic
+      url:   https://www.oschina.net/
+      
+    - name:  雨果网
+      style: basic
+      url:   http://www.cifnews.com/
+      
+    - name:  亿邦
+      style: basic
+      url:   http://www.ebrun.com/fto/?eb=hp_home_nav_xzdh
+      
+    - name:  领库
+      style: basic
+      url:   http://www.kolrank.com/
+      
+    - name:  google广告
+      icon: google red
+      style: basic
+      url:   https://ads.google.com/intl/zh-CN_cn/home/
+      
+    - name:  runoob菜鸟教程
+      icon: google red
+      style: basic
+      url:   http://www.runoob.com/
+      
+    - name:  w3school学校
+      icon: google red
+      style: basic
+      url:   http://www.w3school.com.cn/index.html     
+      
+    - name:  博客园
+      icon: google red
+      style: basic
+      url:   https://www.cnblogs.com/
+      
+    - name:  腾讯课堂
+      icon: google red
+      style: basic
+      url:   https://ke.qq.com/   
+      
+    - name:  TapTap
+      icon: google red
+      style: basic
+      url:   https://www.taptap.com/
+      
+    - name:  AppAnnie
+      icon: google red
+      style: basic
+      url:   https://www.appannie.com/dashboard/home      
 
   - category: Unity
     links:
@@ -141,6 +343,18 @@
     - name: 秋葉aaaki
       style: basic
       url: https://space.bilibili.com/12566101
+      
+    - name: 小王子Discord
+      style: basic
+      url: https://discord.com/channels/1102747726548050000/1102792139546562571
+      
+    - name: agones
+      style: basic
+      url: https://studygolang.com/   
+      
+    - name: agones
+      style: basic
+      url:  https://www.youtube.com/watch?v=s0XJOGfUxkE&list=PL6BVjks7felOGZzos8p4U9E55XCIOH4Oj&index=15&ab_channel=AI%E5%B0%8F%E7%8E%8B%E5%AD%90      
       
   - category: 新闻      
     links:
@@ -288,17 +502,7 @@
 
   - category: GO
     links:
-    - name: 小王子Discord
-      style: basic
-      url: https://discord.com/channels/1102747726548050000/1102792139546562571
-      
-    - name: agones
-      style: basic
-      url: https://studygolang.com/   
-      
-    - name: agones
-      style: basic
-      url:  https://www.youtube.com/watch?v=s0XJOGfUxkE&list=PL6BVjks7felOGZzos8p4U9E55XCIOH4Oj&index=15&ab_channel=AI%E5%B0%8F%E7%8E%8B%E5%AD%90
+
      
   - category: 电影
     links:
@@ -732,208 +936,6 @@
 
 - section: 综合
   categories:
-  - category: 关注
-    links:
-    - name: playboard
-      style: basic
-      url:  https://playboard.co/en/
-      
-    - name: Family
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/FAMILY?hl=en
-      
-    - name: Word
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_WORD?hl=en    
-      
-    - name: Trivia
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_TRIVIA?hl=en        
-      
-    - name: Sport
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_SPORTS?hl=en    
-      
-    - name: Simulation
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_SIMULATION?hl=en
-      
-    - name: Role Playing
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ROLE_PLAYING?hl=en
-      
-    - name: Racing
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_RACING?hl=en
-      
-    - name: Puzzle
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_PUZZLE?hl=en
-      
-    - name: Educational
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_EDUCATIONAL?hl=en
-      
-    - name: Casual
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_CASUAL?hl=en
-      
-    - name: Casino
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_CASINO?hl=en
-      
-    - name: Card
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_CARD?hl=en
-      
-    - name: Action
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ACTION?hl=en
-      
-    - name: Adventure
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ADVENTURE?hl=en
-      
-    - name: Arcade
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ARCADE?hl=en
-      
-    - name: Board
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_BOARD?hl=en
-      
-    - name: Music
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_MUSIC?hl=en
-      
-    - name: Google PUblish
-      icon: android red
-      style: basic
-      url: https://play.google.com/apps/publish/
-      
-    - name: Google developers开发者
-      icon: android red
-      style: basic
-      url: https://developers.google.com/
-      
-    - name: Android
-      icon: android red
-      style: basic
-      url: https://developer.android.com/index.html
-      
-    - name:  Googleblog博客
-      style: basic
-      url:  https://android-developers.googleblog.com/
-      
-    - name:  nodejs
-      style: basic
-      url:  https://nodejs.org/en/
-      
-    - name:  Chrome V8
-      icon: chrome blue
-      style: basic
-      url:  https://developers.google.com/v8/
-      
-    - name:  清博
-      style: basic
-      url:   http://www.gsdata.cn/
-      
-    - name:  新榜
-      style: basic
-      url:   http://www.newrank.cn/
-      
-    - name:  大鱼
-      style: basic
-      url:  http://index.dayu.com/
-      
-    - name:  google trends
-      icon: google blue
-      style: basic
-      url:   https://trends.google.com/trends/
-      
-    - name:  Google Analytics分析
-      icon: google red
-      style: basic
-      url:   https://analytics.google.com/analytics/web
-      
-    - name:  Google Search
-      icon: google red
-      style: basic
-      url:   https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.quizzesbox.com%2F
-      
-    - name:  Bing Webmaster
-      icon: google red
-      style: basic
-      url:  https://www.bing.com/webmaster/home/dashboard?url=https%3A%2F%2Fwww.quizzesbox.com%2F#
-      
-    - name:  OS China开源
-      style: basic
-      url:   https://www.oschina.net/
-      
-    - name:  雨果网
-      style: basic
-      url:   http://www.cifnews.com/
-      
-    - name:  亿邦
-      style: basic
-      url:   http://www.ebrun.com/fto/?eb=hp_home_nav_xzdh
-      
-    - name:  领库
-      style: basic
-      url:   http://www.kolrank.com/
-      
-    - name:  google广告
-      icon: google red
-      style: basic
-      url:   https://ads.google.com/intl/zh-CN_cn/home/
-      
-    - name:  runoob菜鸟教程
-      icon: google red
-      style: basic
-      url:   http://www.runoob.com/
-      
-    - name:  w3school学校
-      icon: google red
-      style: basic
-      url:   http://www.w3school.com.cn/index.html     
-      
-    - name:  博客园
-      icon: google red
-      style: basic
-      url:   https://www.cnblogs.com/
-      
-    - name:  腾讯课堂
-      icon: google red
-      style: basic
-      url:   https://ke.qq.com/   
-      
-    - name:  TapTap
-      icon: google red
-      style: basic
-      url:   https://www.taptap.com/
-      
-    - name:  AppAnnie
-      icon: google red
-      style: basic
-      url:   https://www.appannie.com/dashboard/home
-      
   - category: 工具
     links:
     - name: Firebase功能
