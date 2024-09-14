@@ -1,6 +1,6 @@
 - section: h5游戏
   categories:
-  - category: 模拟游戏
+  - category: Taptap
     links:
     - name: Taptap 排行榜
       icon: google red
@@ -32,96 +32,6 @@
     - name: playboard
       style: basic
       url:  https://playboard.co/en/
-      
-    - name: Family
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/FAMILY?hl=en
-      
-    - name: Word
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_WORD?hl=en    
-      
-    - name: Trivia
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_TRIVIA?hl=en        
-      
-    - name: Sport
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_SPORTS?hl=en    
-      
-    - name: Simulation
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_SIMULATION?hl=en
-      
-    - name: Role Playing
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ROLE_PLAYING?hl=en
-      
-    - name: Racing
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_RACING?hl=en
-      
-    - name: Puzzle
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_PUZZLE?hl=en
-      
-    - name: Educational
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_EDUCATIONAL?hl=en
-      
-    - name: Casual
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_CASUAL?hl=en
-      
-    - name: Casino
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_CASINO?hl=en
-      
-    - name: Card
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_CARD?hl=en
-      
-    - name: Action
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ACTION?hl=en
-      
-    - name: Adventure
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ADVENTURE?hl=en
-      
-    - name: Arcade
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_ARCADE?hl=en
-      
-    - name: Board
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_BOARD?hl=en
-      
-    - name: Music
-      icon: google red
-      style: basic
-      url:  https://play.google.com/store/apps/category/GAME_MUSIC?hl=en
-      
-    - name: Google PUblish
-      icon: android red
-      style: basic
-      url: https://play.google.com/apps/publish/
       
     - name: Google developers开发者
       icon: android red
@@ -158,7 +68,7 @@
       style: basic
       url:  http://index.dayu.com/
       
-    - name:  google trends
+    - name:  google trends 趋势
       icon: google blue
       style: basic
       url:   https://trends.google.com/trends/
@@ -168,7 +78,7 @@
       style: basic
       url:   https://analytics.google.com/analytics/web
       
-    - name:  Google Search
+    - name:  Google Search 搜索
       icon: google red
       style: basic
       url:   https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.quizzesbox.com%2F
@@ -263,36 +173,73 @@
 
   - category: TypeScript
     links:
-    - name: Taptap 排行榜
+    - name: TSRPC
       icon: google red
       style: basic
-      url: https://www.taptap.cn/top/download/management?os=ios
+      url: https://tsrpc.cn/docs/introduction.html
       
-    - name: tslang
+    - name: oops-framework
+      icon: google red
+      style: basic
+      url: https://gitee.com/dgflash
+      
+    - name: ts-framework
+      icon: google red
+      style: basic
+      url: https://gitee.com/fengssy   
+      
+    - name: ECS
+      icon: google red
+      style: basic
+      url: https://github.com/shangdibaozi/ECS
+      
+    - name: GRPC IO
+      icon: google red
+      style: basic
+      url: https://grpc.io/
+      
+    - name: tslang 中文网
       style: basic
       url: https://www.tslang.cn/docs/home.html
       
-  - category: Java
-    links:
-    - name: Taptap 每日新发现
+    - name: GRPC IO
       icon: google red
       style: basic
-      url: https://www.taptap.cn/category/e381
+      url: https://grpc.io/      
       
-    - name: Taptap 版号
+  - category: Cocos Creator
+    links:
+    - name: cocos商城
+      icon: google red
       style: basic
-      url: https://www.taptap.cn/category/e1450 
-  
-    - name: jforgame游戏服务
+      url: https://store.cocos.com/app/
+      
+    - name: Google Publish游戏发布
+      icon: android red
       style: basic
-      url: https://www.liaoxuefeng.com/wiki/1252599548343744/1255943660631584 
-     
+      url: https://play.google.com/apps/publish/      
+      
+    - name: 小程序后台
+      icon: google red
+      style: basic
+      url: https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&token=399654236
+      
+    - name: Facebook开发者后台
+      icon: google red
+      style: basic
+      url: https://developers.facebook.com/
+      
+    - name: Apple开发者后台
+      icon: google red
+      style: basic
+      url: https://developer.apple.com/account#ProgramResourcesCard
+      
 
   - category: bilibili视频
     links:
-    - name: Google Play 获奖佳作
+    - name: B站关注
       style: basic
-      url: https://www.taptap.cn/category/e2609
+      url: https://space.bilibili.com/60110615/fans/follow?tagid=-1
 
     - name: 芒果冰OL
       style: basic
@@ -499,10 +446,24 @@
     - name: indie nova
       style: basic
       url:  https://indienova.com/     
-
-  - category: GO
+      
+  - category: 数值游戏
     links:
+    - name: 源码1
+      style: basic
+      url:  https://gameapps.top/?cat=4     
+      
+    - name: 鸟哥笔记
+      style: basic
+      url:  https://www.niaogebiji.com/
+      
+    - name: app干货铺子
+      style: basic
+      url:  https://www.appganhuo.com/
 
+    - name: 出海笔记
+      style: basic
+      url:  https://www.chuhaibiji.com/
      
   - category: 电影
     links:
