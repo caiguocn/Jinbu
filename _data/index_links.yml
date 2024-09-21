@@ -141,15 +141,6 @@
 
   - category: Unity
     links:
-    - name: Taptap 排行榜
-      icon: google red
-      style: basic
-      url: https://www.taptap.cn/top/download/management?os=ios
-      
-    - name: UEFans
-      style: basic
-      url: http://www.uefans.com
-      
     - name: ET框架
       style: basic
       url: http://etgame.cn/
@@ -170,6 +161,14 @@
       style: basic
       url: http://amplify.pt/unity/amplify-shader-editor/
       
+    - name: Entitas 
+      style: basic
+      url: https://github.com/sschmid/Entitas      
+      
+    - name: 游戏开发-Unity技术框架集合 
+      style: basic
+      url:  https://zhuanlan.zhihu.com/p/630973005 
+
 
   - category: TypeScript
     links:
