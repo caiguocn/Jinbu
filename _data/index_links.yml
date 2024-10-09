@@ -211,6 +211,12 @@
       style: basic
       url: https://github.com/cloudwu/skynet/wiki/LuaAPI
       
+    - name: SkyNet博客
+      icon: google red
+      style: basic
+      url: https://blog.codingnow.com/eo/skynet/
+      
+      
   - category: Cocos Creator
     links:
     - name: cocos商城
