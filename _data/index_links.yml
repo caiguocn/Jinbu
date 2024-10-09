@@ -216,6 +216,31 @@
       style: basic
       url: https://blog.codingnow.com/eo/skynet/
       
+    - name: 菜鸟编程lua
+      icon: google red
+      style: basic
+      url: https://www.runoob.com/lua/lua-data-types.html
+      
+    - name: 菜鸟编程ts
+      icon: google red
+      style: basic
+      url: https://www.runoob.com/typescript/ts-type.html
+      
+    - name: 菜鸟编程go
+      icon: google red
+      style: basic
+      url: https://www.runoob.com/go/go-program-structure.html
+      
+    - name: 菜鸟编程java
+      icon: google red
+      style: basic
+      url: https://www.runoob.com/java/java-basic-syntax.html
+      
+    - name: 菜鸟编程c#
+      icon: google red
+      style: basic
+      url: https://www.runoob.com/csharp/csharp-program-structure.html
+      
       
   - category: Cocos Creator
     links:
