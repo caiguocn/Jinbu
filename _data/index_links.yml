@@ -206,6 +206,11 @@
       style: basic
       url: https://grpc.io/      
       
+    - name: SkyNet
+      icon: google red
+      style: basic
+      url: https://github.com/cloudwu/skynet/wiki/LuaAPI
+      
   - category: Cocos Creator
     links:
     - name: cocos商城
