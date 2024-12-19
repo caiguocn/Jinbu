@@ -68,6 +68,18 @@
       style: basic
       url:   https://www.umeng.com/          
       
+    - name:  点点数据
+      style: basic
+      url:   https://www.diandian.com/            
+      
+    - name:  七麦
+      style: basic
+      url:   https://www.qimai.cn/
+      
+    - name:  sensortower-china
+      style: basic
+      url:   https://sensortower-china.com/zh-cn
+      
     - name:  flurry
       style: basic
       url:   https://www.flurry.com/
