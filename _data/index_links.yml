@@ -56,9 +56,25 @@
       style: basic
       url:  https://developers.google.com/v8/
       
+    - name:  talkingDate
+      style: basic
+      url:   https://www.talkingdata.com/
+      
+    - name:  dataeye
+      style: basic
+      url:   https://www.dataeye.com/   
+      
+    - name:  友盟
+      style: basic
+      url:   https://www.umeng.com/          
+      
+    - name:  flurry
+      style: basic
+      url:   https://www.flurry.com/
+      
     - name:  清博
       style: basic
-      url:   http://www.gsdata.cn/
+      url:   http://www.gsdata.cn/      
       
     - name:  新榜
       style: basic
