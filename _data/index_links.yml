@@ -2,8 +2,12 @@
   categories:
   - category: Taptap
     links:
-    - name: Taptap 排行榜
+    - name: Taptap 今日游戏
       icon: google red
+      style: basic
+      url: https://www.taptap.cn/app-calendar
+      
+    - name: Taptap 排行榜
       style: basic
       url: https://www.taptap.cn/top/download/management?os=ios
       
@@ -425,7 +429,7 @@
 
     - name: 游戏葡萄
       style: basic
-      url: https://youxiputao.com/article.html
+      url: https://youxiputao.com/
 
     - name: 触乐
       style: basic
