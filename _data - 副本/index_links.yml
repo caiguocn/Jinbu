@@ -278,20 +278,6 @@
       style: basic
       url: https://www.runoob.com/csharp/csharp-program-structure.html
       
-    - name: vuejs
-      icon: google red
-      style: basic
-      url: https://cn.vuejs.org/ 
-      
-    - name: vuejs api
-      icon: google red
-      style: basic
-      url: https://cn.vuejs.org/api/options-lifecycle.html
-
-    - name: uni-app
-      icon: google red
-      style: basic
-      url: https://www.dcloud.io/
       
   - category: Cocos Creator
     links:
