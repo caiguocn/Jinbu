@@ -369,29 +369,29 @@
      
     - name: CG快报
       style: basic
-      url:https://space.bilibili.com/1067722283?spm_id_from=333.1391.0.0
+      url: https://space.bilibili.com/1067722283?spm_id_from=333.1391.0.0
       
     - name: 游研社
       style: basic      
-      url:https://space.bilibili.com/31700507?spm_id_from=333.1391.0.0
+      url: https://space.bilibili.com/31700507?spm_id_from=333.1391.0.0
       
     - name: potionc
       style: basic            
-      url:https://space.bilibili.com/361180159?spm_id_from=333.1391.0.0
+      url: https://space.bilibili.com/361180159?spm_id_from=333.1391.0.0
       
     - name: 魔游社M
       style: basic            
-      url:https://space.bilibili.com/387814104?spm_id_from=333.1391.0.0
+      url: https://space.bilibili.com/387814104?spm_id_from=333.1391.0.0
       
     - name: 无氪手游
       style: basic            
-      url:https://space.bilibili.com/478388742?spm_id_from=333.1391.0.0
+      url: https://space.bilibili.com/478388742?spm_id_from=333.1391.0.0
       
     - name: 秦无邪OvO
       style: basic
-      url:  https://space.bilibili.com/335835274?spm_id_from=333.1391.0.0
+      url: https://space.bilibili.com/335835274?spm_id_from=333.1391.0.0
       
-   - name: 苏安安Susanne
+    - name: 苏安安Susanne
       style: basic
       url: https://space.bilibili.com/9463690?spm_id_from=333.1391.0.0
      
