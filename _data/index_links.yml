@@ -363,9 +363,53 @@
       style: basic
       url: https://space.bilibili.com/3546642393335905 
       
+    - name: 欧小糕_
+      style: basic
+      url: https://space.bilibili.com/617381
+     
+    - name: CG快报
+      style: basic
+      url:https://space.bilibili.com/1067722283?spm_id_from=333.1391.0.0
+      
+    - name: 游研社
+      style: basic      
+      url:https://space.bilibili.com/31700507?spm_id_from=333.1391.0.0
+      
+    - name: potionc
+      style: basic            
+      url:https://space.bilibili.com/361180159?spm_id_from=333.1391.0.0
+      
+    - name: 魔游社M
+      style: basic            
+      url:https://space.bilibili.com/387814104?spm_id_from=333.1391.0.0
+      
+    - name: 无氪手游
+      style: basic            
+      url:https://space.bilibili.com/478388742?spm_id_from=333.1391.0.0
+      
+    - name: 秦无邪OvO
+      style: basic
+      url:  https://space.bilibili.com/335835274?spm_id_from=333.1391.0.0
+      
+   - name: 苏安安Susanne
+      style: basic
+      url: https://space.bilibili.com/9463690?spm_id_from=333.1391.0.0
+     
     - name: TGA
       style: basic
       url: https://thegameawards.com/
+      
+    - name: 游戏制作带师-大炜
+      style: basic
+      url: https://space.bilibili.com/423471660?spm_id_from=333.1391.0.0
+      
+    - name: 粉可爱兔宝宝哦
+      style: basic
+      url: https://space.bilibili.com/284607752
+      
+    - name: 粉可爱兔宝宝哦
+      style: basic
+      url: https://space.bilibili.com/241653232?spm_id_from=333.1007.tianma.2-1-4.click 
 
   - category: AI
     links:
