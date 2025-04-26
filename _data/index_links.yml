@@ -407,9 +407,13 @@
       style: basic
       url: https://space.bilibili.com/284607752
       
-    - name: 粉可爱兔宝宝哦
+    - name: 古古怪怪游戏大世界
       style: basic
       url: https://space.bilibili.com/241653232?spm_id_from=333.1007.tianma.2-1-4.click 
+      
+    - name: 独立游戏蜥蜴君
+      style: basic
+      url: https://space.bilibili.com/413703   
 
   - category: AI
     links:
@@ -488,10 +492,6 @@
     - name: 游戏manew
       style: basic
       url: http://www.manew.com/
-
-    - name: 游戏葡萄
-      style: basic
-      url: https://youxiputao.com/
 
     - name: 触乐
       style: basic
