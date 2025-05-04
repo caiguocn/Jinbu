@@ -3,7 +3,6 @@
   - category: Taptap
     links:
     - name: Taptap 今日游戏
-      icon: google red
       style: basic
       url: https://www.taptap.cn/app-calendar
       
@@ -36,20 +35,6 @@
     - name: playboard
       style: basic
       url:  https://playboard.co/en/
-      
-    - name: Google developers开发者
-      icon: android red
-      style: basic
-      url: https://developers.google.com/
-      
-    - name: Android
-      icon: android red
-      style: basic
-      url: https://developer.android.com/index.html
-      
-    - name:  Googleblog博客
-      style: basic
-      url:  https://android-developers.googleblog.com/
       
     - name:  nodejs
       style: basic
@@ -101,22 +86,18 @@
       url:  http://index.dayu.com/
       
     - name:  google trends 趋势
-      icon: google blue
       style: basic
       url:   https://trends.google.com/trends/
       
     - name:  Google Analytics分析
-      icon: google red
       style: basic
       url:   https://analytics.google.com/analytics/web
       
     - name:  Google Search 搜索
-      icon: google red
       style: basic
       url:   https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.quizzesbox.com%2F
       
     - name:  Bing Webmaster
-      icon: google red
       style: basic
       url:  https://www.bing.com/webmaster/home/dashboard?url=https%3A%2F%2Fwww.quizzesbox.com%2F#
       
@@ -137,74 +118,73 @@
       url:   http://www.kolrank.com/
       
     - name:  google广告
-      icon: google red
       style: basic
       url:   https://ads.google.com/intl/zh-CN_cn/home/
       
     - name:  runoob菜鸟教程
-      icon: google red
       style: basic
       url:   http://www.runoob.com/
       
     - name:  w3school学校
-      icon: google red
       style: basic
       url:   http://www.w3school.com.cn/index.html     
       
     - name:  博客园
-      icon: google red
       style: basic
       url:   https://www.cnblogs.com/
       
     - name:  腾讯课堂
-      icon: google red
       style: basic
       url:   https://ke.qq.com/   
       
     - name:  TapTap
-      icon: google red
       style: basic
       url:   https://www.taptap.com/
       
     - name:  AppAnnie
-      icon: google red
       style: basic
       url:   https://www.appannie.com/dashboard/home      
 
   - category: Google Play
     links:
-
+    - name: Google developers开发者
+      icon: android red
+      style: basic
+      url: https://developers.google.com/
+      
+    - name: Android
+      icon: android red
+      style: basic
+      url: https://developer.android.com/index.html
+      
+    - name:  Googleblog博客
+      style: basic
+      url:  https://android-developers.googleblog.com/
 
 
   - category: TypeScript
     links:
     - name: TSRPC
-      icon: google red
       style: basic
       url: https://tsrpc.cn/docs/introduction.html
       
     - name: oops-framework
-      icon: google red
       style: basic
       url: https://gitee.com/dgflash
 
     - name: oops-文档
-      icon: google red
       style: basic
       url: https://gitee.com/dgflash/oops-framework/wikis/pages?sort_id=12033388&doc_id=2873565      
       
     - name: ts-framework
-      icon: google red
       style: basic
       url: https://gitee.com/fengssy   
       
     - name: ECS
-      icon: google red
       style: basic
       url: https://github.com/shangdibaozi/ECS
       
     - name: GRPC IO
-      icon: google red
       style: basic
       url: https://grpc.io/
       
@@ -213,69 +193,48 @@
       url: https://www.tslang.cn/docs/home.html
       
     - name: GRPC IO
-      icon: google red
       style: basic
       url: https://grpc.io/      
       
-    - name: SkyNet
-      icon: google red
-      style: basic
-      url: https://github.com/cloudwu/skynet/wiki/LuaAPI
-      
-    - name: SkyNet博客
-      icon: google red
-      style: basic
-      url: https://blog.codingnow.com/eo/skynet/
-      
     - name: 菜鸟编程lua
-      icon: google red
       style: basic
       url: https://www.runoob.com/lua/lua-data-types.html
       
     - name: 菜鸟编程ts
-      icon: google red
       style: basic
       url: https://www.runoob.com/typescript/ts-type.html
       
     - name: 菜鸟编程go
-      icon: google red
       style: basic
       url: https://www.runoob.com/go/go-program-structure.html
       
     - name: 菜鸟编程java
-      icon: google red
       style: basic
       url: https://www.runoob.com/java/java-basic-syntax.html
       
     - name: 菜鸟编程c#
-      icon: google red
       style: basic
       url: https://www.runoob.com/csharp/csharp-program-structure.html
       
-  - category: Cocos Creator
+  - category: Cocos Creator小游戏
     links:
     - name: cocos商城
-      icon: google red
       style: basic
       url: https://store.cocos.com/app/
       
     - name: Google Publish游戏发布
-      icon: android red
       style: basic
       url: https://play.google.com/apps/publish/      
       
     - name: 小程序后台
-      icon: google red
       style: basic
       url: https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&token=399654236
       
     - name: Facebook开发者后台
-      icon: google red
       style: basic
       url: https://developers.facebook.com/
       
     - name: Apple开发者后台
-      icon: google red
       style: basic
       url: https://developer.apple.com/account#ProgramResourcesCard
       
@@ -616,8 +575,16 @@
       style: basic
       url: https://gameinstitute.qq.com/course
       
-  - category: LUA
+  - category: lua 和 skynet
     links:
+    - name: SkyNet
+      style: basic
+      url: https://github.com/cloudwu/skynet/wiki/LuaAPI
+      
+    - name: SkyNet博客
+      style: basic
+      url: https://blog.codingnow.com/eo/skynet/
+      
     - name: babelua
       style: basic
       url: https://archive.codeplex.com/?p=babelua
@@ -636,12 +603,11 @@
   
     - name: 云风blog
       style: basic
-      url: https://blog.codingnow.com/
+      url: https://blog.codingnow.com/ 
       
   - category: VUE 和uni-app
     links:
     - name: vuejs
-      icon: google red
       style: basic
       url: https://cn.vuejs.org/ 
       
@@ -651,7 +617,6 @@
       url: https://cn.vuejs.org/api/options-lifecycle.html
 
     - name: uni-app
-      icon: google red
       style: basic
       url: https://www.dcloud.io/
       
@@ -669,13 +634,6 @@
       style: basic
       url: https://jarontai.github.io/dart-souls/language/basics.html
 
-  - category: Skynet
-    links:
-    - name: Skynet
-      style: basic
-      url: https://github.com/cloudwu/skynet
-      
-      
   - category: NodeJs
     links:
     - name: nodejs.org官网
