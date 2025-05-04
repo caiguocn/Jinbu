@@ -171,35 +171,9 @@
       style: basic
       url:   https://www.appannie.com/dashboard/home      
 
-  - category: Unity
+  - category: Google Play
     links:
-    - name: ET框架
-      style: basic
-      url: http://etgame.cn/
-      
-    - name: Gameframework
-      style: basic
-      url: https://gameframework.cn/ 
-      
-    - name: Unity文档
-      style: basic
-      url: https://docs.unity.cn/cn/current/Manual/index.html     
-      
-    - name: store unity 
-      style: basic
-      url: https://assetstore.unity.com/?locale=zh_CN&force=true  
-      
-    - name: AES
-      style: basic
-      url: http://amplify.pt/unity/amplify-shader-editor/
-      
-    - name: Entitas 
-      style: basic
-      url: https://github.com/sschmid/Entitas      
-      
-    - name: 游戏开发-Unity技术框架集合 
-      style: basic
-      url:  https://zhuanlan.zhihu.com/p/630973005 
+
 
 
   - category: TypeScript
@@ -277,21 +251,6 @@
       icon: google red
       style: basic
       url: https://www.runoob.com/csharp/csharp-program-structure.html
-      
-    - name: vuejs
-      icon: google red
-      style: basic
-      url: https://cn.vuejs.org/ 
-      
-    - name: vuejs api
-      icon: google red
-      style: basic
-      url: https://cn.vuejs.org/api/options-lifecycle.html
-
-    - name: uni-app
-      icon: google red
-      style: basic
-      url: https://www.dcloud.io/
       
   - category: Cocos Creator
     links:
@@ -629,10 +588,6 @@
       style: basic
       url: https://gitstar-ranking.com/
       
-    - name: Unity脚本API
-      style: basic
-      url: https://docs.unity.cn/cn/2021.1/ScriptReference/
-
     - name: segmentfault
       style: basic
       url: https://segmentfault.com/t/c%23  
@@ -683,7 +638,24 @@
       style: basic
       url: https://blog.codingnow.com/
       
-  - category: Flutter
+  - category: VUE 和uni-app
+    links:
+    - name: vuejs
+      icon: google red
+      style: basic
+      url: https://cn.vuejs.org/ 
+      
+    - name: vuejs api
+      icon: google red
+      style: basic
+      url: https://cn.vuejs.org/api/options-lifecycle.html
+
+    - name: uni-app
+      icon: google red
+      style: basic
+      url: https://www.dcloud.io/
+      
+  - category: Flutter 和Dart
     links:
     - name: Flutter.cn
       style: basic
@@ -739,6 +711,65 @@
     - name: python org 
       style: basic
       url: https://www.python.org/    
+
+  - category: Unity
+    links:
+    - name: ET框架
+      style: basic
+      url: http://etgame.cn/
+      
+    - name: Gameframework
+      style: basic
+      url: https://gameframework.cn/ 
+      
+    - name: Unity文档
+      style: basic
+      url: https://docs.unity.cn/cn/current/Manual/index.html     
+      
+    - name: store unity 
+      style: basic
+      url: https://assetstore.unity.com/?locale=zh_CN&force=true  
+      
+    - name: AES
+      style: basic
+      url: http://amplify.pt/unity/amplify-shader-editor/
+      
+    - name: Entitas 
+      style: basic
+      url: https://github.com/sschmid/Entitas      
+      
+    - name: 游戏开发-Unity技术框架集合 
+      style: basic
+      url:  https://zhuanlan.zhihu.com/p/630973005 
+      
+    - name: unity3d learn
+      style: basic
+      url: https://unity3d.com/cn/learn
+
+    - name: Documentation
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/Manual/
+
+    - name: Script API
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/ScriptReference/index.html
+
+    - name: 凉鞋的笔记
+      style: basic
+      url: https://liangxiegame.com/welcome
+      
+    - name: cnblog unity
+      style: basic
+      url: https://zzk.cnblogs.com/s/blogpost?Keywords=unity&pageindex=2
+      
+    - name: 嘉栋cnblog
+      style: basic
+      url: https://www.cnblogs.com/murongxiaopifu/category/635853.html 
+      
+
+
+- section: 综合
+  categories:
       
   - category: 原画
     links:
@@ -819,43 +850,7 @@
       
     - name:  3D工具 
       style: basic
-      url:   https://3dtotal.com/    
-
-
-  - category: Unity
-    links:
-    - name: unity3d learn
-      style: basic
-      url: https://unity3d.com/cn/learn
-
-    - name: Documentation
-      style: basic
-      url: https://docs.unity3d.com/2017.1/Documentation/Manual/
-
-    - name: Script API
-      style: basic
-      url: https://docs.unity3d.com/2017.1/Documentation/ScriptReference/index.html
-
-    - name: 蛮牛
-      style: basic
-      url: http://edu.manew.com/course/explore?fliter%5Btype%5D=all&fliter%5Bprice%5D=free&fliter%5BcurrentLevelId%5D=all&orderBy=studentNum%E2%80%9D
-      
-    - name: 凉鞋的笔记
-      style: basic
-      url: https://liangxiegame.com/welcome
-      
-    - name: cnblog unity
-      style: basic
-      url: https://zzk.cnblogs.com/s/blogpost?Keywords=unity&pageindex=2
-      
-    - name: 凉鞋cnblog
-      style: basic
-      url: https://www.cnblogs.com/liangxiegame/tag/C%23/
-      
-    - name: 嘉栋cnblog
-      style: basic
-      url: https://www.cnblogs.com/murongxiaopifu/category/635853.html 
-      
+      url:   https://3dtotal.com/      
 
   - category: 论坛
     links:
@@ -960,10 +955,7 @@
     - name: 今日推荐
       style: basic
       url: http://so.csdn.net/so/search/s.do?q=%E4%BB%8A%E6%97%A5%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8E%A8%E8%8D%90&t=blog
-
-
-- section: 综合
-  categories:
+  
 
   - category: 前端
     links:
