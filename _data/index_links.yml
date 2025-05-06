@@ -332,6 +332,10 @@
     - name: 独立游戏蜥蜴君
       style: basic
       url: https://space.bilibili.com/413703   
+      
+    - name: 导演BK
+      style: basic
+      url: https://space.bilibili.com/10500463      
 
   - category: AI
     links:
@@ -575,6 +579,61 @@
       style: basic
       url: https://gameinstitute.qq.com/course
       
+
+  - category: Unity
+    links:
+    - name: ET框架
+      style: basic
+      url: http://etgame.cn/
+      
+    - name: Gameframework
+      style: basic
+      url: https://gameframework.cn/ 
+      
+    - name: Unity文档
+      style: basic
+      url: https://docs.unity.cn/cn/current/Manual/index.html     
+      
+    - name: store unity 
+      style: basic
+      url: https://assetstore.unity.com/?locale=zh_CN&force=true  
+      
+    - name: AES
+      style: basic
+      url: http://amplify.pt/unity/amplify-shader-editor/
+      
+    - name: Entitas 
+      style: basic
+      url: https://github.com/sschmid/Entitas      
+      
+    - name: 游戏开发-Unity技术框架集合 
+      style: basic
+      url:  https://zhuanlan.zhihu.com/p/630973005 
+      
+    - name: unity3d learn
+      style: basic
+      url: https://unity3d.com/cn/learn
+
+    - name: Documentation
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/Manual/
+
+    - name: Script API
+      style: basic
+      url: https://docs.unity3d.com/2017.1/Documentation/ScriptReference/index.html
+
+    - name: 凉鞋的笔记
+      style: basic
+      url: https://liangxiegame.com/welcome
+      
+    - name: cnblog unity
+      style: basic
+      url: https://zzk.cnblogs.com/s/blogpost?Keywords=unity&pageindex=2
+      
+    - name: 嘉栋cnblog
+      style: basic
+      url: https://www.cnblogs.com/murongxiaopifu/category/635853.html 
+            
   - category: lua 和 skynet
     links:
     - name: SkyNet
@@ -670,61 +729,19 @@
       style: basic
       url: https://www.python.org/    
 
-  - category: Unity
+  - category: 编辑器
     links:
-    - name: ET框架
+    - name:  Y3编辑器
       style: basic
-      url: http://etgame.cn/
-      
-    - name: Gameframework
-      style: basic
-      url: https://gameframework.cn/ 
-      
-    - name: Unity文档
-      style: basic
-      url: https://docs.unity.cn/cn/current/Manual/index.html     
-      
-    - name: store unity 
-      style: basic
-      url: https://assetstore.unity.com/?locale=zh_CN&force=true  
-      
-    - name: AES
-      style: basic
-      url: http://amplify.pt/unity/amplify-shader-editor/
-      
-    - name: Entitas 
-      style: basic
-      url: https://github.com/sschmid/Entitas      
-      
-    - name: 游戏开发-Unity技术框架集合 
-      style: basic
-      url:  https://zhuanlan.zhihu.com/p/630973005 
-      
-    - name: unity3d learn
-      style: basic
-      url: https://unity3d.com/cn/learn
+      url:   https://163.com/y3/
 
-    - name: Documentation
+    - name:  星火编辑器
       style: basic
-      url: https://docs.unity3d.com/2017.1/Documentation/Manual/
-
-    - name: Script API
-      style: basic
-      url: https://docs.unity3d.com/2017.1/Documentation/ScriptReference/index.html
-
-    - name: 凉鞋的笔记
-      style: basic
-      url: https://liangxiegame.com/welcome
+      url:   http://fc.spark.xd.com/
       
-    - name: cnblog unity
+    - name:  轻游梦工坊
       style: basic
-      url: https://zzk.cnblogs.com/s/blogpost?Keywords=unity&pageindex=2
-      
-    - name: 嘉栋cnblog
-      style: basic
-      url: https://www.cnblogs.com/murongxiaopifu/category/635853.html 
-      
-
+      url:   https://dream.qq.com/
 
 - section: 综合
   categories:
