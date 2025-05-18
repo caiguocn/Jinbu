@@ -692,6 +692,25 @@
     - name: Dart之魂
       style: basic
       url: https://jarontai.github.io/dart-souls/language/basics.html
+      
+  - category: Kotlin
+    links:
+    - name: Kotlin 
+      style: basic
+      url: https://kotlinlang.org/
+      
+    - name: Kotlin Android
+      style: basic
+      url: https://developer.android.google.cn/kotlin?hl=zh-cn
+      
+    - name: Kotlin CN
+      style: basic
+      url: https://www.kotlincn.net/
+      
+    - name: Jetpack Compose
+      style: basic
+      url: https://developer.android.google.cn/develop/ui/?hl=zh-cn
+     
 
   - category: NodeJs
     links:
