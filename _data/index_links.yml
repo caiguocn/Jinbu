@@ -598,6 +598,22 @@
       style: basic
       url: https://assetstore.unity.com/?locale=zh_CN&force=true  
       
+    - name: 中国 unity 
+      style: basic
+      url: https://learn.u3d.cn/
+      
+    - name: 中国 unity 云服务
+      style: basic
+      url: https://uos.unity.cn/doc
+      
+    - name: Sasha Gorodiski youtube
+      style: basic
+      url: https://www.youtube.com/@sasha.gorodiski/playlists
+      
+    - name: Code Monkey youtube
+      style: basic
+      url: https://www.youtube.com/@CodeMonkeyUnity      
+      
     - name: AES
       style: basic
       url: http://amplify.pt/unity/amplify-shader-editor/
@@ -2115,39 +2131,7 @@
       
     - name:  顺网科技
       style: basic
-      url:   https://www.mihayo.com/         
-
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/       
-      
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/       
-      
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/       
-      
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/       
-      
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/       
-      
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/       
-      
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/       
-      
-    - name:  顺网科技
-      style: basic
-      url:   https://www.mihayo.com/                                                                    
+      url:   https://www.mihayo.com/                                                                          
 
     - name:  心动网络
       style: basic
