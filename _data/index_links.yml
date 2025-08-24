@@ -340,6 +340,10 @@
     - name: 石老怪
       style: basic
       url: https://space.bilibili.com/303825600?spm_id_from=333.337.search-card.all.click
+      
+    - name: 岛由
+      style: basic
+      url: https://space.bilibili.com/31054493?spm_id_from=333.788.upinfo.detail.click
 
   - category: AI
     links:
