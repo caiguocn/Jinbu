@@ -849,8 +849,44 @@
       url:  https://www.gracg.com/    
 
 
-  - category: 游戏美术资源
+  - category: 美术资源
     links:
+    - name:  fab
+      style: basic
+      url:  https://www.fab.com
+      
+    - name:  itch.io
+      style: basic
+      url:  https://itch.io/game-assets
+      
+    - name:  game art
+      style: basic
+      url:  https://opengameart.org
+      
+    - name:  sketchfab模型
+      style: basic
+      url:  https://sketchfab.com
+      
+    - name:  mixamo.com
+      style: basic
+      url:  https://mixamo.com
+      
+    - name:  polyhaven.com
+      style: basic
+      url:  https://polyhaven.com
+      
+    - name:  icons8.com
+      style: basic
+      url:  https://icons8.com
+      
+    - name:  配色
+      style: basic
+      url:  https://colorhunt.co
+      
+    - name:  jundagame导航
+      style: basic
+      url:  https://jundagame.top
+      
     - name:  Pixiv日本
       style: basic
       url:  https://www.pixiv.net/
