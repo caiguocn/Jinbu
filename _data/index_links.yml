@@ -533,11 +533,19 @@
     links:
     - name: 剧迷ai
       style: basic
+      url: https://gimytv.co/
+      
+    - name: 剧迷ai
+      style: basic
       url: https://gimytv.ai/
 
     - name: 剧迷video
       style: basic
       url: https://gimy.video/
+      
+    - name: 剧迷video
+      style: basic
+      url: https://gimyv.com/
       
     - name: 剧迷news
       style: basic
