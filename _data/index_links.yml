@@ -799,21 +799,7 @@
 
     - name: python org 
       style: basic
-      url: https://www.python.org/    
-
-  - category: 编辑器
-    links:
-    - name:  Y3编辑器
-      style: basic
-      url:   https://163.com/y3/
-
-    - name:  星火编辑器
-      style: basic
-      url:   http://fc.spark.xd.com/
-      
-    - name:  轻游梦工坊
-      style: basic
-      url:   https://dream.qq.com/
+      url: https://www.python.org/
 
 - section: 综合
   categories:
